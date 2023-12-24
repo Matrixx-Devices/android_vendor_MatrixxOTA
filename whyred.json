@@ -4,13 +4,12 @@
         "maintainer": "ARIJIT-SAHA",
         "oem": "Xiaomi",
         "device": "whyred",
-        "filename": "Matrixx-v10.1-Official-whyred-Gapps-20231221.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/Matrixx-v10.1-Official-whyred-Gapps-20231221.zip/download",
-        "timestamp": 1703133386,
-        "md5": "130e48db939d5a7a644e8aba1573e5e6",
+        "filename": "Matrixx-v10.11-Official-whyred-Gapps-20231223.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/Matrixx-v10.11-Official-whyred-Gapps-20231223.zip/download",
+        "timestamp": 1703350364,
+        "md5": "4be2eedc8036a479a7c3f757ee2cc5dc",
         "size": 1675774797,
-        "version": "v10.1"
+        "version": "v10.11"
     }
   ]
 }
-
