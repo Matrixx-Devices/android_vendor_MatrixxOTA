@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "mukesh22584",
+        "oem": "OnePlus",
+        "device": "hotdog",
+        "filename": "Matrixx-v10.1.2-Official-hotdog-Gapps-20231226.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hotdog/Matrixx-v10.1.2-Official-hotdog-Gapps-20231226.zip/download",
+        "timestamp": 1703588925,
+        "md5": "c10f69e8d725f31cc55503f6993a9949",
+        "size": 1338103523,
+        "version": "v10.1.2"
+    }
+  ]
+}
