@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Rinto",
+        "oem": "Realme",
+        "device": "RMX2020",
+        "filename": "Matrixx-v10.1.2-Official-RMX2020-Gapps-20231227.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/RMX2020/Matrixx-v10.1.2-Official-RMX2020-Gapps-20231227.zip/download",
+        "timestamp": 1703689510,
+        "md5": "33c5b335fe807f8898cfa7399db6fa04",
+        "size": 1489257705,
+        "version": "v10.1.2"
+    }
+  ]
+}
