@@ -4,12 +4,12 @@
         "maintainer": "KSSRAO",
         "oem": "Xiaomi",
         "device": "marble",
-        "filename": "Matrixx-v10.1.2-Official-marble-Gapps-20231227.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.1.2-Official-marble-Gapps-20231227.zip/download",
-        "timestamp": 1703673744,
-        "md5": "d8d9c06a1408749e7c64f8d4d43286ba",
-        "size": 2094375851,
-        "version": "v10.1.2"
+        "filename": "Matrixx-v10.2.0-Official-marble-Gapps-20240110.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.2.0-Official-marble-Gapps-20240110.zip/download",
+        "timestamp": 1704923476,
+        "md5": "c482ddc8e42e8966dae6c19b93e5273f",
+        "size": 2106474567,
+        "version": "v10.2.0"
     }
   ]
 }
