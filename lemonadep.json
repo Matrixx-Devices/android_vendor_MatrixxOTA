@@ -4,12 +4,12 @@
         "maintainer": "mukesh22584",
         "oem": "OnePlus",
         "device": "lemonadep",
-        "filename": "Matrixx-v10.1.2-Official-lemonadep-Gapps-20231226.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.1.2-Official-lemonadep-Gapps-20231226.zip/download",
-        "timestamp": 1703579541,
-        "md5": "d8c281746aac569aff6bb08e63c4c1dc",
-        "size": 1869947078,
-        "version": "v10.1.2"
+        "filename": "Matrixx-v10.2.0-Official-lemonadep-Gapps-20240111.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.2.0-Official-lemonadep-Gapps-20240111.zip/download",
+        "timestamp": 1704947380,
+        "md5": "ad7a602fe08da3a1fb50023204dba415",
+        "size": 1886479592,
+        "version": "v10.2.0"
     }
   ]
 }
