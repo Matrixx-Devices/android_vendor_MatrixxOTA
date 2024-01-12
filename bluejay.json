@@ -4,12 +4,12 @@
         "maintainer": "EinarG.",
         "oem": "Google",
         "device": "Pixel 6a",
-        "filename": "Matrixx-v10.1-Official-bluejay-Gapps-20231222.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bluejay/Matrixx-v10.1-Official-bluejay-Gapps-20231222.zip/download",
-        "timestamp": 1703252766,
-        "md5": "a2cfb571d7895a09a3cf498a056185b5",
-        "size": 1602292347,
-        "version": "v10.1"
+        "filename": "Matrixx-v10.2.0-Official-bluejay-Gapps-20240110.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bluejay/Matrixx-v10.2.0-Official-bluejay-Gapps-20240110.zip/download",
+        "timestamp": 1704919904,
+        "md5": "eba794267f27bf693d66a60cce822df9",
+        "size": 1801266979,
+        "version": "v10.2.0"
     }
   ]
 }
