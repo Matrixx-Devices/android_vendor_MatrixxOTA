@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "IczYn",
+        "oem": "motorola",
+        "device": "rhodep",
+        "filename": "Matrixx-v10.2.0-Official-rhodep-Gapps-20240118.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhodep/Matrixx-v10.2.0-Official-rhodep-Gapps-20240118.zip/download",
+        "timestamp": 1705562920,
+        "md5": "d2ec7cc944cb2bd06d0210d2c1de7df2",
+        "size": 1664975163,
+        "version": "v10.2.0"
+    }
+  ]
+}
