@@ -24,8 +24,9 @@ In order for a device to be OTA compliant, there are a few things to know.
 }
 ```
 ### Generate JSON
-- JSON file wii be generated automatically into ```vendor/MatrixxOTA```
-- Just add, commit and push
+- JSON file will be generated automatically into ```vendor/MatrixxOTA```
+- Move your device JSON file into gapps/vanila dir (As per your build variant)
+- Now commit and push
 
 ### Add changelog link
 - Add your device changelog path in your device overlay:
