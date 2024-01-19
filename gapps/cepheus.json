@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "G.H.O.S.T",
+        "oem": "",
+        "device": "cepheus",
+        "filename": "Matrixx-v10.2.0-Official-cepheus-Gapps-20240119.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cepheus/Matrixx-v10.2.0-Official-cepheus-Gapps-20240119.zip/download",
+        "timestamp": 1705680252,
+        "md5": "9ec5a42248bbb19f35c225eb39aba075",
+        "size": 1685301031,
+        "version": "v10.2.0"
+    }
+  ]
+}
