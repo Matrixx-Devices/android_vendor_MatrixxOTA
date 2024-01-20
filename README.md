@@ -25,7 +25,7 @@ In order for a device to be OTA compliant, there are a few things to know.
 ```
 ### Generate JSON
 - JSON file will be generated automatically into ```vendor/MatrixxOTA```
-- Move your device JSON file into gapps/vanila dir (As per your build variant)
+- If building vanila build then move your device JSON file into vanila dir
 - Now commit and push
 
 ### Add changelog link
