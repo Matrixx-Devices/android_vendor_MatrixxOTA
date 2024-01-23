@@ -4,12 +4,12 @@
         "maintainer": "Mrick343",
         "oem": "OnePlus",
         "device": "martini",
-        "filename": "Matrixx-v10.1.2-Official-martini-Gapps-20231230.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/Matrixx-v10.1.2-Official-martini-Gapps-20231230.zip/download",
-        "timestamp": 1703955243,
-        "md5": "9668ac893a3263fcca95f520e2599737",
-        "size": 2038621568,
-        "version": "v10.1.2"
+        "filename": "Matrixx-v10.2.1-Official-martini-Gapps-20240123.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/Matrixx-v10.2.1-Official-martini-Gapps-20240123.zip/download",
+        "timestamp": 1705993741,
+        "md5": "7a02df035b9e1d98cb19c1d37a16e12a",
+        "size": 2019259323,
+        "version": "v10.2.1"
     }
   ]
 }
