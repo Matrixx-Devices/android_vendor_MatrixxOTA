@@ -4,12 +4,12 @@
         "maintainer": "twinchin96",
         "oem": "OnePlus",
         "device": "instantnoodle",
-        "filename": "Matrixx-v10.2.0-OFFICIAL-instantnoodle-Gapps-20240111.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/instantnoodle/Matrixx-v10.2.0-OFFICIAL-instantnoodle-Gapps-20240111.zip/download",
-        "timestamp": 1705001884,
-        "md5": "8ad3c4f9b490d6c4c5e30545ab7a7dc0",
-        "size": 1538427437,
-        "version": "v10.2.0"
+        "filename": "Matrixx-v10.2.1-OFFICIAL-instantnoodle-Gapps-20240123.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/instantnoodle/Matrixx-v10.2.1-OFFICIAL-instantnoodle-Gapps-20240123.zip/download",
+        "timestamp": 1706000476,
+        "md5": "32c18e3269762b6e76126c280cc451f6",
+        "size": 1636392863,
+        "version": "v10.2.1"
     }
   ]
 }
