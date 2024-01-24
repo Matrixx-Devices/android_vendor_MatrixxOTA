@@ -4,12 +4,12 @@
         "maintainer": "KSSRAO",
         "oem": "Xiaomi",
         "device": "marble",
-        "filename": "Matrixx-v10.2.1-Official-marble-Vanilla-20240122.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.2.1-Official-marble-Vanilla-20240122.zip/download",
-        "timestamp": 1705895962,
-        "md5": "77b0c2169ee9a151ff3a0e4dcfa6cdc1",
-        "size": 1829050867,
-        "version": "v10.2.1"
+        "filename": "Matrixx-v10.2.1-Hotfix-Official-marble-Vanilla-20240124.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.2.1-Hotfix-Official-marble-Vanilla-20240124.zip/download",
+        "timestamp": 1706100945,
+        "md5": "75960eb63668bf763236935f5a85ea8c",
+        "size": 1828994715,
+        "version": "v10.2.1-Hotfix"
     }
   ]
 }
