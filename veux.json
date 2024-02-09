@@ -4,12 +4,12 @@
         "maintainer": "AswinOP",
         "oem": "Xiaomi",
         "device": "veux/peux",
-        "filename": "Matrixx-v10.2.1-Official-veux-Gapps-20240121.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/Matrixx-v10.2.1-Official-veux-Gapps-20240121.zip/download",
-        "timestamp": 1705805385,
-        "md5": "c5d6916ba36facc35f481b8500bc28bd",
-        "size": 1563736019,
-        "version": "v10.2.1"
+        "filename": "Matrixx-v10.3.0-Official-veux-Gapps-20240209.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/Matrixx-v10.3.0-Official-veux-Gapps-20240209.zip/download",
+        "timestamp": 1707446823,
+        "md5": "c9467dfbf9914f31d3ad56fad50bbd0c",
+        "size": 1576248392,
+        "version": "v10.3.0"
     }
   ]
 }
