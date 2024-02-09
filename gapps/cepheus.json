@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "G.H.O.S.T",
+        "maintainer": "",
         "oem": "",
-        "device": "cepheus",
-        "filename": "Matrixx-v10.2.0-Official-cepheus-Gapps-20240119.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cepheus/Matrixx-v10.2.0-Official-cepheus-Gapps-20240119.zip/download",
-        "timestamp": 1705680252,
-        "md5": "9ec5a42248bbb19f35c225eb39aba075",
-        "size": 1685301031,
-        "version": "v10.2.0"
+        "device": "",
+        "filename": "Matrixx-v10.3.0-Official-cepheus-Gapps-20240210.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cepheus/Matrixx-v10.3.0-Official-cepheus-Gapps-20240210.zip/download",
+        "timestamp": 1707506205,
+        "md5": "3b68898c54a947a5acef070310b26997",
+        "size": 1853655309,
+        "version": "v10.3.0"
     }
   ]
 }
