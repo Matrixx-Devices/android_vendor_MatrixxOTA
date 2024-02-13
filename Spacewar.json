@@ -4,12 +4,12 @@
         "maintainer": "twinchin96",
         "oem": "Nothing",
         "device": "Spacewar",
-        "filename": "Matrixx-v10.2.1-OFFICIAL-Spacewar-Gapps-20240123.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/Spacewar/Matrixx-v10.2.1-OFFICIAL-Spacewar-Gapps-20240123.zip/download",
-        "timestamp": 1706040977,
-        "md5": "ce64ceec18b0c46acc12e15dc8342c97",
-        "size": 1788157283,
-        "version": "v10.2.1"
+        "filename": "Matrixx-v10.3.0-OFFICIAL-Spacewar-Gapps-20240213.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/Spacewar/Matrixx-v10.3.0-OFFICIAL-Spacewar-Gapps-20240213.zip/download",
+        "timestamp": 1707821828,
+        "md5": "96bb37e891f99620edf9dc0c6ac51f73",
+        "size": 1894177646,
+        "version": "v10.3.0"
     }
   ]
 }

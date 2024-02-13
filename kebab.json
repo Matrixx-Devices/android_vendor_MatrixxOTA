@@ -4,12 +4,12 @@
         "maintainer": "twinchin96",
         "oem": "OnePlus",
         "device": "kebab",
-        "filename": "Matrixx-v10.2.1-OFFICIAL-kebab-Gapps-20240123.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/kebab/Matrixx-v10.2.1-OFFICIAL-kebab-Gapps-20240123.zip/download",
-        "timestamp": 1706018855,
-        "md5": "c1786d374b4618c3c19484cca4f9d9c4",
-        "size": 1554225522,
-        "version": "v10.2.1"
+        "filename": "Matrixx-v10.3.0-OFFICIAL-kebab-Gapps-20240212.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/kebab/Matrixx-v10.3.0-OFFICIAL-kebab-Gapps-20240212.zip/download",
+        "timestamp": 1707757141,
+        "md5": "392c18db3c952f712d55289ec4aea623",
+        "size": 1707656173,
+        "version": "v10.3.0"
     }
   ]
 }
