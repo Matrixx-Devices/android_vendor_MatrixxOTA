@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Pyrtle93",
+        "oem": "Google",
+        "device": "panther",
+        "filename": "Matrixx-v10.3.0-Official-panther-Gapps-20240213-fastboot.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.3.0-Official-panther-Gapps-20240213-fastboot.zip/download",
+        "timestamp": 1707846011,
+        "md5": "68097debfdcbe861581671faf85ea2ad",
+        "size": 3073421383,
+        "version": "v10.3.0"
+    }
+  ]
+}
