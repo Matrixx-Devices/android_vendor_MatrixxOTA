@@ -4,13 +4,12 @@
         "maintainer": "obito_svha",
         "oem": "Xiaomi",
         "device": "sakura",
-        "filename": "Matrixx-v10.2.0-Official-sakura-Gapps-20240117.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.2.0-Official-sakura-Gapps-20240117.zip/download",
-        "timestamp": 1705471561,
-        "md5": "127ea0eb9be60455337ae229ff57d991",
-        "size": 1265480912,
-        "version": "v10.2.0"
+        "filename": "Matrixx-v10.3.0-Official-sakura-Gapps-20240214.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.3.0-Official-sakura-Gapps-20240214.zip/download",
+        "timestamp": 1707922924,
+        "md5": "864d8b5852ec2767550758171f344dc3",
+        "size": 1269135303,
+        "version": "v10.3.0"
     }
   ]
 }
-
