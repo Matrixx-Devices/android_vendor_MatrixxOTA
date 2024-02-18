@@ -4,12 +4,12 @@
         "maintainer": "sayann70",
         "oem": "Xiaomi",
         "device": "spes",
-        "filename": "Matrixx-v10.2.1-Official-spes-Gapps-20240124.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/spes/Matrixx-v10.2.1-Official-spes-Gapps-20240124.zip/download",
-        "timestamp": 1706073368,
-        "md5": "8e61d52b138f0c38abb8d0a236ccce1d",
-        "size": 1547482580,
-        "version": "v10.2.1"
+        "filename": "Matrixx-v10.3.0-Official-spes-Gapps-20240217.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/spes/Matrixx-v10.3.0-Official-spes-Gapps-20240217.zip/download",
+        "timestamp": 1708179558,
+        "md5": "7b67d17fbdf6efb15a66724a5fecc0a8",
+        "size": 1556967046,
+        "version": "v10.3.0"
     }
   ]
 }
