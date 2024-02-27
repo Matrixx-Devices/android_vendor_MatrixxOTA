@@ -4,11 +4,11 @@
         "maintainer": "obito_svha",
         "oem": "Xiaomi",
         "device": "sakura",
-        "filename": "Matrixx-v10.3.0-Official-sakura-Vanilla-20240214.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.3.0-Official-sakura-Vanilla-20240214.zip/download",
-        "timestamp": 1707915741,
-        "md5": "ad2c7f7725d3c1be87571abed84ae54a",
-        "size": 1029229046,
+        "filename": "Matrixx-v10.3.0-Official-sakura-Vanilla-20240227.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.3.0-Official-sakura-Vanilla-20240227.zip/download",
+        "timestamp": 1709008504,
+        "md5": "d6c09d413c63abae79a61b8f33f355af",
+        "size": 1033327369,
         "version": "v10.3.0"
     }
   ]
