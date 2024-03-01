@@ -4,12 +4,13 @@
         "maintainer": "Pyrtle93",
         "oem": "Google",
         "device": "cheetah",
-        "filename": "Matrixx-v10.3.0-Official-cheetah-Gapps-20240213-fastboot.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.3.0-Official-cheetah-Gapps-20240213-fastboot.zip/download",
-        "timestamp": 1707837894,
-        "md5": "79cbde1e6f5b70a0626fdee4d57be08c",
-        "size": 3075612581,
+        "filename": "Matrixx-v10.3.0-Official-cheetah-Gapps-20240301.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.3.0-Official-cheetah-Gapps-20240301.zip/download",
+        "timestamp": 1709252185,
+        "md5": "f6ef1bef2bcea09cf550d9b5d4784f8a",
+        "size": 2604419835,
         "version": "v10.3.0"
     }
   ]
 }
+
