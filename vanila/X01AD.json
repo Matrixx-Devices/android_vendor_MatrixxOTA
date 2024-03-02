@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "AssunZain",
+        "oem": "asus",
+        "device": "X01AD",
+        "filename": "Matrixx-v10.3.0-OFFICIAL-X01AD-Vanilla-20240218.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/X01AD/Matrixx-v10.3.0-OFFICIAL-X01AD-Vanilla-20240218.zip/download",
+        "timestamp": 1708342617,
+        "md5": "d39df48ed172ea7becaa9e71091d09bc",
+        "size": 1101111000,
+        "version": "v10.3.0"
+    }
+  ]
+}
