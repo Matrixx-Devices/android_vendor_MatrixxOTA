@@ -4,12 +4,12 @@
         "maintainer": "Jay",
         "oem": "motorola",
         "device": "Moto G52",
-        "filename": "Matrixx-v10.2.0-Official-rhode-Gapps-20240113.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhode/Matrixx-v10.2.0-Official-rhode-Gapps-20240113.zip/download",
-        "timestamp": 1705121980,
-        "md5": "ad25844aa3e0dd5cbbf57b7c6b9eb655",
-        "size": 1283770031,
-        "version": "v10.2.0"
+        "filename": "Matrixx-v10.3.0-Official-rhode-Gapps-20240302.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhode/Matrixx-v10.3.0-Official-rhode-Gapps-20240302.zip/download",
+        "timestamp": 1709402104,
+        "md5": "e1703f12dd66a4e7c332e98a8fc285ac",
+        "size": 1315915018,
+        "version": "v10.3.0"
     }
   ]
 }
