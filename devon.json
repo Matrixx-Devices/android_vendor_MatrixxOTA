@@ -4,12 +4,12 @@
         "maintainer": "Jay",
         "oem": "motorola",
         "device": "Moto G32",
-        "filename": "Matrixx-v10.2.0-Official-devon-Gapps-20240111.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/devon/Matrixx-v10.2.0-Official-devon-Gapps-20240111.zip/download",
-        "timestamp": 1704952503,
-        "md5": "dbf35069855b759faf33bac9965d0bdf",
-        "size": 1225930437,
-        "version": "v10.2.0"
+        "filename": "Matrixx-v10.3.0-Official-devon-Gapps-20240302.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/devon/Matrixx-v10.3.0-Official-devon-Gapps-20240302.zip/download",
+        "timestamp": 1709403146,
+        "md5": "c6f15709cc03953c00cf8696ff246146",
+        "size": 1317662123,
+        "version": "v10.3.0"
     }
   ]
 }
