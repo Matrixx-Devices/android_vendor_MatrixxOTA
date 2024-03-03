@@ -4,12 +4,12 @@
         "maintainer": "Jay",
         "oem": "motorola",
         "device": "Moto G42",
-        "filename": "Matrixx-v10.2.0-Official-hawao-Gapps-20240113.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hawao/Matrixx-v10.2.0-Official-hawao-Gapps-20240113.zip/download",
-        "timestamp": 1705132056,
-        "md5": "f36c35f412894f7734d14bfa97d06774",
-        "size": 1281523797,
-        "version": "v10.2.0"
+        "filename": "Matrixx-v10.3.0-Official-hawao-Gapps-20240303.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hawao/Matrixx-v10.3.0-Official-hawao-Gapps-20240303.zip/download",
+        "timestamp": 1709443443,
+        "md5": "9ec53961307d5676f2f4405c70fd9046",
+        "size": 1313790921,
+        "version": "v10.3.0"
     }
   ]
 }
