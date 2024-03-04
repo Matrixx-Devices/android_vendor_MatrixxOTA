@@ -4,11 +4,12 @@
         "maintainer": "ARIJIT-SAHA",
         "oem": "Xiaomi",
         "device": "stone",
-        "filename": "Matrixx-v10.3.0-Official-stone-Gapps-20240302.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/Matrixx-v10.3.0-Official-stone-Gapps-20240302.zip/download",
-        "timestamp": 1709370012,
-        "md5": "496c08943cbcb89b1413030ee3a8bd6f",
-        "size": 1522599555,
+        "device_name": "",
+        "filename": "Matrixx-v10.3.0-Official-stone-Gapps-20240304.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/Matrixx-v10.3.0-Official-stone-Gapps-20240304.zip/download",
+        "timestamp": 1709526327,
+        "md5": "80c5d3bcbb8aa990bc5f67e14e7df8e9",
+        "size": 1522821794,
         "version": "v10.3.0"
     }
   ]
