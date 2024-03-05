@@ -3,12 +3,13 @@
     {
         "maintainer": "Pyrtle93",
         "oem": "Google",
-        "device": "cheetah",
-        "filename": "Matrixx-v10.3.0-Official-cheetah-Gapps-20240301.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.3.0-Official-cheetah-Gapps-20240301.zip/download",
-        "timestamp": 1709252185,
-        "md5": "f6ef1bef2bcea09cf550d9b5d4784f8a",
-        "size": 2604419835,
+        "device": "Pixel 7 Pro",
+        "device_name": "cheetah",
+        "filename": "Matrixx-v10.3.0-Official-cheetah-Gapps-20240305.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.3.0-Official-cheetah-Gapps-20240305.zip/download",
+        "timestamp": 1709647923,
+        "md5": "ab553fc13e6b3c669a64ab1f4f9d482d",
+        "size": 2598135906,
         "version": "v10.3.0"
     }
   ]
