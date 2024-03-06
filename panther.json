@@ -3,13 +3,15 @@
     {
         "maintainer": "Pyrtle93",
         "oem": "Google",
-        "device": "panther",
-        "filename": "Matrixx-v10.3.0-Official-panther-Gapps-20240213-fastboot.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.3.0-Official-panther-Gapps-20240213-fastboot.zip/download",
-        "timestamp": 1707846011,
-        "md5": "68097debfdcbe861581671faf85ea2ad",
-        "size": 3073421383,
+        "device": "Pixel 7",
+        "device_name": "panther",
+        "filename": "Matrixx-v10.3.0-Official-panther-Gapps-20240306.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.3.0-Official-panther-Gapps-20240306.zip/download",
+        "timestamp": 1709685862,
+        "md5": "9d19813aa29b2a5c9436f18924264ddc",
+        "size": 2597571270,
         "version": "v10.3.0"
     }
   ]
 }
+
