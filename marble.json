@@ -4,11 +4,12 @@
         "maintainer": "KSSRAO",
         "oem": "Xiaomi",
         "device": "marble",
-        "filename": "Matrixx-v10.3.0-Official-marble-Gapps-20240209.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.3.0-Official-marble-Gapps-20240209.zip/download",
-        "timestamp": 1707465011,
-        "md5": "665878a09c8cb97bb241f8588886fa86",
-        "size": 2105597650,
+        "device_name": "Poco F5 and Redmi Note 12 Turbo",
+        "filename": "Matrixx-v10.3.0-Official-marble-Gapps-20240306.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.3.0-Official-marble-Gapps-20240306.zip/download",
+        "timestamp": 1709692049,
+        "md5": "c9a85124bde6e95324e654f6c5912c3c",
+        "size": 1987500675,
         "version": "v10.3.0"
     }
   ]
