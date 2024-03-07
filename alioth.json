@@ -4,11 +4,12 @@
         "maintainer": "Roxor-007",
         "oem": "Xiaomi",
         "device": "alioth",
-        "filename": "Matrixx-v10.3.0-Official-alioth-Gapps-20240213-HOTFIX.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/alioth/Matrixx-v10.3.0-Official-alioth-Gapps-20240213-HOTFIX.zip/download",
-        "timestamp": 1707839687,
-        "md5": "b4836ee24dd6036f63d0b5f976ba317c",
-        "size": 1706918188,
+        "device_name": "",
+        "filename": "Matrixx-v10.3.0-Official-alioth-Gapps-20240307.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/alioth/Matrixx-v10.3.0-Official-alioth-Gapps-20240307.zip/download",
+        "timestamp": 1709826160,
+        "md5": "d677da27f65ded8443d69878346bb5a3",
+        "size": 1741938485,
         "version": "v10.3.0"
     }
   ]
