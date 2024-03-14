@@ -1,4 +1,4 @@
-# 7 Mar 2024<b>
+# 7 Mar 2024
 - Upstreamed to latest 10.3.0 Matrixx source
 - Upstreamed to latest n0kernel sources
 - Improved statusbar padding and height

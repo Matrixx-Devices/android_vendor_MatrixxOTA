@@ -5,7 +5,7 @@
 
 ----
 
-First Time Install
+**First Time Install**
 (Note: These releases include firmware)
 - Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
 - Reboot to bootloader
@@ -20,14 +20,14 @@ First Time Install
 7 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
 - Reboot to system
 
-Update via Recovery
+**Update via Recovery**
 - Reboot to recovery
 - While in recovery, navigate to Apply update -> Apply from ADB
 - adb sideload rom.zip (replace "rom" with actual filename)
 - (optional). Reboot to recovery to sideload any add-ons (e.g magisk)
 - Reboot to system 
 
-Update via Updater
+**Update via Updater**
 - Naviagate to Settings, System & then Updater
 - Click local update
 - Click the zip you want to install
