@@ -1,3 +1,17 @@
+# Matrixx v-10.3.1 Changelog
+
+- Bump up Matrixx version to 10.3.1
+- Added FOD icon picker
+- Group the post action notifications
+- Removed Extnded QS header image
+- Added Omni style QS header
+- Fixed ui style switching
+- Added haptics if change volume level
+- Updated icon packs
+- Improved system optimizations
+- Only first boot after update will take longer time than before for app optimization
+
+
 # Matrixx v-10.3.0 Changelog
 
 - Merged Feb 2024 security patch
