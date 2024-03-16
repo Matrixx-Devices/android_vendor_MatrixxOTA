@@ -5,15 +5,15 @@
 
 **Clean Flash:**
 1. You must have Matrixx recovery installed ( fastboot flash vendor_boot vendor_boot.img && fastboot flash boot boot.img )
-2. Boot Matrixx recovery
-3. Format Data
-4. Plug your phone to pc and Apply update via ADB
-5. Run adb sideload ROM.zip
-6. Click yes
-7. Reboot system and Enjoy
+2. Reboot to Matrixx recovery
+3. Plug your phone to PC and select Apply update via ADB
+4. Run "adb sideload <rom_filename>.zip"
+5. Select "yes" if signature failed prompted
+6. Factory Reset / Format Data
+7. Reboot to system and Enjoy
 
 **Rom Update/Dirty flash:**
 1. Reboot to recovery
 2. Apply update > Apply from ADB
-3. Open command prompt & sideload rom using command ```adb sideload <rom_filename>.zip```
-4. Reboot
+3. Open command prompt & sideload rom using command adb sideload <rom_filename>.zip
+4. Reboot to system
