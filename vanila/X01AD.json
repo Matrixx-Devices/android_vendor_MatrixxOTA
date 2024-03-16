@@ -4,12 +4,12 @@
         "maintainer": "AssunZain",
         "oem": "asus",
         "device": "X01AD",
-        "filename": "Matrixx-v10.3.0-OFFICIAL-X01AD-Vanilla-20240305.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/X01AD/Matrixx-v10.3.0-OFFICIAL-X01AD-Vanilla-20240305.zip/download",
-        "timestamp": 1658342617,
-        "md5": "5dd138ef164d7ac3dcb7921385505624",
-        "size": 1101111000,
-        "version": "v10.3.0"
+        "filename": "Matrixx-v10.3.1-OFFICIAL-X01AD-Vanilla-20240315.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/X01AD/Matrixx-v10.3.1-OFFICIAL-X01AD-Vanilla-20240315.zip/download",
+        "timestamp": 1676342617,
+        "md5": "d76b66bc0e53218caa48be5219cb3c2b",
+        "size": 1101093579,
+        "version": "v10.3.1"
     }
   ]
 }
