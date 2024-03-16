@@ -3,6 +3,9 @@ title: Google Pixel 6 Pro (raven)
 description: Brought to you by einargednochsson
 ---
 
+# Changelog 16 Mar 2024:
+- Synced with latest source v10.3.1
+
 # Changelog 06 Mar 2024:
 - Synced with latest source v10.3.0
 - switched gapps package(Please install everything from Playstore you like)
