@@ -25,6 +25,7 @@ In order for a device to be OTA compliant, there are a few things to know.
 ```
 ### Generate JSON
 - JSON file will be generated automatically into ```vendor/MatrixxOTA```
+- if not generated automatically, add dummy ```<device_name>.json``` with info
 - If building vanila build then move your device JSON file into vanila dir
 - Now commit and push
 
@@ -33,7 +34,7 @@ In order for a device to be OTA compliant, there are a few things to know.
 ```
 overlay/packages/apps/Updater/app/src/main/res/values/config.xml
 ```
-- Example: ```<string name="menu_changelog_url" translatable="false">https://matrixx-devices.github.io/mi/marble.html</string>```
+- Example: ```<string name="menu_changelog_url" translatable="false">https://www.projectmatrixx.org/downloads/marble</string>```
 
 ### Guidelines
 * Check if manufacturer is already existing
