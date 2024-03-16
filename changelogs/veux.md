@@ -1,3 +1,12 @@
+# 16-Mar-2024
+- Switch to new base tree.
+- Nuked Audio mods and Xiaomi Parts.
+- Added Miui-Camera.
+- Fixed proximity sensor.
+- NFC works on all varients.
+- Upstream Rashumon Kernel to 5.4.272.
+- Many under the hood improvements.
+
 # 04-Mar-2024
 
 - Enable AOSP Surfaceflinger.
