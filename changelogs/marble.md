@@ -1,4 +1,10 @@
 # 06-March-2024
+- Fixed Heating issues
+- Improvements to Moto Dolby
+- Added back spatial audio
+- Unfortunately widevine is L3 again
+
+# 06-March-2024
 
 - Fixed sms/otp not receiving issue
 - Fixed Thermals
