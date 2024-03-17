@@ -1,15 +1,16 @@
 {
   "response": [
     {
-        "maintainer": "",
-        "oem": "",
-        "device": "",
-        "filename": "Matrixx-v10.3.0-Official-redwood-Gapps-20240222.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/redwood/Matrixx-v10.3.0-Official-redwood-Gapps-20240222.zip/download",
-        "timestamp": 1708572628,
-        "md5": "6cfad96982b04ae0a9e20b1623dece9c",
-        "size": 1754849757,
-        "version": "v10.3.0"
+        "maintainer": "PRIYANSHU",
+        "oem": "Xiaomi",
+        "device": "redwood",
+        "device_name": "",
+        "filename": "Matrixx-v10.3.1-Official-redwood-Gapps-20240317.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/redwood/Matrixx-v10.3.1-Official-redwood-Gapps-20240317.zip/download",
+        "timestamp": 1710672593,
+        "md5": "7be0e8819f19fe9bc36434f97579c191",
+        "size": 1833000554,
+        "version": "v10.3.1"
     }
   ]
 }
