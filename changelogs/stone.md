@@ -1,3 +1,14 @@
+# 17-March-2024
+
+- Synced with latest source
+- Reduced app opening/closing animation lags and Jitters
+- Reduced qs lag when pulling it down
+- Enabled VoNR Calls support
+- updated Vendor Security Patch Level
+- Removed dirac
+- Fixed systemui crashing sometimes
+- Many more changes
+
 # 04-March-2024
 
 - Added Dirac aka mi sound enhencer
