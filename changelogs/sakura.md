@@ -1,3 +1,11 @@
+# Changelog 17 March 2024:
+- Synced with latest v10.3.1 source
+- Set zram size to 50% of system ram
+- Linked vendor sp to platform
+- Added wifi support for two bands 2.4Ghz ang 5Ghz
+- Disabled Wallpaper zoom animation
+- Added props to bluetooth to fix auto turnoff
+
 # Changelog 14 Feb 2024:
 - Synced with latest v10.3.0 source
 - Added Bcr as prebuild
