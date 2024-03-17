@@ -4,12 +4,13 @@
         "maintainer": "",
         "oem": "",
         "device": "",
-        "filename": "Matrixx-v10.3.0-Official-lemonadep-Gapps-20240222.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.3.0-Official-lemonadep-Gapps-20240222.zip/download",
-        "timestamp": 1708590287,
-        "md5": "e27525b618fd2eb78730c524550e1cad",
-        "size": 1947026880,
-        "version": "v10.3.0"
+        "device_name": "",
+        "filename": "Matrixx-v10.3.1-Official-lemonadep-Gapps-20240317.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.3.1-Official-lemonadep-Gapps-20240317.zip/download",
+        "timestamp": 1710614024,
+        "md5": "9d5a71f7435f46701ea65e17c8684f3c",
+        "size": 2225111902,
+        "version": "v10.3.1"
     }
   ]
 }

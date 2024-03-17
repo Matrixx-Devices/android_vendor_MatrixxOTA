@@ -1,3 +1,9 @@
+# 17-March-2024
+- Added OnePlus gallery
+- Improved Dolby audio output
+- Improved kernel
+- Improved brightness
+
 # 06-March-2024
 
 - Fixed camera night mode crash
