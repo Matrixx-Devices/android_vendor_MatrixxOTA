@@ -1,3 +1,7 @@
+# 17-March-2024
+- Re-implement ALS capture as AIDL service
+- Update ALS parameters paths
+
 # 22-Feb-2024
 
 - Added ZRAM swap
