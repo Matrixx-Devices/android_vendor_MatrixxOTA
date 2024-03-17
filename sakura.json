@@ -4,12 +4,13 @@
         "maintainer": "obito_svha",
         "oem": "Xiaomi",
         "device": "sakura",
-        "filename": "Matrixx-v10.3.0-Official-sakura-Gapps-20240227.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.3.0-Official-sakura-Gapps-20240227.zip/download",
-        "timestamp": 1709011565,
-        "md5": "a997adaaada988f5a20d4be274f77192",
-        "size": 1271887589,
-        "version": "v10.3.0"
+        "device_name": "Redmi 6 Pro",
+        "filename": "Matrixx-v10.3.1-Official-sakura-Gapps-20240316.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.3.1-Official-sakura-Gapps-20240316.zip/download",
+        "timestamp": 1710613118,
+        "md5": "1ebfb5b1e8ccf21799928e30f34ab632",
+        "size": 1240090201,
+        "version": "v10.3.1"
     }
   ]
 }
