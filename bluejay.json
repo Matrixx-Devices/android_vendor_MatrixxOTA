@@ -3,8 +3,8 @@
     {
         "maintainer": "EinarG.",
         "oem": "Google",
-        "device": "Pixel 6a",
-        "device_name": "bluejay",
+        "device": "bluejay",
+        "device_name": "Pixel 6a",
         "filename": "Matrixx-v10.3.1-Official-bluejay-Gapps-20240316.zip",
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bluejay/Matrixx-v10.3.1-Official-bluejay-Gapps-20240316.zip/download",
         "timestamp": 1710597181,

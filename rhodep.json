@@ -4,6 +4,7 @@
         "maintainer": "IczYn",
         "oem": "motorola",
         "device": "rhodep",
+        "device_name": "Moto G82 5G",
         "filename": "Matrixx-v10.3.0-Official-rhodep-Gapps-20240211.zip",
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhodep/Matrixx-v10.3.0-Official-rhodep-Gapps-20240211.zip/download",
         "timestamp": 1707668311,

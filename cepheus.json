@@ -1,9 +1,10 @@
 {
   "response": [
     {
-        "maintainer": "",
-        "oem": "",
-        "device": "",
+        "maintainer": "RDS_07",
+        "oem": "Xiaomi",
+        "device": "cepheus",
+        "device_name": "Mi 9",
         "filename": "Matrixx-v10.3.0-Official-cepheus-Gapps-20240210.zip",
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cepheus/Matrixx-v10.3.0-Official-cepheus-Gapps-20240210.zip/download",
         "timestamp": 1707506205,

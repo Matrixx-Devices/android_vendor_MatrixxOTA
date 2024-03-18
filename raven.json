@@ -3,8 +3,8 @@
     {
         "maintainer": "EinarG.",
         "oem": "Google",
-        "device": "Pixel 6 Pro",
-        "device_name": "raven",
+        "device": "raven",
+        "device_name": "Pixel 6 Pro",
         "filename": "Matrixx-v10.3.1-Official-raven-Gapps-20240316.zip",
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/raven/Matrixx-v10.3.1-Official-raven-Gapps-20240316.zip/download",
         "timestamp": 1710586948,
