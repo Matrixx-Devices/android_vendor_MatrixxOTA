@@ -1,7 +1,12 @@
-# 17-March-2024
+# 18-March-2024
+- Updated blobs to OOS 14.0.0.500
+- Fixed Camera night mode crash
 - Added OnePlus gallery
-- Improved Dolby audio output
-- Improved kernel
+- Increased Dolby bass enhancer values
+- Removed Dolby volume leveler
+- Updated kernelSU to 0.9.0
+- Kernel: Switch to step_wise thermal governor
+- Kernel: Set AoD low light mode as default
 - Improved brightness
 
 # 06-March-2024
