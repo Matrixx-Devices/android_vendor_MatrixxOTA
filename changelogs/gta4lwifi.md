@@ -3,6 +3,18 @@ title: Samsung Galaxy Tab A7 (gta4lwifi)
 description: Brought to you by Aryan
 ---
 
+<b>Changelog 21 MAR 2024:</b>
+- Optimise DEX flags
+- Optimise package manager dexopt properties
+- Enable PRODUCT_FS_COMPRESION
+- Switched back to legacy aidl DRM
+- Add props to improve battery life
+- Update zram configuration
+- Added battery health stats
+- overlay: disable useless gms components
+- Upstream kernel v4.19.310
+- Compiled kernel with proton clang
+
 <b>Changelog 24 FEB 2024:</b>
 - Optimised ART
 - Added speed preopt for launcher/SettingsGoogle/SystemUIGoogle
