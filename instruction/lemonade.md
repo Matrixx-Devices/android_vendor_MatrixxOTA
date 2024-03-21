@@ -1,7 +1,7 @@
 **Before start flashing.....**
 - Backup all your data to any external source. 
 - Update your device to OOS 14 or update OOS14 firmware using Firmware flasher
-- Download firmware and update to 14.0.0.500(EX01) using Firmware-Flasher [**HERE**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonade/Recovery/)
+- Download firmware and update to 14.0.0.212(EX01) using Firmware-Flasher [**HERE**](https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonade/Utility/)
 - Gapps included so no need to flash/sideload GApps
 
 **Clean Flash:**
