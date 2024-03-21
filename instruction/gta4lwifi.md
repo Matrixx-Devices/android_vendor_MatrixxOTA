@@ -1,9 +1,8 @@
 **Before start flashing…**
 - Backup all your data to any external source
 - Always look for the build if its GAPPS or Vanilla varient
-- For Vanilla build flash only the recommended GAPPS zip given in notes and post and also flash gapps zip right after flashing the rom , dont flash after booting to rom (ur google apps may crash)
-- To get google search in home page , flash nik velvet addon
-- You can flash other addons too , just make sure you flash it before first boot
+- For Vanilla build flash only the recommended GAPPS zip given in notes and post and also flash gapps zip right after flashing the rom
+- You can flash addons too , just make sure you flash it before first boot
 
 **Clean Flash (Encrypted):**
 
