@@ -1,3 +1,10 @@
+# Matrixx v-10.4.1 Changelog
+
+- Bump up Matrixx version to 10.4.1
+- Based on Quarterly Pandemic Release 2 - QPR2
+- Merged April Security patch
+- Retained most of the important fetaures
+
 # Matrixx v-10.3.1 Changelog
 
 - Bump up Matrixx version to 10.3.1
