@@ -102,7 +102,7 @@ def get_info(ID):
         info = json.loads(device_file.read())['response'][0]
         MATRIXX_VERSION = info['version']
         DEVICE_NAME = info['device_name']
-        DEVICE_CODENAME = info['device']
+        DEVICE_CODENAME = device.split('.')[0]
         MAINTAINER = info['maintainer']
         DOWNLOAD_URL = info['download']
         DATE_TIME = datetime.datetime.fromtimestamp(int(info['timestamp']))
