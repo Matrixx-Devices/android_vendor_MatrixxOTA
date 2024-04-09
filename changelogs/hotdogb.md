@@ -1,3 +1,8 @@
+# 09-April-2024
+- Drop updatable GPU drivers
+- Update Kernel to LOS upstream
+- Updated KSU to 0.9.2
+
 # 17-March-2024
 - Re-implement ALS capture as AIDL service
 - Update ALS parameters paths
