@@ -1,3 +1,8 @@
+# 09-APR-2024
+- Initial QPR2 Build.
+- Fixed Hotspot connectivity issue.
+- Comes with latest positron kernel.
+
 # 16-Mar-2024
 - Switch to new base tree.
 - Nuked Audio mods and Xiaomi Parts.
