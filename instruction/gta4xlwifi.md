@@ -12,6 +12,6 @@
 
 - Reboot to recovery
 - Apply update > Apply from ADB
-- Open command prompt & sideload rom using command 
-``adb sideload <rom_filename>.zip```
+- Open command prompt & sideload rom using command
+- adb sideload <rom_filename>.zip
 - Reboot
