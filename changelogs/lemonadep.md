@@ -1,3 +1,8 @@
+# 10-April-2024
+- Cleanup device sources
+- Updated kernel to lineage upstream
+- Update KSU to 0.9.2
+
 # 18-March-2024
 - Updated blobs to OOS 14.0.0.500
 - Fixed Camera night mode crash
