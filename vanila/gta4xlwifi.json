@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "Jrcable2",
+        "oem": "Samsung",
+        "device": "gta4xlwifi",
+        "device_name": "Galaxy Tab S6 Lite 2020 Wifi",
+        "filename": "Matrixx-v10.4.1-official-gta4xlwifi-Vanilla-20240410.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/gta4xlwifi/Matrixx-v10.4.1-official-gta4xlwifi-Vanilla-20240410.zip/download",
+        "timestamp": 1712747998,
+        "md5": "6fce1dddffa8eeb8c61cc6348d6266c7",
+        "size": 1034789768,
+        "version": "v10.4.1"
+    }
+  ]
+}
