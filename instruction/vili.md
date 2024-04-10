@@ -8,14 +8,14 @@
 - Use Twrp.
 - Format Data.
 - Wipe metadata, data, dalvik and cache.
-- Flash the rom from SD Card or OTG.
+- Flash the ROM from SD Card or OTG.
 - Format data and Reboot to system.
-- If you want to sideload from ADB, Plug your phone to pc.
-- Run adb sideload ROM.zip and follow step 4 .
+- If you want to sideload from ADB, plug your phone into PC.
+- Run `adb sideload ROM.zip` and follow step 4 .
 
-**Rom Update/Dirty flash:**
+**ROM Update/Dirty flash:**
 
 - Reboot to recovery.
-- Flash the downloaded rom from internal storage.
-- If you want to go with PC, then Open command prompt & sideload rom using command adb sideload <rom_filename>.zip.
+- Flash the downloaded ROM from internal storage.
+- If you want to go with PC, then open command prompt & sideload ROM using command `adb sideload <rom_filename>.zip`.
 - Reboot to system.
