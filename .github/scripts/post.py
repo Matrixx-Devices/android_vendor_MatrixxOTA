@@ -104,6 +104,7 @@ def get_info(ID):
         DEVICE_NAME = info['device_name']
         DEVICE_CODENAME = device.split('.')[0]
         MAINTAINER = info['maintainer']
+        SUPPORT_GROUP = info.get('support_group', None)
         DOWNLOAD_URL = info['download']
         DATE_TIME = datetime.datetime.fromtimestamp(int(info['timestamp']))
         MD5 = info['md5']
@@ -112,6 +113,7 @@ def get_info(ID):
         msg += f"Project Matrixx {MATRIXX_VERSION}\n"
         msg += f"Device Name: {DEVICE_NAME} ({DEVICE_CODENAME})\n"
         msg += f"Maintainer: {MAINTAINER}\n"
+        msg += f"Support Group: {SUPPORT_GROUP}\n"
         msg += f"Date Time: {DATE_TIME}\n"
         msg += f"Build Type: {BUILD_TYPE}\n"
         # msg += f"Download URL: {DOWNLOAD_URL}\n"
@@ -123,6 +125,7 @@ def get_info(ID):
             "device_name": DEVICE_NAME,
             "codename": DEVICE_CODENAME,
             "maintainer": MAINTAINER,
+            "support_group": SUPPORT_GROUP,
             "datetime": DATE_TIME,
             "build_type": BUILD_TYPE,
             "size": SIZE,
@@ -149,10 +152,11 @@ def message_content(information):
 
 # Prepare buttons for message
 def button(information):
+    support = information['support_group'] if information['support_group'] is not None else 'https://t.me/matrixx_community'
     buttons = InlineKeyboardMarkup()
     buttons.row_width = 2
     button1 = InlineKeyboardButton(text="Channel", url=f"https://t.me/projectmatrixx")
-    button2 = InlineKeyboardButton(text="Support", url=f"https://t.me/matrixx_community")
+    button2 = InlineKeyboardButton(text="Support", url=support)
     button3 = InlineKeyboardButton(text="Download", url=f"https://www.projectmatrixx.org/downloads/{information['codename']}")
     return buttons.add(button1, button2, button3)
 
