@@ -1,3 +1,10 @@
+# 11-April-2024
+- Switched to Los based trees
+- Switched to OSS kernel
+- Updated BCR app to latest 1.62
+- Ships with Parts Dolby, ViperFX 6.2 for sound
+- Includes Per App Refresh rate, Low Power Refresh rate options
+
 # 16-March-2024
 - Fixed Heating issues
 - Improvements to Moto Dolby
