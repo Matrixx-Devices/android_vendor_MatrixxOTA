@@ -12,7 +12,7 @@ env:
   GitHubName: "Matrrixx-bot"
   GitHubToken: ${{ secrets.GH_TOKEN }}
   BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-  CHAT_ID: ${{ secrets.CHAT_ID }}
+  CHAT_IDS: ${{ secrets.CHAT_IDS }}
 
 jobs:
   post:

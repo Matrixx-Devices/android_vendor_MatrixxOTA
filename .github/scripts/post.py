@@ -33,7 +33,7 @@ def getConfig(config_name: str):
     return os.getenv(config_name)
 try:
     BOT_TOKEN = getConfig("BOT_TOKEN")
-    CHAT_ID = getConfig("CHAT_ID")
+    CHAT_IDS = [x for x in getConfig("CHAT_IDS").split(" ")]
 except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
@@ -173,7 +173,8 @@ def tg_message():
         for devices in get_diff(get_new_id(), get_old_id()):
             info = get_info(devices)
             with open(BANNER_PATH, "rb") as image:
-                send_post(CHAT_ID, image, message_content(info), button(info))
+                for CHAT_ID in CHAT_IDS:
+                    send_post(CHAT_ID, image, message_content(info), button(info))
             commit_description += f"- {info['device_name']} ({info['codename']})\n"
             sleep(5)
     update(get_new_id())
