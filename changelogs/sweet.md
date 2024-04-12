@@ -1,3 +1,8 @@
+# 12-04-2024
+
+- Initial qpr2 release
+- Nuked parts,leica cam and dolby
+
 # 23-Feb-2023
 
 - Fixed systemui crash
@@ -31,4 +36,3 @@
 - Added Prebuilt BCR
 - Heavily Debloated Core Gapps build
 - Some underhood improvements
-
