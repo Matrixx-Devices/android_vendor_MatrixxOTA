@@ -38,6 +38,8 @@ except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
 
+REPOST_MD5 = getConfig("REPOST_MD5")
+
 BANNER_PATH = "./assets/banner.jpg"
 
 # Init bot
@@ -86,6 +88,7 @@ def get_diff(new_id, old_id):
 
 # Grab needed info using ID of the file
 def get_info(ID):
+    FOUND = False
     files = []
     for type, dirName in jsonDir.items():
         for all in os.listdir(dirName):
@@ -97,7 +100,11 @@ def get_info(ID):
             if data['md5'] == ID:
                 device = all_files['file']
                 BUILD_TYPE = all_files['type']
+                FOUND = True
                 break
+    if not FOUND:
+        print(f"ID not found in repo: {ID}")
+        exit(1)
     with open(f"{jsonDir[BUILD_TYPE]}/{device}") as device_file:
         info = json.loads(device_file.read())['response'][0]
         MATRIXX_VERSION = info['version']
@@ -162,6 +169,12 @@ def button(information):
 
 # Send updates to channel and commit changes in repo
 def tg_message():
+    if REPOST_MD5:
+        info = get_info(REPOST_MD5)
+        with open(BANNER_PATH, "rb") as image:
+            for CHAT_ID in CHAT_IDS:
+                send_post(CHAT_ID, image, message_content(info), button(info))
+        return
     commit_message = "Update new IDs and push OTA"
     commit_description = "Data for following device(s) were changed:\n"
     if len(get_diff(get_new_id(), get_old_id())) == 0:

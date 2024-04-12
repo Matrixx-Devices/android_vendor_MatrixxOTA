@@ -6,6 +6,11 @@ on:
       - '.github/scripts/file_ids.txt'
       - 'README.md'
   workflow_dispatch:
+    inputs:
+      repost:
+        description: 'MD5 hash of the device you want to Re-Post'
+        required: false
+        type: string
 
 env:
   GitHubMail: "mdst798@gmail.com"
@@ -13,6 +18,7 @@ env:
   GitHubToken: ${{ secrets.GH_TOKEN }}
   BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
   CHAT_IDS: ${{ secrets.CHAT_IDS }}
+  REPOST_MD5: ${{ github.event.inputs.repost }}
 
 jobs:
   post:
@@ -36,6 +42,7 @@ jobs:
         run: sudo -E python3 .github/scripts/post.py
 
       - name: Commit and Push Changes
+        if: ${{ github.event.inputs.repost == null }}
         run: | 
           git fetch && git pull
           COMMIT_MESSAGE=$(cat commit_mesg.txt)
