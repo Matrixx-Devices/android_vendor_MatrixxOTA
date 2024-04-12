@@ -171,8 +171,8 @@ def button(information):
 def tg_message():
     if REPOST_MD5:
         info = get_info(REPOST_MD5)
-        with open(BANNER_PATH, "rb") as image:
-            for CHAT_ID in CHAT_IDS:
+        for CHAT_ID in CHAT_IDS:
+            with open(BANNER_PATH, "rb") as image:
                 send_post(CHAT_ID, image, message_content(info), button(info))
         return
     commit_message = "Update new IDs and push OTA"
@@ -185,8 +185,8 @@ def tg_message():
         print(f"IDs Changed:\n{get_diff(get_new_id(), get_old_id())}\n\n")
         for devices in get_diff(get_new_id(), get_old_id()):
             info = get_info(devices)
-            with open(BANNER_PATH, "rb") as image:
-                for CHAT_ID in CHAT_IDS:
+            for CHAT_ID in CHAT_IDS:
+                with open(BANNER_PATH, "rb") as image:
                     send_post(CHAT_ID, image, message_content(info), button(info))
             commit_description += f"- {info['device_name']} ({info['codename']})\n"
             sleep(5)
