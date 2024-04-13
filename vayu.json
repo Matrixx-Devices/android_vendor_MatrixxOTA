@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "Mrick343",
+        "support_group": "https://t.me/mrickdiscussion",
         "oem": "Xiaomi",
         "device": "vayu",
         "device_name": "Poco X3 PRO",
-        "filename": "Matrixx-v10.3.0-Official-vayu-Gapps-20240222.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/vayu/Matrixx-v10.3.0-Official-vayu-Gapps-20240222.zip/download",
-        "timestamp": 1708583403,
+        "filename": "Matrixx-v10.4.1-Official-vayu-Gapps-20240411.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/vayu/Matrixx-v10.4.1-Official-vayu-Gapps-20240411.zip/download",
+        "timestamp": 1712872741,
         "md5": "6434d957f52895ea96a31164a23987da",
-        "size": 2116956643,
-        "version": "v10.3.0"
+        "size": 2111978142,
+        "version": "v10.4.1"
     }
   ]
 }
