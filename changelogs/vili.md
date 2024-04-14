@@ -1,4 +1,10 @@
 
+# 13-APR-2024
+- Hotfix build
+- Fixed OTT apps like Netflix issue with Widevine L1 with LOS kernel
+- Synced to latest Matrixx source
+- Other Fixes under the hood.
+
 # 09-APR-2024
 - Initial QPR2 Build.
 - Switch to Dolby Manager.
