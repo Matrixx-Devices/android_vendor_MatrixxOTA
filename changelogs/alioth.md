@@ -1,4 +1,15 @@
-# 7 Mar 2024
+# 17-Apr-2024
+- Upstreamed to latest 10.4.2 Matrixx source
+- Upstreamed n0kernel to latest kernel source
+- Switch to Neutron 19 clang
+- Improve statusbar padding
+- Change Leica camera implementation
+- Update Leica apk to Leica 5.0 beta 7.3
+- Adapt sepolicies to qpr2
+- Adapt xiaomi parts to qpr2
+- Rework dolby completely
+
+# 7-Mar-2024
 - Upstreamed to latest 10.3.0 Matrixx source
 - Upstreamed to latest n0kernel sources
 - Improved statusbar padding and height
