@@ -3,8 +3,8 @@
 - Bump up Matrixx version to 10.4.2
 - Added app lock
 - Added Lock screen clock
-- Added user selected udfps icon
-- Fixed Monet themeing issues
+- Allow locking all apps visible in launcher
+- Allow app lock to use Face unlock
 - Fixed secondary label alignment on A11 QS
 - Fixed weather misalignment for custom lockscreen clock
 

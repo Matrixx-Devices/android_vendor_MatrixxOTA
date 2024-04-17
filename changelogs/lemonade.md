@@ -1,3 +1,8 @@
+# 17-April-2024
+- Rebased devices sources
+- Fixed camera location watermark crash
+- Another try to Fix Oneplus Gallery crash 
+
 # 10-April-2024
 - Cleanup device sources
 - Updated kernel to lineage upstream
