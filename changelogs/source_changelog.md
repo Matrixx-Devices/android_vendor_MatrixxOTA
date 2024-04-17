@@ -1,3 +1,13 @@
+# Matrixx v-10.4.2 Changelog
+
+- Bump up Matrixx version to 10.4.2
+- Added app lock
+- Added Lock screen clock
+- Added user selected udfps icon
+- Fixed Monet themeing issues
+- Fixed secondary label alignment on A11 QS
+- Fixed weather misalignment for custom lockscreen clock
+
 # Matrixx v-10.4.1 Changelog
 
 - Bump up Matrixx version to 10.4.1
