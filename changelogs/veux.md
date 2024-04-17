@@ -1,3 +1,6 @@
+# 17-APR-2024
+- Update MIUI camera from OS1.0.3.0.TKCMIXM.
+
 # 09-APR-2024
 - Initial QPR2 Build.
 - Fixed Hotspot connectivity issue.
