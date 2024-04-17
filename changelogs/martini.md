@@ -1,3 +1,11 @@
+# 17-Apr-2024
+
+- Initial QPR2 Release
+- Fixed heating and throttling issue
+- Fixed camera location watermark crash
+- Rebased to latest LOS kernel
+- Updated Carrier configs from OOS 14.0.0.500(EX01)
+
 # 23-Jan-2024
 
 - Updated blobs from OxygenOS 14.0.0.211(EX01)

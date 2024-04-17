@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "Mrick343",
+        "support_group": "https://t.me/mrickdiscussion",
         "oem": "OnePlus",
         "device": "martini",
         "device_name": "OnePlus 9RT",
-        "filename": "Matrixx-v10.2.1-Official-martini-Gapps-20240123.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/Matrixx-v10.2.1-Official-martini-Gapps-20240123.zip/download",
-        "timestamp": 1705993741,
+        "filename": "Matrixx-v10.4.2-Official-martini-Gapps-20240417.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/Matrixx-v10.4.2-Official-martini-Gapps-20240417.zip/download",
+        "timestamp": 1713368619,
         "md5": "7a02df035b9e1d98cb19c1d37a16e12a",
-        "size": 2019259323,
-        "version": "v10.2.1"
+        "size": 2249248934,
+        "version": "v10.4.2"
     }
   ]
 }
