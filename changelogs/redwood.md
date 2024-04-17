@@ -1,3 +1,6 @@
+# 17-April-2024
+- Fixed ScreenCast issue.
+
 # 10-April-2024
 - Shipped with hyperos firmware ( OS1.0.3.0.UMSMIXM ) 
 - Update blobs from OS1.0.2.0.UMSMIXM
