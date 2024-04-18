@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "KSSRAO",
+        "support_group": "https://t.me/KSSRAO_Romverse",
         "oem": "Xiaomi",
         "device": "marble",
         "device_name": "Poco F5/Redmi Note 12 Turbo",
-        "filename": "Matrixx-v10.3.1-Official-marble-Gapps-20240316.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.3.1-Official-marble-Gapps-20240316.zip/download",
-        "timestamp": 1710594406,
-        "md5": "8b989f7780e5665febbf90de4309d6c1",
-        "size": 2000844664,
-        "version": "v10.3.1"
+        "filename": "Matrixx-v10.4.2-Official-marble-Gapps-20240418.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.4.2-Official-marble-Gapps-20240418.zip/download",
+        "timestamp": 1713411793,
+        "md5": "3ec63a0515453d199b0597ac8f5b7f46",
+        "size": 2128704326,
+        "version": "v10.4.2"
     }
   ]
 }

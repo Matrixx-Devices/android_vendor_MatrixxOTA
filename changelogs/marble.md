@@ -1,3 +1,13 @@
+# 18-April-2024
+- Fixed widevine issue (Back to L1 now)
+- Fixed BCR App crashing issue
+- Auto Brightness works like one shot Brightness (The moment u unlock phone, brightness adapts to surrounding light) 
+- Upstreamed Los kernel to 5.10.209 and is based on latest April tag ASB-2024-04-05
+- Update blobs from V816.0.4.0.ULLMIXM
+- Fixed twrp getting replaced with source recovery
+- Added back OTA support
+- Nuked Thermal profiles as they were causing performance drop (Strange but true)
+
 # 11-April-2024
 - Switched to Los based trees
 - Switched to OSS kernel
