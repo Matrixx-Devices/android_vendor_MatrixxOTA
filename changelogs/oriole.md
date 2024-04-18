@@ -1,3 +1,7 @@
+# Changelog 18 Apr 2024:
+- Synced with latest source v10.4.2
+- prebuilt kernel 5.10.189
+
 # Changelog 16 Mar 2024:
 - Synced with latest source v10.3.1
 
