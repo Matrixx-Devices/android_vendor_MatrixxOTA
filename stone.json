@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "ARIJIT-SAHA",
+        "support_group": "https://t.me/project_bd_support",
         "oem": "Xiaomi",
         "device": "stone",
         "device_name": "POCO X5 5G/Redmi Note 12",
-        "filename": "Matrixx-v10.3.1-Official-stone-Gapps-20240316.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/Matrixx-v10.3.1-Official-stone-Gapps-20240316.zip/download",
-        "timestamp": 1710602733,
-        "md5": "3a1e1ec812e2bd3a78d730307fa3a20e",
-        "size": 1534698330,
-        "version": "v10.3.1"
+        "filename": "Matrixx-v10.4.2-Official-stone-Gapps-20240418.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/Matrixx-v10.4.2-Official-stone-Gapps-20240418.zip/download",
+        "timestamp": 1713438777,
+        "md5": "d5e391e78ba76fba69b7679d01f84eaa",
+        "size": 1525052730,
+        "version": "v10.4.2"
     }
   ]
 }

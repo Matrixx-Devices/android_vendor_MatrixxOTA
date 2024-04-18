@@ -1,3 +1,11 @@
+# 18-April-2024
+- Synced with latest source
+- rootdir: Fix the battery drain due to statsd
+- Builded goodix lib from source
+- Enabled battery cycle count
+- Added media_codecs from stock holi config and build some codecs
+- Many more changes & fixes
+
 # 17-March-2024
 
 - Synced with latest source
