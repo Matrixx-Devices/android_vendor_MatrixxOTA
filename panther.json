@@ -5,13 +5,12 @@
         "oem": "Google",
         "device": "panther",
         "device_name": "Google Pixel 7",
-        "filename": "Matrixx-v10.3.0-Official-panther-Gapps-20240306.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.3.0-Official-panther-Gapps-20240306.zip/download",
-        "timestamp": 1709685862,
-        "md5": "9d19813aa29b2a5c9436f18924264ddc",
-        "size": 2597571270,
-        "version": "v10.3.0"
+        "filename": "Matrixx-v10.4.2-Official-panther-Gapps-20240419.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.4.2-Official-panther-Gapps-20240419.zip/download",
+        "timestamp": 1713481956,
+        "md5": "24619bbdc8182b4c1dfb8d231065c017",
+        "size": 2609987392,
+        "version": "v10.4.2"
     }
   ]
 }
-
