@@ -3,6 +3,17 @@ title: Pixel 7 (panther)
 description: Brought to you by Pyrtle93
 ---
 
+# Changelog 19 April 2024:
+
+- Synced with latest source v10.4.2
+- Fixed wireless android auto
+- Rebased trees for qpr2/April
+- Added Viper4androidFX support
+- Added PixelParts
+- Added BCR
+- Switched kernel to Kirisakura
+- More various fixes/improvements
+
 # Changelog 05 Mar 2024:
 
 - Synced with latest source v10.3.0
