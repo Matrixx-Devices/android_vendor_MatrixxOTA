@@ -1,85 +1,63 @@
-**Before start flashing.....**
-- At first make sure your bootloader is unlocked and you have downloaded the latest platform tools and drivers. You can check this link for simple installation!
-- Always have backup of your internal storage
-- For vanilla variant, if u need gapps, [**Nikgapps Core is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
+## Before Starting Flashing
 
-----
+- Make sure your bootloader is unlocked and you have downloaded the latest platform tools and drivers. You can check [this link](#) for a simple installation guide.
+- Always back up your internal storage.
+- For vanilla variant ROMs, if you need GApps, [**NikGapps Core**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/) is recommended.
 
-💠 FLASHING CUSTOM RECOVERY >>
+---
 
+## Flashing Custom Recovery
 
+1. Download TWRP image or the ROM's boot image (if the developer recommends using the ROM's recovery) in `.img` format from the latest source.
 
-1. Download TWRP image or roms boot image (if the dev recommend to use roms recovery), extension is .img file from #twp-latest
+2. Boot your device into fastboot mode (power off your device, then hold power button and volume down simultaneously).
 
-2. Now boot your device into fastboot mode (turn off the device first then press and hold at the same time power button+volume down)
+3. Connect your device to your computer in fastboot mode and open a command prompt.
 
-3. Now open cmd in you computer and connect your device which is in fastboot mode
+4. Check if your device is connected successfully by running the command `fastboot devices`. If your device is recognized, proceed to the next step.
 
-4. First check if your device is connected successfully or not by giving command fastboot devices and hit enter (if your device is recognized then you're good to go)
+5. Run the command `fastboot flash boot <drag and drop the TWRP or ROM boot image file here>`. 
 
-5. Now again give the command fastboot flash boot <drag and drop twrp.img or roms boot.img file here which you downloaded>
+6. After flashing the boot image, run the command `fastboot reboot recovery`.
 
-6. after flashing the boot image, give command fastboot reboot recovery 
+---
 
+## Flashing ROM Onwards
 
+7. Your device will boot into recovery. Format data from there.
 
-◽ FLASHING ROM ONWARDS >
+8. If you can't format data and want to do a clean flash, simply flash the ROM and format data later. You can flash the ROM from your SD card or using ADB sideload.
 
-7. Now your device will boot into recovery and format data from there
+### Flashing from SD Card/OTG
 
-8. If you cant format data and want to do a clean flash then simply flash rom and format data later, you can flash rom from your sd card or by adb sideload..
+1. Select the ROM file from storage.
+2. Flash it from recovery.
+3. Reboot to recovery and format data (if you didn't earlier).
+4. Reboot to the system.
 
+### Sideloading
 
+1. Copy your ROM file to your computer's C drive.
+2. In TWRP, go to `Advanced > ADB sideload`.
+3. In the command prompt, run the command `adb sideload <drag and drop the ROM zip file>`.
+4. Wait for the installation to finish.
+5. Reboot to recovery and format data (if you didn't earlier).
+6. Reboot to the system.
 
-🔸 SD CARD/OTG method: 
+---
 
-1. Select rom file from the storage
+## Flashing GApps
 
-2. Flash it from recovery
+1. Download your favorite GApps (or the developer-recommended one) from a trusted source.
+2. After flashing the ROM, reboot into recovery again and flash the GApps file like the ROM (from OTG or by sideload).
 
-3. Reboot to recovery (it will boot into your roms recovery) and format data from there (if you couldn't earlier)
+---
 
-3. Reboot to system
+## Keeping TWRP
 
+1. After flashing the ROM, do not reboot to recovery.
+2. In TWRP, go to `Advanced` and select `Install recovery ramdisk`.
+3. Now go back, reboot to recovery, and format data (if you want a clean flash).
+4. Otherwise, just reboot into the system.
 
-
-🔸 Sideload method:
-
-1. Copy your rom file in c drive
-
-2. Go to advanced>adb sideload in twrp
-
-3. Give the command in cmd adb sideload <drag and drop the rom zip file> and hit enter
-
-4. Wait to finish the installation
-
-5. Reboot to recovery (it will boot into your roms recovery) and format data from there (if you couldn't earlier)
-
-6. Reboot to system
-
-
-
-▫️ IF YOU WANT TO FLASH GAPPS >
-
-
-
-1. Download your favorite gapps (or recommended by dev) by #gapps
-
-2. After flashing the rom reboot into recovery again and then flash gapps file just like the rom (from OTG or by sideload)
-
-
-
-▫️ IF YOU WANT TO KEEP TWRP >
-
-
-1. After flashing the rom don't reboot to recovery
-
-2. Go to advanced from twrp home
-
-3. Select the option called install recovery ramdisk
-
-4. Now go back and reboot to recovery and format data now (if you wanna do a clean flash)
-
-5. Otherwise just reboot into the system
-
-We don't recommend keeping TWRP, we're not responsible if anything happens
+**Note:** We do not recommend keeping TWRP. We are not responsible if anything happens.
