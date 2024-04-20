@@ -4,13 +4,13 @@
         "maintainer": "AAMIRR_ALI",
         "oem": "Realme",
         "device": "bladerunner",
-        "device_name": "Realme X50 Pro/Player 5G",
-        "filename": "Matrixx-v10.2.1-Official-bladerunner-Gapps-20240124.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bladerunner/Matrixx-v10.2.1-Official-bladerunner-Gapps-20240124.zip/download",
-        "timestamp": 1706083162,
-        "md5": "84467abc6e61b305ad1c8c03dd539d0e",
-        "size": 2205641877,
-        "version": "v10.2.1"
+        "device_name": "Realme X50 Pro",
+        "filename": "Matrixx-v10.4.2-Official-bladerunner-Gapps-20240420.zip",
+        "download": "ttps://sourceforge.net/projects/projectmatrixx/files/Android-14/bladerunner/Matrixx-v10.2.1-Official-bladerunner-Gapps-20240124.zip/download",
+        "timestamp": 1713616976,
+        "md5": "5e5ece137fba1f96658a974140c99b5d",
+        "size": 2403729033,
+        "version": "v10.4.2"
     }
   ]
 }

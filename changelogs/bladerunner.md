@@ -1,3 +1,14 @@
+# 20-Apr-2024
+
+- Synced with latest v10.4.2 source
+- Initial QPR2 Release
+- Fixed heating issue
+- Introduce REALME HUB (thanks to bigshot)
+- Add battery charging control
+- Many more underhood changes
+- Improved system performance and stability
+
+
 # 24-Jan-2024
 
 - Synced with latest v10.2.1 source
