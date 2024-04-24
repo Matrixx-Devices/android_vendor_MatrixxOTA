@@ -5,12 +5,12 @@
         "oem": "OnePlus",
         "device": "instantnoodlep",
         "device_name": "OnePlus 8 Pro",
-        "filename": "Matrixx-v10.3.0-OFFICIAL-instantnoodlep-Gapps-20240212.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/instantnoodlep/Matrixx-v10.3.0-OFFICIAL-instantnoodlep-Gapps-20240212.zip/download",
-        "timestamp": 1707712340,
-        "md5": "88efe89e72faed3de0da161b632cfffe",
-        "size": 1799286672,
-        "version": "v10.3.0"
+        "filename": "Matrixx-v10.4.2-OFFICIAL-instantnoodlep-Gapps-20240422.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/instantnoodlep/Matrixx-v10.4.2-OFFICIAL-instantnoodlep-Gapps-20240422.zip/download",
+        "timestamp": 1713757608,
+        "md5": "cf9d4116ce8a2b0c32d21dc9df8a3fbc",
+        "size": 2000322717,
+        "version": "v10.4.2"
     }
   ]
 }
