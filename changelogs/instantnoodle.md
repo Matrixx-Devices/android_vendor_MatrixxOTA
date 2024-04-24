@@ -1,3 +1,13 @@
+# Changelog 24 April 2024:
+- OOS cam included
+- Dolby included
+- Full ext4 now no more erofs
+- Improved on brightness
+- Switched to Meteoric kernel
+- Tons of behind the scene improvements
+- Improved stability
+- BCR was added back
+
 # Changelog 12 Feb 2024:
 - Removed Dolby for the time being
 - Implemented Libperfmgt
