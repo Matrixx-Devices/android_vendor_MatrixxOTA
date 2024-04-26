@@ -1,3 +1,15 @@
+# Changelog 26 Aprill 2024:
+- Removed Dolby for time being
+- Reduce blur radius
+- Dont spam logcat
+- Fix logspam
+- Use skia vulkan (improvements to gpu)
+- Improve performance
+- Reduce jitters
+- Many behind the scenes improvements
+
+CLEAN FLASH REQUIRED!!
+
 # Changelog 09 Feb 2024:
 - Fix yellowish tint on google photos
 - Make OTA slightly faster

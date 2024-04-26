@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "twinchin96",
+        "support_group": "https://t.me/zizzynp1roms",
         "oem": "Nothing",
         "device": "Spacewar",
         "device_name": "Nothing Phone (1)",
-        "filename": "Matrixx-v10.3.0-OFFICIAL-Spacewar-Gapps-20240213.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/Spacewar/Matrixx-v10.3.0-OFFICIAL-Spacewar-Gapps-20240213.zip/download",
-        "timestamp": 1707821828,
-        "md5": "96bb37e891f99620edf9dc0c6ac51f73",
-        "size": 1894177646,
-        "version": "v10.3.0"
+        "filename": "Matrixx-v10.4.2-OFFICIAL-Spacewar-Gapps-20240424.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/Spacewar/Matrixx-v10.4.2-OFFICIAL-Spacewar-Gapps-20240424.zip/download",
+        "timestamp": 1713976017,
+        "md5": "3e69f5aed652e7318f2474d535c0de6b",
+        "size": 1958615998,
+        "version": "v10.4.2"
     }
   ]
 }
