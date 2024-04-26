@@ -8,7 +8,7 @@
 - Reduce jitters
 - Many behind the scenes improvements
 
-CLEAN FLASH REQUIRED!!
+- CLEAN FLASH REQUIRED!!
 
 # Changelog 09 Feb 2024:
 - Fix yellowish tint on google photos
