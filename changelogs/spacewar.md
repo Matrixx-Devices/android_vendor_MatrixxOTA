@@ -7,7 +7,6 @@
 - Improve performance
 - Reduce jitters
 - Many behind the scenes improvements
-
 - CLEAN FLASH REQUIRED!!
 
 # Changelog 09 Feb 2024:
