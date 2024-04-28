@@ -1,3 +1,14 @@
+# Matrixx v-10.4.3 Changelog
+
+- Bump up Matrixx version to 10.4.3
+- Allow HBM in manual brightness if no time limitation
+- Added User Selected UDFPS Icon
+- Added Volume panel TextView
+- Added Max Notif Panel Notification count
+- Added Max Lockscreen Notification count
+- Added Advanced navigation "extended/L" gestures
+- Adjust volume style landscape height
+
 # Matrixx v-10.4.2 Changelog
 
 - Bump up Matrixx version to 10.4.2
