@@ -1,3 +1,10 @@
+# 28-APR-2024
+- VILI Vendor blobs updated to VILI EEA V816.0.1.0.UKDEUXM
+- COMMON Vendor blobs updated to Haydn V816.0.1.0.UKKCNXM (HyperOS)
+- Update Ksu to the latest version
+- Adjust Color Modes from stock
+- Other Fixes under the hood
+
 # 17-APR-2024
 - Synced to latest Matrixx source
 - Better RAM management
