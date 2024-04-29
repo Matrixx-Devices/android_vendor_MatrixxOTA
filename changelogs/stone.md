@@ -1,3 +1,9 @@
+# 29-April-2024
+- Synced with latest source
+- Re-Added dirac
+- Revert back to old adreno drivers
+- Revert back to old cpu freq method
+
 # 18-April-2024
 - Synced with latest source
 - rootdir: Fix the battery drain due to statsd
