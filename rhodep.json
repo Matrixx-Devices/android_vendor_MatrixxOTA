@@ -5,12 +5,12 @@
         "oem": "motorola",
         "device": "rhodep",
         "device_name": "Moto G82 5G",
-        "filename": "Matrixx-v10.4.2-Official-rhodep-Gapps-20240419.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhodep/Matrixx-v10.4.2-Official-rhodep-Gapps-20240419.zip/download",
-        "timestamp": 1713462561,
-        "md5": "2bb30a3706d587850630940d596dfefe",
-        "size": 1304303008,
-        "version": "v10.4.2"
+        "filename": "Matrixx-v10.4.3-Official-rhodep-Gapps-20240427.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhodep/Matrixx-v10.4.3-Official-rhodep-Gapps-20240427.zip/download",
+        "timestamp": 1714243048,
+        "md5": "13721c158bae020d6a98aa7a6405d224",
+        "size": 1331917394,
+        "version": "v10.4.3"
     }
   ]
 }
