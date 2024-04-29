@@ -1,3 +1,6 @@
+# 29-April-2024
+Import LDAC prebuilt from stock
+
 # 17-April-2024
 - Fixed ScreenCast issue.
 
