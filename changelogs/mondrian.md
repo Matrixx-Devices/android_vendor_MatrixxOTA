@@ -1,3 +1,9 @@
+# 30-Apr-2024
+
+- Source upstream
+- Fix DRM issue with streaming apps (Netflix, Prime Video...)
+- Update blobs from V816.0.4.0.ULLMIXM
+
 # 19-Apr-2024
 
 - Initial release
