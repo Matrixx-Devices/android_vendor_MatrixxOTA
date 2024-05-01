@@ -1,3 +1,118 @@
+
+# 01-May-2024
+- Add a property to query gpu model name
+- Add blkio tuning from sunfish
+- Add icons for HBM
+- Add libinit for variants handling
+- Add stereo config channel support to usb surround sound
+- Add more CPU frequency
+- add NEON accelerated XOR implementation
+- Add {navigation,video} thermal profiles
+- Add support for KGSL_PROP_VK_DEVICE_ID
+- Add support to get gpu model from device tree
+- Add support to modify display counter
+- Add thermal profiles tile and adapt for A14
+- Add touch profiles for gaming and benchmarking
+- Additional `150MHz` GPU freq
+- Align clear_page() to 16 bytes
+- Allow all filesystems for USB-OTG
+- Allow disabling big/prime core
+- Always assume the panel is OLED
+- Always execute ramoops_pstore_write()
+- Always panic when scheduling in atomic context
+- Async rotator suspend/resume callbacks
+- Change foreground cpuset when app launch
+- Decrease launch boost to 3sec
+- Default zram compressor to lz4
+- Disable all of qdf_trace when WLAN_DEBUG is disabled
+- Disable boosting when battery saver is on
+- Disable debug.sf.latch_unsignaled
+- Disable GPS debugging
+- Disable HBM when DC Dimming enabled
+- Disable msm/camera_v2 debugging
+- Disable redundant Spectre v2 mitigations
+- Disable REMOVE_PKT_LOG
+- Disable sf EGL image tracking
+- Disable some DEBUG routines in net
+- Disallow userspace to change zram compression algorithm
+- Disable wakeup source creation in tspp
+- Disable WLAN loggings
+- Don't boost top-app when screen is off
+- Don't ever reboot to verity red
+- Don't force DEBUG_KERNEL when EXPERT is enabled
+- Do not acquire wakelocks for msm/ipa
+- Do not balance msm_drm and kgsl-3d0 IRQs
+- Do not enable HBM if DC Dimming is ON
+- Do not send fps change events to notifier listeners
+- Drop PM QoS boosting
+- Dump ramoops even in cases where the kernel doesn't crash.
+- Enable KernelBatterySaver
+- Enable usage of USB gadget HAL
+- Enable persist.vendor.audio.fluence.voicerec
+- Enable secureNFC
+- Enable NTFS driver
+- Enable initial skip for dual camera synchronization
+- Enable lmkd and disable almk
+- Expand USB HID game controller support
+- Enable size optimization for qcacld-3.0
+- Enable dimlayer exposure driver
+- Enforce ulps suspend
+- Enforce ulps by default
+- Ensure the minimal frequency is lower than the maximal frequency
+- Fix app duration by reducing 16.6ms
+- Fix brightness level mapping
+- Fix cpu_dma_latency value
+- Fix memory leak in cam_res_mgr_probe()
+- Fix strlcpy usage in rpm_master_stat, minidump, sdio_cis.c
+- Fix thermal profiles list layout
+- Force disable low ram config
+- Force enable TCP INTERNAL PACING when BBR is default without FQ
+- Force suspend when cable out
+- Handle more scenarios when getting fod dim alpha
+- Include a 7-second delay when turning off the HBM
+- Implement HBM & Auto HBM
+- Implement interpolated LP2 brightness handling
+- Import LMKD props and Set lmkd values per RAM variant
+- Improve dimlayer exposure alpha model
+- Increase sde stage to map zpos changes
+- Increase watermark scale factor
+- Initialize mutex_lock earlier
+- Introduce battery-friendly-pocketmode
+- Introduce displayfeature color service
+- Introduce kernelspace battery saver mode
+- Kill more logging in qca
+- Make ion allocate in page-sized chunks
+- Pass -fomit-frame-pointer to out-of-line ll/sc atomics
+- Prevent Zygisk/KernelSU detection through common methods
+- Reduce early wakeups before vsync events
+- Refactor ClearSpeakerFragment code
+- Remove audio powerhints
+- Remove CONFIG_QCOM_MINIDUMP
+- Remove hints for Adaptive Battery CPU Throttling
+- Remove nonsensical register reads in cam_vfe_fe_reg_dump()
+- Remove validation while gpio probing
+- Remove WQ_MEM_RECLAIM flag from state workqueue
+- Return before thermal trip evaluates
+- Set binder_(alloc_)debug_mask=0 to suppress binder logging
+- Set cpu_dma_latency value in hex
+- Set Dalvik heap props on boot
+- Set IRQF_NOBALANCING
+- Set more SSR restart_level in init script
+- Set to powersave governor when device is idle
+- Set 150hz as default minimum gpu freq
+- Stop spamming binder in dmesg
+- Switch to AVC 3.1 for screen recording
+- Switch to kernel based dimming to fix FOD while dimming is on
+- Switch to lz4 for zram
+- Undefine WMA_DEBUG_ALWAYS
+- Update backlight status on panel enable/disable
+- Update clear speaker audio using DTMF + Chirp tones
+- Update Hotword permissions
+- Update zstd to latest v1.5.5
+- Use a different way of affining perf IRQs
+- Use phase offsets as duration
+- Warn when an IRQ's affinity notifier gets overwritten
+
 # 25-April-2024
 - Initial Official build
 - Add option to use fscompress for F2FS
