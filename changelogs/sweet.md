@@ -1,3 +1,10 @@
+# 01-05-2024
+
+- Added leica cam
+- Added parts
+- Added parts dolby
+- Erofs build
+
 # 12-04-2024
 
 - Initial qpr2 release
