@@ -1,3 +1,7 @@
+# 02-May-2024
+
+- Hotfix for Leica camera
+
 # 30-Apr-2024
 
 - Source upstream
