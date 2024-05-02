@@ -27,6 +27,7 @@ import json
 import datetime
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from time import sleep
+from typing import List
 
 # Get configs from workflow secrets
 def getConfig(config_name: str):
@@ -149,7 +150,12 @@ def message_content(information):
     msg = ""
     msg += f"<b>Project Matrixx OFFICIAL - A14</b> <b>(</b><code>{information['matrixx_version']}</code><b>)</b>\n\n"
     msg += f"<b>Device:</b> <code>{information['device_name']} ({information['codename']})</code>\n"
-    msg += f"<b>Maintainer:</b> <a href='https://t.me/{information['maintainer']}'>{information['maintainer']}</a>\n"
+    if isinstance(information['maintainer'], List):
+        msg += f"<b>Maintainers:</b> "
+        msg += " | ".join([f"<a href='https://t.me/{x}'>{x}</a>" for x in information['maintainer']])
+        msg += "\n"
+    else:
+        msg += f"<b>Maintainer:</b> <a href='https://t.me/{information['maintainer']}'>{information['maintainer']}</a>\n"
     msg += f"<b>Build Date:</b> <code>{information['datetime']} UTC</code>\n"
     msg += f"<b>Build Type:</b> <code>{information['build_type']}</code>\n\n"
     msg += f"<b>Changelogs:</b> <a href='https://www.projectmatrixx.org/changelog'>Source</a> <b>|</b> <a href='https://www.projectmatrixx.org/downloads/{information['''codename''']}'>Device</a>\n"
