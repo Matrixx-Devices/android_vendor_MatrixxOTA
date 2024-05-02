@@ -1,4 +1,3 @@
-
 # 01-May-2024
 - Add a property to query gpu model name
 - Add blkio tuning from sunfish
