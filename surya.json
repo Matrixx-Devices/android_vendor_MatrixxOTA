@@ -1,0 +1,17 @@
+{
+    "response": [
+        {
+            "maintainer": ["lily985", "Muichir09"],
+            "support_group": "https://t.me/POCOX3_SG",
+            "oem": "Xiaomi",
+            "device": "surya",
+            "device_name": "Poco X3/Poco X3 NFC",
+            "filename": "Matrixx-v10.4.3-Official-surya-Gapps-20240429.zip",
+            "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/surya/Matrixx-v10.4.3-Official-surya-Gapps-20240429.zip/download",
+            "timestamp": 1714353575,
+            "md5": "0b9b3b7dc84cf5157294c1ebcc738549",
+            "size": 1991226858,
+            "version": "v10.4.3"
+        }
+    ]
+}
