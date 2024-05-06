@@ -1,16 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "",
-        "oem": "",
-        "device": "",
-        "device_name": "",
-        "filename": "Matrixx-v10.4.2-Official-alioth-Gapps-20240417.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/alioth/Matrixx-v10.4.2-Official-alioth-Gapps-20240417.zip/download",
-        "timestamp": 1713345022,
-        "md5": "6a724266e43df91dcae20e33044487f3",
-        "size": 1717581834,
-        "version": "v10.4.2"
+        "maintainer": "@Roxor007",
+        "support_group": "https://t.me/matrixxalioth",
+        "oem": "Xiaomi",
+        "device": "alioth",
+        "device_name": "Poco F3/Redmi K40/Mi 11x",
+        "filename": "Matrixx-v10.4.3-Official-alioth-Gapps-20240506.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/alioth/Matrixx-v10.4.3-Official-alioth-Gapps-20240506.zip/download",
+        "timestamp": 1714999111,
+        "md5": "955bced6bde44f10c42c9c9b424e9ff1",
+        "size": 1719060331,
+        "version": "v10.4.3"
     }
   ]
 }
