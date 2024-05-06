@@ -35,9 +35,9 @@ Update via Updater
 
 **Root:** same process for clean/dirty
 - Download and Install Magisk apk
-- Unzip the factory image file, In the same folder you’ll get another zip file, unzip it too to get the init_boot.img file and copy it to your Pixel device.
+- Unzip the factory image from here for example (https://developers.google.com/android/images), Extract the IMGs folder, copy the init_boot file to your Pixel device.
 - Patch init_boot.img file, Open Magisk app on your device, tap on install and tap again on “Select and Patch a file” and browse the init_boot.img file you’ve just copied. It will patch the file and save it in the same folder. Now you’ve to transfer patched init_boot.img file to your PC to flash it using an adb command.
 - Reboot the device in Fastboot
-- On your PC, open the plaform tools folder, hold the Windows button and right click in the folder and select open command here. Type the following commands to flash the patch boot file, below is an example; fastboot flash init_boot C:\Users\Imran\Desktop\Pixel 7 Root\platform-tools_r33.0.3-windows\platform-tools\magisk_patched-25200_xgjAS.img
-- You can verify root access by downloading the root checker app from the Google Play Store.
-
+- On your PC, open the plaform tools folder, hold the Windows button and right click in the folder and select open command here. Type the following commands to flash the patch boot file, below is an example; fastboot flash init_boot magisk_patched-25200_xgjAS.img
+- Once complete and no errors are returned type fastboot reboot
+- You can verify root access by downloading the root checker app from the Google Play Store. Store.

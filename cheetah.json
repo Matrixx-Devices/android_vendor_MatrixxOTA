@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "Pyrtle93",
+        "support_group": "https://t.me/PyrtlesPixels"
         "oem": "Google",
         "device": "cheetah",
         "device_name": "Google Pixel 7 Pro",
-        "filename": "Matrixx-v10.4.2-Official-cheetah-Gapps-20240419.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.4.2-Official-cheetah-Gapps-20240419.zip/download",
-        "timestamp": 1713477504,
-        "md5": "dbbe39ec0bd73a32cf5716be8f3592db",
-        "size": 2611257070,
-        "version": "v10.4.2"
+        "filename": "Matrixx-v10.4.3-Official-cheetah-Gapps-20240506.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.4.3-Official-cheetah-Gapps-20240506.zip/download",
+        "timestamp": 1715019696,
+        "md5": "c9d9846232dbf972a2b5f30c9f9d5c72",
+        "size": 2762672047,
+        "version": "v10.4.3"
     }
   ]
 }
