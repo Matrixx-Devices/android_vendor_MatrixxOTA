@@ -3,10 +3,10 @@ title: Pixel 7/7 Pro (panther)(cheetah)
 description: Brought to you by Pyrtle93
 ---
 
-# Changelog 06 May 2024:
+# Changelog 09 May 2024:
 
 - Synced with latest source v10.4.3
-- Updated to UQ1A.240205.004.B1
+- Updated to AP1A.240405.002.B1
 - Padding updates
 - Gapps updates
 - Dropped BCR
@@ -14,7 +14,6 @@ description: Brought to you by Pyrtle93
 - Fixed Adaptive Battery not showing
 - Improved charging speeds
 - Fixed live caption/live transcribe
-- Switched to googles carrier stack/carrier settings
 - V4A improvements
 - CPU improvements
 - Fixed changelog not showing

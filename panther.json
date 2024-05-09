@@ -2,15 +2,15 @@
   "response": [
     {
         "maintainer": "Pyrtle93",
-        "support_group": "https://t.me/PyrtlesPixels"
+        "support_group": "https://t.me/PyrtlesPixels",
         "oem": "Google",
         "device": "panther",
         "device_name": "Google Pixel 7",
-        "filename": "Matrixx-v10.4.3-Official-panther-Gapps-20240507.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.4.3-Official-panther-Gapps-20240507.zip/download",
-        "timestamp": 1715026713,
-        "md5": "775c750d827f7cdda894563f4ccd2588",
-        "size": 2760527333,
+        "filename": "Matrixx-v10.4.3-Official-panther-Gapps-20240510.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.4.3-Official-panther-Gapps-20240510.zip/download",
+        "timestamp": 1715280377,
+        "md5": "25f7b0a8c04b3a59b49ae25e508f34c1",
+        "size": 2760523133,
         "version": "v10.4.3"
     }
   ]
