@@ -2,15 +2,15 @@
   "response": [
     {
         "maintainer": "Pyrtle93",
-        "support_group": "https://t.me/PyrtlesPixels"
+        "support_group": "https://t.me/PyrtlesPixels",
         "oem": "Google",
         "device": "lynx",
         "device_name": "Google Pixel 7a",
-        "filename": "Matrixx-v10.4.3-Official-lynx-Gapps-20240506.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lynx/Matrixx-v10.4.3-Official-lynx-Gapps-20240506.zip/download",
-        "timestamp": 1715008975,
-        "md5": "570842568c54219788179943ab4fa3e5",
-        "size": 2770071733,
+        "filename": "Matrixx-v10.4.3-Official-lynx-Gapps-20240509.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lynx/Matrixx-v10.4.3-Official-lynx-Gapps-20240509.zip/download",
+        "timestamp": 1715258968,
+        "md5": "6ad9a0134e7f484b0de0f4c41e932261",
+        "size": 2770062575,
         "version": "v10.4.3"
     }
   ]

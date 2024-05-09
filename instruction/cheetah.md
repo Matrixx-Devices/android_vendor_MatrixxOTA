@@ -40,4 +40,4 @@ Update via Updater
 - Reboot the device in Fastboot
 - On your PC, open the plaform tools folder, hold the Windows button and right click in the folder and select open command here. Type the following commands to flash the patch boot file, below is an example; fastboot flash init_boot magisk_patched-25200_xgjAS.img
 - Once complete and no errors are returned type fastboot reboot
-- You can verify root access by downloading the root checker app from the Google Play Store. Store.
+- You can verify root access by downloading the root checker app from the Google Play Store.
