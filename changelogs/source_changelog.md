@@ -1,3 +1,16 @@
+# Matrixx v-10.5.0 Changelog
+
+- Bump up Matrixx version to 10.5.0
+- Based on May security patch
+- Added back fingerprint vibration settings
+- Added Depth wallpaper support
+- Added increasing ring feature 
+- Added Mass weather icon
+- Added USB configuration
+- Fixed crash if AOD on charge enabled
+- Fixed home screen random message when disabled
+- Fixed home screen search bar background on light theme
+
 # Matrixx v-10.4.3 Changelog
 
 - Bump up Matrixx version to 10.4.3
