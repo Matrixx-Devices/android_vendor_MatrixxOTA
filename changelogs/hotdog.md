@@ -1,3 +1,8 @@
+# 13-May-2024
+- Update Kernel to LOS upstream
+- Updated KSU to 0.9.4
+- Implement new ALS compensation algorithm
+
 # 09-April-2024
 - Drop updatable GPU drivers
 - Update Kernel to LOS upstream

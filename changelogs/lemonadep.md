@@ -1,3 +1,10 @@
+# 13-May-2024
+- Updated kernel to lineage upstream
+- Update KSU to 0.9.4
+- Added Google photos support for oneplus camera
+- Decouple auto-suspend and interactive from display on/off
+- Fixed Statusbar padding
+
 # 17-April-2024
 - Rebased devices sources
 - Fixed camera location watermark crash
