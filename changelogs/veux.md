@@ -1,3 +1,9 @@
+# 13-MAY-2024
+- Fixed Proximity sensor issue.
+- Fixed MIUI Camera crash.
+- Comes with latest positron kernel.
+- Many under the hood improvements.
+
 # 29-APR-2024
 - Source Upstream.
 - Added OnePlus Dolby.

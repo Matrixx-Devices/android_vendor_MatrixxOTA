@@ -2,16 +2,15 @@
   "response": [
     {
         "maintainer": "iAswinOP",
-        "support_group": "https://t.me/snowbuilds",
         "oem": "Xiaomi",
         "device": "veux/peux",
         "device_name": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
-        "filename": "Matrixx-v10.4.3-Official-veux-Gapps-20240429.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/Matrixx-v10.4.3-Official-veux-Gapps-20240429.zip/download",
-        "timestamp": 1714399181,
-        "md5": "c838ef67dde101e522ae4b31b69abdf3",
-        "size": 1589728208,
-        "version": "v10.4.3"
+        "filename": "Matrixx-v10.5.0-Official-veux-Gapps-20240513.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/Matrixx-v10.5.0-Official-veux-Gapps-20240513.zip/download",
+        "timestamp": 1715614567,
+        "md5": "71f54e605693c92c0b56a594f47bc8af",
+        "size": 1613039141,
+        "version": "v10.5.0"
     }
   ]
 }
