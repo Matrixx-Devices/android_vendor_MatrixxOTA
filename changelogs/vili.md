@@ -1,3 +1,10 @@
+# 13-MAY-2024
+- Better RAM management
+- dex2oat64 on sm8350
+- Enable support for IEEE80211AX
+- Disable Skia tracing by default
+- Other Fixes under the hood
+
 # 28-APR-2024
 - VILI Vendor blobs updated to VILI EEA V816.0.1.0.UKDEUXM
 - COMMON Vendor blobs updated to Haydn V816.0.1.0.UKKCNXM (HyperOS)
@@ -7,7 +14,6 @@
 
 # 17-APR-2024
 - Synced to latest Matrixx source
-- Better RAM management
 - Other minor Fixes
 
 # 13-APR-2024
