@@ -1,3 +1,9 @@
+# 14-May-2024
+
+- Fixed System UI crashing while charging
+- Fixed brightness issue
+- May SP merged
+
 # 17-Apr-2024
 
 - Initial QPR2 Release
