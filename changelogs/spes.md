@@ -1,3 +1,20 @@
+# Changelog 15 May 2024:
+- DT rebased over from crdroid
+- Updated blobs from SPESNGlobal_V14.0.6.0.TGKMIXM_3bf72b1c44_13.0
+- Update HALs audio/display/media from LA.UM.9.15.2.r1-09300-KAMO..RTA.QSSI14.0
+- WiFi calling now working 
+- Fixed sys.fp.miui.token spam
+- Goodix FP now working 
+- Fixed PowerHAL nodes
+- Fixed imsrcsservice neverallow
+- Updated and add more wakeup nodes
+- Kernel version updated to 4.19.312
+- Address content_capture_service denial
+- Silence OpenGLRenderer log spam
+- Switch to sw enc/dec for vp9 codec
+- Disable OMX.qcom.video.encoder.avc
+- Many more Misc Improvement
+
 # Changelog 18 Feb 2024:
 - Disabled alpha compositing in WM
 - Address vendor.qti.data.factory Selinux denials
