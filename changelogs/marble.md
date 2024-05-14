@@ -1,3 +1,8 @@
+# 14-May-2024
+- Update hyperos cam from 1.0.5.0.UMRMIXM 
+- Bring back Thermal Profiles
+- Nuked Brightness Slider Curve Implementation (No more higher Brightness at lower slider positions)
+
 # 18-April-2024
 - Fixed widevine issue (Back to L1 now)
 - Fixed BCR App crashing issue

@@ -3,28 +3,10 @@
 - Always have backup of your internal storage
 - Use TWRP recovery meant for Android 14. Check the note [**#twrp_a14**](https://t.me/KSSRAO_Romverse)
 - To retain TWRP recovery after rom flash, don't forget to tick the option "Automatically Reflash TWRP after flashing a rom" in recovery. Else TWRP will be replaced by recovery from rom
-- For Kernel SU, check note [**#ksu_a14**](https://t.me/KSSRAO_Romverse)
+- For Kernel SU, if rom released on or after 11.04.24 in my group, either use melt kernel or check note [#ksu_los](https://t.me/KSSRAO_Romverse)
+- For Kernel SU, if rom released before 11.04.24 in my group, check note [#ksu_a14](https://t.me/KSSRAO_Romverse)
 - For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
 ----
-
-## If on miui based rom and flashing HyperOS based custom rom first time (Clean flash is must) 
-
-## Gapps variant
-- Download the ROM
-- Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
-- Wipe Dalvik/Art Cache, cache and data
-- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) 
-- Flash rom
-- Tap on format data, type yes and reboot to system
-
-# Vanilla Variant
-- Download the ROM and Gapps package from nikgapps
-- Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
-- Wipe Dalvik/Art Cache, cache and data
-- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/)
-- Flash the ROM and reboot to recovery
-- Flash the Nikgapps
-- Tap on format data, type yes and reboot to system
 
 ## If already on HyperOS based custom rom
 
@@ -63,3 +45,24 @@
 - Flash the ROM and reboot to recovery
 - Flash the Nikgapps
 - Reboot To System
+
+----
+
+## If on miui based rom and flashing HyperOS based custom rom first time (Clean flash is must) 
+
+## Gapps variant
+- Download the ROM
+- Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
+- Wipe Dalvik/Art Cache, cache and data
+- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) 
+- Flash rom
+- Tap on format data, type yes and reboot to system
+
+# Vanilla Variant
+- Download the ROM and Gapps package from nikgapps
+- Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
+- Wipe Dalvik/Art Cache, cache and data
+- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/)
+- Flash the ROM and reboot to recovery
+- Flash the Nikgapps
+- Tap on format data, type yes and reboot to system
