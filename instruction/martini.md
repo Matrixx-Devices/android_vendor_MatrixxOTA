@@ -1,5 +1,3 @@
-**Note: Clean Flash recommended due to QPR2 changes**
-
 **Please note that OOS14 EX01 firmware is included in these builds**
 
 **First Time Install / Clean Flash from OOS/Other Custom ROM**
