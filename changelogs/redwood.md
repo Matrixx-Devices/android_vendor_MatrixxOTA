@@ -1,3 +1,12 @@
+# 14-May-2024
+
+NOTE: clean flash is required.
+- updated KernelSU ( v0.9.3 )
+- Dropped Leica camera and imported hyperOS stock miuicamera
+- Re-implemented oneplus dolby 
+- Optimize statusbar paddings
+- Added HBM support
+
 # 29-April-2024
 - Import LDAC prebuilt from stock
 

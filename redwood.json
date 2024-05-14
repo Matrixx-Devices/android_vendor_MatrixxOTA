@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "redwood",
         "device_name": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed",
-        "filename": "Matrixx-v10.4.3-Official-redwood-Gapps-20240429.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/redwood/Matrixx-v10.4.3-Official-redwood-Gapps-20240429.zip/download",
-        "timestamp": 1714403398,
-        "md5": "b7342a32b690817dc6812571fa95aa13",
-        "size": 1799402693,
-        "version": "v10.4.3"
+        "filename": "Matrixx-v10.5.0-Official-redwood-Gapps-20240514.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/redwood/Matrixx-v10.5.0-Official-redwood-Gapps-20240514.zip/download",
+        "timestamp": 1715680265,
+        "md5": "12e989eb575fc1d1150661d36b042ba0",
+        "size": 1786272401,
+        "version": "v10.5.0"
     }
   ]
 }
