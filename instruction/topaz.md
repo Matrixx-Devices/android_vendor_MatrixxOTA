@@ -1,7 +1,7 @@
 **Before start flashing.....**
 
-Your bootloader must be unlocked
-You have to be on OS1.0.5.0.UMGMIXM firmware
+1. Your bootloader must be unlocked
+2. You have to be on OS1.0.5.0.UMGMIXM firmware
 ----
 
 ## Vanilla variant
