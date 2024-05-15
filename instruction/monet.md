@@ -1,4 +1,4 @@
-**Before start flashing…..**
+**Before start flashing:**
 - Backup all your data to any external source
 - Use OrangeFox Recovery if you want to access data in recovery
 - You must format data when coming from other rom/android version
