@@ -1,7 +1,8 @@
 {
   "response": [
     {
-      "maintainer": "[lily985 Muichir09]",
+      "maintainer": ["lily985", "Muichir09"],
+      "support_group": "https://t.me/POCOX3_SG",
       "oem": "Xiaomi",
       "device": "surya",
       "device_name": "Poco X3/Poco X3 NFC",
