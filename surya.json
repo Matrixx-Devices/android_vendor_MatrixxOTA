@@ -1,17 +1,16 @@
 {
-    "response": [
-        {
-            "maintainer": ["lily985", "Muichir09"],
-            "support_group": "https://t.me/POCOX3_SG",
-            "oem": "Xiaomi",
-            "device": "surya",
-            "device_name": "Poco X3/Poco X3 NFC",
-            "filename": "Matrixx-v10.4.3-Official-surya-Gapps-20240429.zip",
-            "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/surya/Matrixx-v10.4.3-Official-surya-Gapps-20240429.zip/download",
-            "timestamp": 1714353575,
-            "md5": "0b9b3b7dc84cf5157294c1ebcc738549",
-            "size": 1991226858,
-            "version": "v10.4.3"
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "[lily985 Muichir09]",
+      "oem": "Xiaomi",
+      "device": "surya",
+      "device_name": "Poco X3/Poco X3 NFC",
+      "filename": "Matrixx-v10.5.0-Official-surya-Gapps-20240515.zip",
+      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/surya/Matrixx-v10.5.0-Official-surya-Gapps-20240515.zip/download",
+      "timestamp": 1715727042,
+      "md5": "c9eeeba8aa3a6617e69a8259d3c701fd",
+      "size": 1945284477,
+      "version": "v10.5.0"
+    }
+  ]
 }
