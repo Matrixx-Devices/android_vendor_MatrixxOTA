@@ -1,3 +1,9 @@
+# 16-May-2024
+
+- Fix some wired headphones doesn't work
+- Add some missing libraries
+- Switch to AOSP WFD (Now screen cast works fine)
+
 # 15-May-2024
 
 - Initial official build
