@@ -28,7 +28,7 @@
 5. Simply flash through adb sideload NikGapps (FULL OR OMNI is NOT RECOMMENDED!!!).
 
 **Dirty flash:**
-If you are using OrangeFox
+- If you are using OrangeFox
 1. Boot into recovery
 2. Wipe dalvik, cache
 3. Flash the ROM
