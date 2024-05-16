@@ -1,3 +1,10 @@
+# 16-May-2024
+- Upstreamed to latest 10.5.0 Matrixx source
+- Introduce OnePlus Dolby daxui and dax service
+- Disable pre-rendering feature
+- Update blobs from OS1.0.2.0.TKHMIXM
+- Downgrade n0kernel from personal fork
+
 # 06-May-2024
 - Upstreamed to latest 10.4.3 Matrixx source
 - Upstreamed n0kernel to latest kernel source
