@@ -1,3 +1,11 @@
+# 16-May-2024
+- Switched to leica camera again.
+- Introduced Xiaomi parts
+- Dropped oneplus dolby support & added Dolby Atmos as part
+- Disable alpha compositing in WM
+- Added SpatialAudio support
+- Imported powerhint.json from coral and adapted it for yupik
+
 # 14-May-2024
 
 NOTE: clean flash is required.
