@@ -1,7 +1,10 @@
-# 13-May-2024
+# 17-May-2024
 - Update Kernel to LOS upstream
 - Updated KSU to 0.9.4
 - Implement new ALS compensation algorithm
+- Disabled smart pixel on UDFPS
+- Fixed faceunlock indication overlaping with UDFPS ison
+- Added restart SystemUI option in power menu
 
 # 09-April-2024
 - Drop updatable GPU drivers
