@@ -1,108 +1,109 @@
-# 01-May-2024
-- Add a property to query gpu model name
+## 01-May-2024
+
+- Add a property to query GPU model name
 - Add blkio tuning from sunfish
 - Add icons for HBM
 - Add libinit for variants handling
-- Add stereo config channel support to usb surround sound
+- Add stereo config channel support to USB surround sound
 - Add more CPU frequency
-- add NEON accelerated XOR implementation
-- Add {navigation,video} thermal profiles
-- Add support for KGSL_PROP_VK_DEVICE_ID
-- Add support to get gpu model from device tree
+- Add NEON accelerated XOR implementation
+- Add {navigation, video} thermal profiles
+- Add support for `KGSL_PROP_VK_DEVICE_ID`
+- Add support to get GPU model from device tree
 - Add support to modify display counter
 - Add thermal profiles tile and adapt for A14
 - Add touch profiles for gaming and benchmarking
-- Align clear_page() to 16 bytes
+- Align `clear_page()` to 16 bytes
 - Allow all filesystems for USB-OTG
 - Allow disabling big/prime core
 - Always assume the panel is OLED
-- Always execute ramoops_pstore_write()
+- Always execute `ramoops_pstore_write()`
 - Always panic when scheduling in atomic context
 - Async rotator suspend/resume callbacks
 - Change foreground cpuset when app launch
-- Decrease launch boost to 3sec
+- Decrease launch boost to 3 seconds
 - Default zram compressor to lz4
-- Disable all of qdf_trace when WLAN_DEBUG is disabled
+- Disable all of `qdf_trace` when `WLAN_DEBUG` is disabled
 - Disable boosting when battery saver is on
-- Disable debug.sf.latch_unsignaled
+- Disable `debug.sf.latch_unsignaled`
 - Disable GPS debugging
 - Disable HBM when DC Dimming enabled
-- Disable msm/camera_v2 debugging
+- Disable `msm/camera_v2` debugging
 - Disable redundant Spectre v2 mitigations
-- Disable REMOVE_PKT_LOG
+- Disable `REMOVE_PKT_LOG`
 - Disable sf EGL image tracking
 - Disable some DEBUG routines in net
 - Disallow userspace to change zram compression algorithm
 - Disable wakeup source creation in tspp
-- Disable WLAN loggings
+- Disable WLAN logging
 - Don't boost top-app when screen is off
 - Don't ever reboot to verity red
-- Don't force DEBUG_KERNEL when EXPERT is enabled
-- Do not acquire wakelocks for msm/ipa
-- Do not balance msm_drm and kgsl-3d0 IRQs
+- Don't force `DEBUG_KERNEL` when `EXPERT` is enabled
+- Do not acquire wakelocks for `msm/ipa`
+- Do not balance `msm_drm` and `kgsl-3d0` IRQs
 - Do not enable HBM if DC Dimming is ON
 - Do not send fps change events to notifier listeners
 - Drop PM QoS boosting
-- Dump ramoops even in cases where the kernel doesn't crash.
-- Enable KernelBatterySaver
+- Dump `ramoops` even if the kernel doesn't crash
+- Enable `KernelBatterySaver`
 - Enable usage of USB gadget HAL
-- Enable persist.vendor.audio.fluence.voicerec
+- Enable `persist.vendor.audio.fluence.voicerec`
 - Enable secureNFC
 - Enable NTFS driver
 - Enable initial skip for dual camera synchronization
-- Enable lmkd and disable almk
+- Enable `lmkd` and disable `almk`
 - Expand USB HID game controller support
-- Enable size optimization for qcacld-3.0
+- Enable size optimization for `qcacld-3.0`
 - Enable dimlayer exposure driver
 - Enforce ulps suspend
 - Enforce ulps by default
 - Ensure the minimal frequency is lower than the maximal frequency
 - Fix app duration by reducing 16.6ms
 - Fix brightness level mapping
-- Fix cpu_dma_latency value
-- Fix memory leak in cam_res_mgr_probe()
-- Fix strlcpy usage in rpm_master_stat, minidump, sdio_cis.c
+- Fix `cpu_dma_latency` value
+- Fix memory leak in `cam_res_mgr_probe()`
+- Fix `strlcpy` usage in `rpm_master_stat`, `minidump`, `sdio_cis.c`
 - Fix thermal profiles list layout
-- Force disable low ram config
+- Force disable low RAM config
 - Force enable TCP INTERNAL PACING when BBR is default without FQ
 - Force suspend when cable out
-- Handle more scenarios when getting fod dim alpha
+- Handle more scenarios when getting `fod dim alpha`
 - Include a 7-second delay when turning off the HBM
 - Implement HBM & Auto HBM
 - Implement interpolated LP2 brightness handling
-- Import LMKD props and Set lmkd values per RAM variant
+- Import LMKD props and set lmkd values per RAM variant
 - Improve dimlayer exposure alpha model
-- Increase sde stage to map zpos changes
+- Increase `sde stage` to map zpos changes
 - Increase watermark scale factor
-- Initialize mutex_lock earlier
+- Initialize `mutex_lock` earlier
 - Introduce battery-friendly-pocketmode
 - Introduce displayfeature color service
 - Introduce kernelspace battery saver mode
 - Kill more logging in qca
 - Make ion allocate in page-sized chunks
-- Pass -fomit-frame-pointer to out-of-line ll/sc atomics
+- Pass `-fomit-frame-pointer` to out-of-line `ll/sc` atomics
 - Prevent Zygisk/KernelSU detection through common methods
 - Reduce early wakeups before vsync events
-- Refactor ClearSpeakerFragment code
+- Refactor `ClearSpeakerFragment` code
 - Remove audio powerhints
-- Remove CONFIG_QCOM_MINIDUMP
+- Remove `CONFIG_QCOM_MINIDUMP`
 - Remove hints for Adaptive Battery CPU Throttling
-- Remove nonsensical register reads in cam_vfe_fe_reg_dump()
+- Remove nonsensical register reads in `cam_vfe_fe_reg_dump()`
 - Remove validation while gpio probing
-- Remove WQ_MEM_RECLAIM flag from state workqueue
+- Remove `WQ_MEM_RECLAIM` flag from state workqueue
 - Return before thermal trip evaluates
-- Set binder_(alloc_)debug_mask=0 to suppress binder logging
-- Set cpu_dma_latency value in hex
+- Set `binder_(alloc_)debug_mask=0` to suppress binder logging
+- Set `cpu_dma_latency` value in hex
 - Set Dalvik heap props on boot
-- Set IRQF_NOBALANCING
+- Set `IRQF_NOBALANCING`
 - Set more SSR restart_level in init script
 - Set to powersave governor when device is idle
-- Set 150hz as default minimum gpu freq
+- Set 150hz as default minimum GPU freq
 - Stop spamming binder in dmesg
 - Switch to AVC 3.1 for screen recording
-- Switch to kernel based dimming to fix FOD while dimming is on
+- Switch to kernel-based dimming to fix FOD while dimming is on
 - Switch to lz4 for zram
-- Undefine WMA_DEBUG_ALWAYS
+- Undefine `WMA_DEBUG_ALWAYS`
 - Update backlight status on panel enable/disable
 - Update clear speaker audio using DTMF + Chirp tones
 - Update Hotword permissions
@@ -111,13 +112,14 @@
 - Use phase offsets as duration
 - Warn when an IRQ's affinity notifier gets overwritten
 
-# 25-April-2024
+## 25-April-2024
+
 - Initial Official build
 - Add option to use fscompress for F2FS
 - Add restart SystemUI in Advanced Reboot
-- Add temp divider value for cpu info overlay
+- Add temp divider value for CPU info overlay
 - Add udfps animation offset
-- Build android.media.audio.common.types-V2-cpp
+- Build `android.media.audio.common.types-V2-cpp`
 - Build graphics allocator 3.0 interface to vendor
 - Build more telephony packages
 - Disable Async MTE on System Server
@@ -125,41 +127,41 @@
 - Disable logging sensors-hal events
 - Disable QCOM system daemon
 - Disable QTI perf lock usage in camera HAL
-- Disable SF composition prediction model.
+- Disable SF composition prediction model
 - Disable Skia tracing by default
 - Do not allow any wakelocks to be held
 - Do not force the compilation of DFS debugging
 - Don't pin camera/launcher app in memory
 - Enable APK `fs-verity`
 - Extend audio offload buffer size to 256kb
-- Enable automatic wifi channel selection
-- Enable burn in protection
+- Enable automatic WiFi channel selection
+- Enable burn-in protection
 - Enable Camera2API for legacy targets
 - Enable freeform windows
 - Enable Kernel Memory State Tracking
-- Enable RCU_BOOST
-- Enable ro.audio.monitorRotation
+- Enable `RCU_BOOST`
+- Enable `ro.audio.monitorRotation`
 - Enable the pre-rendering feature
 - Enable vibration intensity control
-- Fixed FOD enrollment circle size
+- Fix FOD enrollment circle size
 - Import QCOM audio effects
 - Import userdata tuning from oriole
 - KernelSU: update to v0.9.3
-- Merge tag 'LA.UM.9.12.r1-18300-SMxx50.QSSI14.0' into audio-kernel display-drivers msm-4.19 qcacld-3.0 qca-wifi-host-cmn video-driver
-- Misc improvements to battery backup and wifi configs
+- Merge tag 'LA.UM.9.12.r1-18300-SMxx50.QSSI14.0' into audio-kernel display-drivers `msm-4.19`, `qcacld-3.0`, `qca-wifi-host-cmn`, `video-driver`
+- Misc improvements to battery backup and WiFi configs
 - Offload WM shell to another thread
 - Remove leftover debug function in qcacmn
 - Remove Qcom's PM_QoS implementation/usage
 - Remove unnecessary QTI logkit directories
-- Set default wifi country code to '00'
-- Set PRODUCT_SET_DEBUGFS_RESTRICTIONS
-- Set readahead_size_kb=128 to system and data
+- Set default WiFi country code to '00'
+- Set `PRODUCT_SET_DEBUGFS_RESTRICTIONS`
+- Set `readahead_size_kb=128` to system and data
 - Silence some spammy logging
-- Speed profile services and wifi-service to reduce RAM and storage
+- Speed profile services and WiFi-service to reduce RAM and storage
 - Stub out debug prints in drm
 - Turn on screen on unplug
-- Use armv8-2a as 2nd arch variant
-- Use metadata_csum for /metadata
+- Use `armv8-2a` as 2nd arch variant
+- Use `metadata_csum` for /metadata
 - Use QCOM implementation for audio effects
 - Use SkiaGL Threaded
-- Use 64bit dex2oat on all cores
+- Use 64-bit `dex2oat` on all cores
