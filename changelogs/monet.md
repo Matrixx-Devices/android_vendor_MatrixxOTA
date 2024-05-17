@@ -12,7 +12,6 @@
 - Add support to modify display counter
 - Add thermal profiles tile and adapt for A14
 - Add touch profiles for gaming and benchmarking
-- Additional `150MHz` GPU freq
 - Align clear_page() to 16 bytes
 - Allow all filesystems for USB-OTG
 - Allow disabling big/prime core
