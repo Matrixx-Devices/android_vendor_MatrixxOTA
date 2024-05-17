@@ -1,3 +1,14 @@
+# Matrixx v-10.5.1 Changelog
+
+- Bump up Matrixx version to 10.5.1
+- Added offset for depth wallpaper
+- Fixed Center clock issue
+- Fix BT noise on startup
+- Fix NPE on Wifi display settings
+- Silence AppsOps debugging messages
+- Disable Smart Pixels on UDFPS
+- Updated Pif to fix Integrity
+
 # Matrixx v-10.5.0 Changelog
 
 - Bump up Matrixx version to 10.5.0
