@@ -1,3 +1,9 @@
+# 17-MAY-2024
+- Update Basic call recorder
+- Update Ksu to the latest version
+- Add prebuilt protobuf full 3.9.1
+- Other Fixes under the hood
+
 # 13-MAY-2024
 - Better RAM management
 - dex2oat64 on sm8350
