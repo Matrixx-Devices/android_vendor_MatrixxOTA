@@ -9,3 +9,7 @@
 - Upstream kernel to 5.4.259
 - Import Audio configs from stock
 - Fix Wifi speed 
+
+# Changelog 17 May 2024:
+- Base on new trees. Clean flash is mandatory
+- Improve performance and stability
