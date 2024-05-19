@@ -1,3 +1,9 @@
+# Changelog 19 May 2024:
+- Updated blobs to 2.5.5
+- Improved system stability
+- Fix random reboots
+- Misc improvements
+
 # Changelog 26 Aprill 2024:
 - Removed Dolby for time being
 - Reduce blur radius
