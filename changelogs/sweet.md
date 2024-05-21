@@ -1,3 +1,7 @@
+# 19-05-2024
+
+- switch to sleepy kernel
+
 # 01-05-2024
 
 - Added leica cam
