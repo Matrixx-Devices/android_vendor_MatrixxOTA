@@ -1,3 +1,8 @@
+# 21-May-2024
+- Fixed Auto Brightness issue
+- Haptics improved
+- Screen flickering at low brightness is addressed to some extent (very less flickers now)
+
 # 14-May-2024
 - Update hyperos cam from 1.0.5.0.UMRMIXM 
 - Bring back Thermal Profiles
