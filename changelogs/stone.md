@@ -1,6 +1,6 @@
 # 26-May-2024
 - Synced with latest source
-- Signed build for cts ( test )
+- Signed build for cts
 - Added support for 24 bit wired headphones
 - Enabled vibrate on icon animation
 - Added script for remove cache and package cache after dirty flash
