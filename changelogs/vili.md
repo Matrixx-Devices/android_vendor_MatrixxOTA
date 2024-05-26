@@ -1,3 +1,14 @@
+# 26-MAY-2024
+- Updated vili specific blobs to V816.0.2.0.UKDMIXM (credits to TheStrechh)
+- Updated included firmware to V816.0.2.0.UKDMIXM
+- Updated common blobs from Haydn V816.0.2.0.UKKMIXM
+- Dropped QTI thermal HAL service
+- Dropped livedisplay leftovers and switched to simple RGB adjustments (can be found in display color settings)
+- Updated KSU to the latest version
+- Kernel Rebased to latest LineageOS kernel
+- Kernel Upstreamed to 5.4.276
+- Sign build for safetynet
+
 # 17-MAY-2024
 - Update Basic call recorder
 - Update Ksu to the latest version
