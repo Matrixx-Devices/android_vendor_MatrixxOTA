@@ -13,3 +13,7 @@
 # Changelog 17 May 2024:
 - Base on new trees. Clean flash is mandatory
 - Improve performance and stability
+
+# Changelog 26 May 2024
+- fix Egistec fingerprint
+- fix error 7 in recovery
