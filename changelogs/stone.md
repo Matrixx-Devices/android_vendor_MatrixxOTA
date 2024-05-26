@@ -1,3 +1,23 @@
+# 26-May-2024
+- Synced with latest source
+- Signed build for cts ( test )
+- Added support for 24 bit wired headphones
+- Enabled vibrate on icon animation
+- Added script for remove cache and package cache after dirty flash
+- Extended audio offload buffer size
+- Enabled all vibration intensity
+- Use the new auto network selection page
+- Fixed updater missing issue
+- Increased swappiness
+- Switched to LMKD
+- Remove deprecated trust HAL,libtinyxml
+- Add back refresh rate overlays
+- Added props for better ram management
+- Disabled display refresh rate override
+- Silence battery logspam
+- Tuned powerhint.xml for performance
+- Many more underhood changes
+
 # 14-May-2024
 - Synced with latest source
 - Rebased over new tree
