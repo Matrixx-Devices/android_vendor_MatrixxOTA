@@ -1,3 +1,17 @@
+# Matrixx v-10.5.2 Changelog
+
+- Bump up Matrixx version to 10.5.2
+- Signed builds to fix Play integrity
+- Fixed Notification light settings crash
+- Fixed screen brightness inconsistency before and after reboot
+- Fixed Status bar clock chip background
+- Fixed Udfps animation positioning logic
+- Fixed UDFPS animations for multi-user
+- Fixed UDFPS icons for multi-user
+- Fixed Unlimited Google photos storage issue
+- Fixed User Switch Timeout Issue
+- Improved statusbar padding implementation
+
 # Matrixx v-10.5.1 Changelog
 
 - Bump up Matrixx version to 10.5.1
