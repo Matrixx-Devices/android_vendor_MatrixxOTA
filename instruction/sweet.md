@@ -7,7 +7,7 @@
 
 **Clean Flash:**
 
-- Use OrangeFox recovery ([Download here](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-EROFSCompression.zip))
+- Use twrp recovery ([Download here](https://t.me/kamleshbuilds/313))
 - Wipe metadata, data, dalvik, and cache.
 - Flash the ROM from internal storage if available locally.
 - Format data and reboot to system.
