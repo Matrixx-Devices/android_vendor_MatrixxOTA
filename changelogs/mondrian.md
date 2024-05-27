@@ -1,3 +1,9 @@
+# 27-May-2024
+
+- Source upstream (10.5.2)
+- Update vendor blobs
+- Note : a KSU-patched boot image is available (see instructions for more details)
+
 # 21-May-2024
 
 - Source upstream (10.5.1)
