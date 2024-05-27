@@ -1,3 +1,10 @@
+# 26-05-2024
+
+- Sytemui crash fixed
+- Non Erofs Build
+- Hbm and dc dimming moves to advances display settings
+- Clean flash required
+
 # 19-05-2024
 
 - switch to sleepy kernel
