@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "cepheus",
         "device_name": "Mi 9",
-        "filename": "Matrixx-v10.3.0-Official-cepheus-Gapps-20240210.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cepheus/Matrixx-v10.3.0-Official-cepheus-Gapps-20240210.zip/download",
-        "timestamp": 1707506205,
-        "md5": "3b68898c54a947a5acef070310b26997",
-        "size": 1853655309,
-        "version": "v10.3.0"
+        "filename": "Matrixx-v10.5.2-Official-cepheus-Gapps-20240528.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cepheus/Matrixx-v10.5.2-Official-cepheus-Gapps-20240528.zip/download",
+        "timestamp": 1716868968,
+        "md5": "5eea20f33b5c21b9f29d4f891c30ca50",
+        "size": 2094284631,
+        "version": "v10.5.2"
     }
   ]
 }
