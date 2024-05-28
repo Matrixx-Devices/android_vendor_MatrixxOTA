@@ -1,3 +1,7 @@
+# 27-May-2024
+- Upstreamed to latest 10.5.2 Matrixx source
+- Upstreamed n0kernel to latest kernel source
+
 # 16-May-2024
 - Upstreamed to latest 10.5.0 Matrixx source
 - Introduce OnePlus Dolby daxui and dax service
