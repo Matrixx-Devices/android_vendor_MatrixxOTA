@@ -1,3 +1,8 @@
+## 28-May-2024
+
+- Fixed display colour profile not working
+- Merge latest android-4.19-stable (4.19.314) into kernel
+
 ## 22-May-2024
 
 - Add some missing Dirac strings
@@ -32,7 +37,7 @@
 - Import more Video Calls related props
 - Increase audio HAL buffer size to 240kb
 - KernelSU: update to v0.9.4
-- Merge 4.19.313 into kernel
+- Merge latest android-4.19-stable (4.19.313) into kernel
 - Properly disable phantom process killing
 - Remove code for starting legacy ril
 - Remove IO `read_ahead_kb` tune
