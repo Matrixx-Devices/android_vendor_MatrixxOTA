@@ -1,7 +1,7 @@
 **Before start flashing.....**
 
 1. Your bootloader must be unlocked
-2. You have to be on OS1.0.5.0.UMGMIXM firmware
+2. You have to be on OS1.0.5.0.UMGMIXM (for topaz) / OS1.0.7.0.UMTMIXM (for tapas) firmware
 ----
 
 ## Vanilla variant
@@ -16,16 +16,17 @@
 4. Reboot in recovery
 5. Flash modified RO2RW (https://t.me/NPDTeam/1/16322)
 6. Reboot into recovery
-7. Flash NikGapps (Omni or Full is NOT RECOMMENDED).
+7. Flash NikGapps (prefer core variant).
 
 - If you are using Matrixx Recovery:
 1. Reboot into the recovery
 2. Select "Apply Update" -> ADB
 3. Connect to PC
 4. Enter the command: adb sideload Matrixx.zip (change the name to the correct one).
+5. Format data
 
 - If you need gapps:
-5. Simply flash through adb sideload NikGapps (FULL OR OMNI is NOT RECOMMENDED!!!).
+6. Simply flash through adb sideload NikGapps (prefer core variant).
 
 **Dirty flash:**
 - If you are using OrangeFox
@@ -45,4 +46,4 @@
 4. Enter the command: adb sideload Matrixx.zip (change the name to the correct one).
 
 - If you installed gapps before (Matrixx Recovery):
-5. Simply flash through adb sideload NikGapps (FULL OR OMNI is NOT RECOMMENDED!!!).
+5. Simply flash through adb sideload NikGapps (prefer core variant)

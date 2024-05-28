@@ -1,3 +1,13 @@
+# 28-May-2024
+- Bump to Matrixx 10.5.2
+- Fixed Auto Brightness issue
+- Fixed wired headphones (again)
+- Switch to release keys (signed build)
+- Now system_server battery consume has been fixed
+- Start NFC service only on topaz
+- Fix temp value in "CPU Info" tile
+- Minor fixes
+
 # 16-May-2024
 
 - Fix some wired headphones doesn't work
