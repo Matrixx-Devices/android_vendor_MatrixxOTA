@@ -11,6 +11,10 @@
 - Fixed Unlimited Google photos storage issue
 - Fixed User Switch Timeout Issue
 - Improved statusbar padding implementation
+- Fixed systemui high cpu usage on idle
+- Boost gesture flings
+- Removed power menu shadow
+- Improved system optimization
 
 # Matrixx v-10.5.1 Changelog
 
