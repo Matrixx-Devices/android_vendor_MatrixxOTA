@@ -1,3 +1,7 @@
+# 28-May-2024
+- Signed build to pass Play Integrity again
+- Updated BCR App to latest 1.63
+
 # 21-May-2024
 - Fixed Auto Brightness issue
 - Haptics improved
