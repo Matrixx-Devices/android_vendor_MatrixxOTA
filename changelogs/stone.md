@@ -1,3 +1,9 @@
+# 30-May-2024
+- Synced with latest source
+- Fixed all battery drain issues
+- Fixed smart pixel
+- More underhood changes
+
 # 26-May-2024
 - Synced with latest source
 - Signed build for cts
