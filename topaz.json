@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "artemscine",
+        "oem": "Xiaomi",
+        "device": "topaz",
+        "device_name": "Redmi Note 12 4G",
+        "filename": "Matrixx-v10.5.2-Official-topaz-Gapps-20240529.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/topaz/Matrixx-v10.5.2-Official-topaz-Gapps-20240529.zip/download",
+        "timestamp": 1716969205,
+        "md5": "234154a11bd0a457fb6fc8dc47fe3b32",
+        "size": 1303087681,
+        "version": "v10.5.2"
+    }
+  ]
+}
