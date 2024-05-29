@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "FrEeRuNnEr4EvEr",
+        "oem": "Samsung",
+        "device": "beyond2lte",
+        "device_name": "Samsung Galaxy S10+",
+        "filename": "Matrixx-v10.5.2-Official-beyond2lte-Gapps-20240528.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/beyond2lte/Matrixx-v10.5.2-Official-beyond2lte-Gapps-20240528.zip/download",
+        "timestamp": 1716903661,
+        "md5": "136626484d7b844caa06c83d4f9b98b8",
+        "size": 1620042143,
+        "version": "v10.5.2"
+    }
+  ]
+}
