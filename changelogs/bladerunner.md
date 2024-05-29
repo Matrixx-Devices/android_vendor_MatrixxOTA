@@ -1,3 +1,16 @@
+# 29-May-2024
+
+- Bump to Matrixx 10.5.2
+- Switch to release keys (signed build)
+- KernelSU By default(Install apk)
+- KernelSU 0.9.4 Drivers Updated
+- OnePlus Dolby Added
+- Replace Dialer With Aosp
+- Enable Call Recording
+- Many more underhood changes
+- Improved system performance and stability
+
+
 # 20-Apr-2024
 
 - Synced with latest v10.4.2 source
