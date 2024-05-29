@@ -1,3 +1,64 @@
+## 28-May-2024
+
+- Fixed display colour profile not working
+- Merge latest android-4.19-stable (4.19.314) into kernel
+
+## 22-May-2024
+
+- Add some missing Dirac strings
+- Add support for zero brightness doze mode
+- Allow power HAL writing to node
+- Avoid delay for vblank disable from DRM
+- Build hidl manager memory block
+- Declare `BootCompletedReceiver` as exported reciever
+- Disable `FRP`
+- Disable `QCRIL` power saving
+- Disable `vendor_modprobe` commands
+- Do not force `DCI-P3` on adaptive color mode
+- Drop Qualcomm WFD
+- Enable AAC frame control for HAL implementation
+- Enable asynchronous library events in WPA supplicant
+- Enable building `ssrec` for Audio Externals
+- Enable camera API v2 for `Snap`
+- Enable display async powermode
+- Ensure `doze_mode` is set to LBM when disabling AOD
+- Enable `editable_enhanced_4g_lte_bool` globally
+- Enable HWC for VDS
+- Enable Qualcomm TrueWireless™ Stereo
+- Enable support of HW Accelerated Effects
+- Enable TWS plus feature using persist property
+- Enable VoNR Calls support
+- Force device to treat 170M as sRGB in SF
+- Get rid of `HelpDialogFragment` class
+- Grant to create `qipcrtr_socket` for QXDM logging
+- Handle gestures category similar to pickup and proximity
+- Ignore SSR failure for modem
+- Implement doze modes and auto brightness
+- Import more Video Calls related props
+- Increase audio HAL buffer size to 240kb
+- KernelSU: update to v0.9.4
+- Merge latest android-4.19-stable (4.19.313) into kernel
+- Properly disable phantom process killing
+- Remove code for starting legacy ril
+- Remove IO `read_ahead_kb` tune
+- Remove some `camera-daemon` commands
+- Set `debug.sf.auto_latch_unsignaled` to 0
+- Set default doze brightness icon
+- Set network mode to `Global` by default
+- Set up UDFPS framework dimming
+- Set `VENDOR_SECURITY_PATCH` To `PLATFORM`
+- Silence `qpnp-smb2` dmesg spam while charging
+- Store Socket ID for drivers
+- Strip off some debug packages
+- Suppress warning related to NNAPI HAL accessing `zeroth.debuglog.logmask`
+- Switch to neutron clang
+- Switch to `vendor-defined` color modes
+- Toggle on `TARGET_HAS_HDR_DISPLAY` flag
+- Update deprecated screen power items
+- Update Hi-Fi drawable
+- Use common `power-libperfmgr`
+- Use `nqnfcinfo` to set chip ID and firmware version
+
 ## 01-May-2024
 
 - Add a property to query GPU model name
@@ -6,8 +67,8 @@
 - Add libinit for variants handling
 - Add stereo config channel support to USB surround sound
 - Add more CPU frequency
+- Add navigation and video thermal profiles
 - Add NEON accelerated XOR implementation
-- Add {navigation, video} thermal profiles
 - Add support for `KGSL_PROP_VK_DEVICE_ID`
 - Add support to get GPU model from device tree
 - Add support to modify display counter
