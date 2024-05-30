@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "FrEeRuNnEr4EvEr",
+        "oem": "Samsung",
+        "device": "d2s",
+        "device_name": "Samsung Galaxy Note 10+",
+        "filename": "Matrixx-v10.5.2-Official-d2s-Gapps-20240529.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/d2s/Matrixx-v10.5.2-Official-d2s-Gapps-20240529.zip/download",
+        "timestamp": 1716972690,
+        "md5": "79cf4b7557308412b13a436b5c542816",
+        "size": 1604950482,
+        "version": "v10.5.2"
+    }
+  ]
+}

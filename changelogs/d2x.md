@@ -1,5 +1,4 @@
-# Changelog 18 Feb 2024:
-- Initial official release
-- Fixed some microphone issues
+# Changelog 29 May 2024:
+- Fixed all microphone issues
 - Upstreamed kernel
-- Added support for nfc Mifare tags
+- Smooth AF
