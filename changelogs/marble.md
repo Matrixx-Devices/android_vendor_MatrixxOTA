@@ -1,3 +1,6 @@
+# 30-May-2024
+- Sync with latest source to fix few source side errors
+
 # 28-May-2024
 - Signed build to pass Play Integrity again
 - Updated BCR App to latest 1.63
