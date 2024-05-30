@@ -1,5 +1,6 @@
 # 29-May-2024
 - Fix play integrity
+- Note : /!\ CLEAN FLASH is mandatory /!\
 
 # 27-May-2024
 - Source upstream (10.5.2)
