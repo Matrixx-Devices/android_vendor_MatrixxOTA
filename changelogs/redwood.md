@@ -1,3 +1,9 @@
+# 31-May-2024
+- fixed systemui high cpu usage on idle
+- kernel: fixed heating issue
+- kernel: updated kernelSU to v0.9.4
+- kernel: Added 90hz support
+
 # 27-May-2024
 - No changes
 
