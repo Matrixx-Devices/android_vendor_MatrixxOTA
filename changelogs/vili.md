@@ -1,3 +1,6 @@
+# 04-Jun-2024
+- Fix Safetynet again
+
 # 03-Jun-2024
 - Sync with latest source to fix few source side errors
 - Dropped livedisplay leftovers
