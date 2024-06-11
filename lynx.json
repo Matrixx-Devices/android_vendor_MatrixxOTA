@@ -6,12 +6,12 @@
         "oem": "Google",
         "device": "lynx",
         "device_name": "Google Pixel 7a",
-        "filename": "Matrixx-v10.4.3-Official-lynx-Gapps-20240509.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lynx/Matrixx-v10.4.3-Official-lynx-Gapps-20240509.zip/download",
-        "timestamp": 1715258968,
-        "md5": "6ad9a0134e7f484b0de0f4c41e932261",
-        "size": 2770062575,
-        "version": "v10.4.3"
+        "filename": "Matrixx-v10.5.2-Official-lynx-Gapps-20240611.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lynx/Matrixx-v10.5.2-Official-lynx-Gapps-20240611.zip/download",
+        "timestamp": 1718113898,
+        "md5": "b877b91dfb42bf1dfb7f22574fc8e158",
+        "size": 2652338595,
+        "version": "v10.5.2"
     }
   ]
 }

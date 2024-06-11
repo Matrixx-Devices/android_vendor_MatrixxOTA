@@ -3,6 +3,13 @@ title: Pixel 7/7 Pro (panther)(cheetah)
 description: Brought to you by Pyrtle93
 ---
 
+# Changelog 11 June 2024:
+
+- Sync with latest source to fix few source side errors
+- Signed builds
+- Various fixes/improvements
+- Updated V4A to latest
+
 # Changelog 09 May 2024:
 
 - Synced with latest source v10.4.3

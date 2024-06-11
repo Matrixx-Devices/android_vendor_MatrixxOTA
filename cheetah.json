@@ -6,12 +6,12 @@
         "oem": "Google",
         "device": "cheetah",
         "device_name": "Google Pixel 7 Pro",
-        "filename": "Matrixx-v10.4.3-Official-cheetah-Gapps-20240509.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.4.3-Official-cheetah-Gapps-20240509.zip/download",
-        "timestamp": 1715251533,
-        "md5": "ebb720e750eb464182fd21ac8304c37b",
-        "size": 2762649835,
-        "version": "v10.4.3"
+        "filename": "Matrixx-v10.5.2-Official-cheetah-Gapps-20240611.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/pantah/cheetah/Matrixx-v10.5.2-Official-cheetah-Gapps-20240611.zip/download",
+        "timestamp": 1718109877,
+        "md5": "5fde8e93576ce122ceda48d402135266",
+        "size": 2645408693,
+        "version": "v10.5.2"
     }
   ]
 }
