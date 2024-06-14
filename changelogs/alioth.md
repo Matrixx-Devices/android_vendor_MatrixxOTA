@@ -1,3 +1,14 @@
+# 14-June-2024
+- Upstreamed to latest 10.5.2 Matrixx source
+- Upstreamed n0kernel to latest kernel source
+- Enable ported CLO memory optimization
+- Set GPU idle timeout to 58 ms
+- Misc changes  in powerhint
+- Improve Boot time tuning
+- Lower down rate limit for prime CPU 
+- Fix PowerHAL nodes
+- Switched to uclamp
+
 # 27-May-2024
 - Upstreamed to latest 10.5.2 Matrixx source
 - Upstreamed n0kernel to latest kernel source
