@@ -5,12 +5,12 @@
         "oem": "Google",
         "device": "bluejay",
         "device_name": "Google Pixel 6a",
-        "filename": "Matrixx-v10.5.2-Official-bluejay-Gapps-20240530.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bluejay/Matrixx-v10.5.2-Official-bluejay-Gapps-20240530.zip/download",
-        "timestamp": 1717062188,
-        "md5": "e2e475dee9d6d90250d37ab10a8d0db4",
-        "size": 2024086058,
-        "version": "v10.5.2"
+        "filename": "Matrixx-v10.5.3-Official-bluejay-Gapps-20240614.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bluejay/Matrixx-v10.5.3-Official-bluejay-Gapps-20240614.zip/download",
+        "timestamp": 1718393695,
+        "md5": "fc32517ff9493f52e8ed8e30a6c79445",
+        "size": 2108456525,
+        "version": "v10.5.3"
     }
   ]
 }
