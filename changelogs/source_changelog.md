@@ -1,3 +1,17 @@
+# Matrixx v-10.5.3 Changelog
+
+- Bump up Matrixx version to 10.5.3
+- Added boost gesture flings
+- Added contextual dashboard messages
+- Added custom themed icon support
+- Added Poppins & HarmonyOS Sans font
+- Add Google AI/Emoji wallpaper (Gapps builds only)
+- Code cleanup and optimizaions
+- Improved loading spinner animation
+- Minor design changes in About Phone ui
+- Reduce redundant volume broadcast
+- Removed seekbar thumb
+
 # Matrixx v-10.5.2 Changelog
 
 - Bump up Matrixx version to 10.5.2
