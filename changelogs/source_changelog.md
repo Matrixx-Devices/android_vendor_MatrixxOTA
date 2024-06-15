@@ -5,12 +5,13 @@
 - Added contextual dashboard messages
 - Added custom themed icon support
 - Added Poppins & HarmonyOS Sans font
-- Add Google AI/Emoji wallpaper (Gapps builds only)
-- Code cleanup and optimizaions
+- Added Google AI/Emoji wallpaper (Gapps builds only)
+- Added quick tap option
 - Improved loading spinner animation
 - Minor design changes in About Phone ui
 - Reduce redundant volume broadcast
 - Removed seekbar thumb
+- Code cleanup and optimizations
 
 # Matrixx v-10.5.2 Changelog
 
