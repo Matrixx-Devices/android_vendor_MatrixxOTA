@@ -1,3 +1,10 @@
+# 15-June-2024
+- Updated BCR App to latest 1.64 
+- Updated ViperFX to latest 6.3
+- Updated build fingerprint
+- Updated CarrierConfig from Nothing Phone1
+- Added overlay to Enable FPS Info 
+
 # 30-May-2024
 - Sync with latest source to fix few source side errors
 
