@@ -3,8 +3,7 @@
 - Always have backup of your internal storage
 - Use TWRP recovery meant for Android 14. Check the note [**#twrp_a14**](https://t.me/KSSRAO_Romverse)
 - To retain TWRP recovery after rom flash, don't forget to tick the option "Automatically Reflash TWRP after flashing a rom" in recovery. Else TWRP will be replaced by recovery from rom
-- For Kernel SU, if rom released on or after 11.04.24 in my group, either use melt kernel or check note [#ksu_los](https://t.me/KSSRAO_Romverse)
-- For Kernel SU, if rom released before 11.04.24 in my group, check note [#ksu_a14](https://t.me/KSSRAO_Romverse)
+- For Kernel SU, check note [#ksu_a14](https://t.me/KSSRAO_Romverse)
 - For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
 ----
 
