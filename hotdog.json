@@ -5,12 +5,12 @@
         "oem": "OnePlus",
         "device": "hotdog",
         "device_name": "OnePlus 7t Pro",
-        "filename": "Matrixx-v10.5.2-Official-hotdog-Gapps-20240528.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hotdog/Matrixx-v10.5.2-Official-hotdog-Gapps-20240528.zip/download",
-        "timestamp": 1716891196,
-        "md5": "226d1e0171381011998f5d924816c95d",
-        "size": 1466640527,
-        "version": "v10.5.2"
+        "filename": "Matrixx-v10.5.3-Official-hotdog-Gapps-20240615.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hotdog/Matrixx-v10.5.3-Official-hotdog-Gapps-20240615.zip/download",
+        "timestamp": 1718471970,
+        "md5": "66c9e93c4c60da69a0208e6f3c9f4be7",
+        "size": 1606275696,
+        "version": "v10.5.3"
     }
   ]
 }
