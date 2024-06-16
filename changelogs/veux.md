@@ -1,3 +1,8 @@
+# 16-JUN-2024
+- Fixed Updater.
+- Fixed FM Radio.
+- Synced with latest source.
+
 # 30-MAY-2024
 - Synced with latest source.
 
