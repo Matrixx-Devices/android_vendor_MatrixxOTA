@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "topaz",
         "device_name": "Redmi Note 12 4G",
-        "filename": "Matrixx-v10.5.2-Official-topaz-Vanilla-20240528.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/topaz/Matrixx-v10.5.2-Official-topaz-Vanilla-20240528.zip/download",
-        "timestamp": 1716925648,
-        "md5": "9ea8c23470947ba6645b0a1f6f665926",
-        "size": 1160837001,
-        "version": "v10.5.2"
+        "filename": "Matrixx-v10.5.3-Official-topaz-Vanilla-20240616.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/topaz/Matrixx-v10.5.3-Official-topaz-Vanilla-20240616.zip/download",
+        "timestamp": 1718534801,
+        "md5": "b2906dc275d9a53fc44930cbf7ecd049",
+        "size": 1162538442,
+        "version": "v10.5.3"
     }
   ]
 }
