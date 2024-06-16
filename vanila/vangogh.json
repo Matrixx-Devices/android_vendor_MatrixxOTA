@@ -1,0 +1,17 @@
+{
+    "response": [
+      {
+          "maintainer": "Alec Chan",
+          "support_group": "https://t.me/alec_rom_support",
+          "oem": "Xiaomi",
+          "device": "vangogh",
+          "device_name": "Mi 10 Lite Zoom",
+          "filename": "Matrixx-v10.5.3-Official-vangogh-Vanilla-20240615.zip",
+          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/vangogh/Matrixx-v10.5.3-Official-vangogh-Vanilla-20240615.zip/download",
+          "timestamp": 1718431991,
+          "md5": "5f9e2cb4881f6034f18973c9dcd64849",
+          "size": 1743513206,
+          "version": "v10.5.3"
+      }
+    ]
+  }
