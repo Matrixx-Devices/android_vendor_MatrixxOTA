@@ -1,3 +1,10 @@
+# 16-Jun-2024
+- Updated blobs to OS1.0.4.0.UMSMIXM
+- Shipped with OS1.0.4.0.UMSMIXM firmware 
+- Updated adreno blobs to v744
+- Build Aptx and ldacBT libs from source
+- Switched to Google dialer
+
 # 31-May-2024
 - fixed systemui high cpu usage on idle
 - kernel: fixed heating issue
