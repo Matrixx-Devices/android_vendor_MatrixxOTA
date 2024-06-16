@@ -1,3 +1,12 @@
+# 16-June-2024
+
+- Bump to Matrixx 10.5.3
+- Correct auto brightness values according to stock
+- Cleanup DT
+- Fix volume control while calling via messengers
+- Fix OTA in GApps build
+- Some minor changes
+
 # 28-May-2024
 - Bump to Matrixx 10.5.2
 - Fixed Auto Brightness issue
