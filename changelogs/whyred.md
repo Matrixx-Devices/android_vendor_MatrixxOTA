@@ -3,6 +3,7 @@
 - Fixed usb file transfer
 - Fixed hotspot error
 - Miui Camera Inbuilt
+- Fixed fingerprint for goodix and fpc
 - Many more underhood changes
 
 # 12-Feb-2024
