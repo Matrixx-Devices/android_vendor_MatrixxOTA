@@ -1,7 +1,13 @@
 ---
-title: Pixel 7/7 Pro (panther)(cheetah)
+title: Pixel 7 (panther)
 description: Brought to you by Pyrtle93
 ---
+
+# Changelog 22 June 2024:
+
+- Sync with latest source changes on 10.5.3
+- Changed kernel to Neogen
+- More improvements
 
 # Changelog 11 June 2024:
 
