@@ -1,3 +1,14 @@
+# 26-June-2024
+- Fixed flickering issues at Low Brightness & AoD 
+- Added back support for Dolby spatial audio
+- Added qs tile for refresh rate
+- Added back world phone options for prefered network
+- Updated BCR App to latest v1.65
+- Silenced some spammy logging 
+- Updated Adreno blobs from chenfeng V816.0.5.0.UNJCNXM 
+- Refactored Clear Speaker Fragment code 
+- Imported missing media codecs from stock
+
 # 15-June-2024
 - Updated BCR App to latest 1.64 
 - Updated ViperFX to latest 6.3
