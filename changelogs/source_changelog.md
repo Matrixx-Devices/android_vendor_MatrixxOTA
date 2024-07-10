@@ -1,3 +1,10 @@
+# Matrixx v-10.6.0 Changelog
+
+- Bump up Matrixx version to 10.6.0
+- Initial qpr3 release
+- Security patch updated to July 2024
+- Fixed ram management issue
+
 # Matrixx v-10.5.3 Changelog
 
 - Bump up Matrixx version to 10.5.3
