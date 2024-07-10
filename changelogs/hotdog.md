@@ -1,3 +1,8 @@
+# 10-July-2024
+- Update Kernel to LOS upstream
+- Updated KSU to 0.9.5
+- Added device as webcam support
+
 # 17-May-2024
 - Update Kernel to LOS upstream
 - Updated KSU to 0.9.4

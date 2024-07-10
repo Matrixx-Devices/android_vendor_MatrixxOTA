@@ -1,3 +1,7 @@
+# 10-July-2024
+- Update KSU to 0.9.5
+- Updated kernel
+
 # 17-May-2024
 - Updated kernel to lineage upstream
 - Update KSU to 0.9.4
