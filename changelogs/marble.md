@@ -1,3 +1,10 @@
+# 10-July-2024
+- Synced with QPR3 based July SP Source
+- Fixed OIS
+- Updated ViperFX to latest 6.5 
+- Reverted to stock Adreno blobs to fix gameplay issues 
+- Updated some blobs
+
 # 26-June-2024
 - Fixed flickering issues at Low Brightness & AoD 
 - Added back support for Dolby spatial audio
