@@ -1,3 +1,14 @@
+# 10-July-2024
+- Shipped with OS1.0.5.0.UMSMIXM firmware
+- Switched to stock HyperOS camera V5.1.001110.5 ( This uses Google Photos as the default gallery. You need to install Google Photos to open pictures from the camera.)
+- Updated blobs to OS1.0.5.0.UMSMIXM
+- Updated radio properties from haydn V816.0.1.0.UKKCNXM
+- Updated IMS blobs to haydn V816.0.1.0.UKKCNXM
+- Fixed low mic issue on  whatsapp, telegram etc 
+- overlay: Added P3 and sRGB color mode
+- Switched to AOSP dialer and message again
+- Build missing libraries for 14 QPR3
+
 # 16-Jun-2024
 - Updated blobs to OS1.0.4.0.UMSMIXM
 - Shipped with OS1.0.4.0.UMSMIXM firmware 
