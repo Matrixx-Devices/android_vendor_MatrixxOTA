@@ -1,4 +1,15 @@
-# 04-Jun-2024
+# 10-Jul-2024
+- Kernel Void 5.4.278 Thanks to Omar
+- Dropped some apps eleven,mapps,seedvault
+- Dropped KernelSU support. Use APatch or Magisk instead
+- Update ViPER4Android FX 6.5
+- Update BCR 1.65
+- Use AOSP default Codec2/OMX ranks
+- lmkd: kill heaviest task instead of any eligible task
+- Disable VSync for CPU-rendered apps
+- Other Fixes under the hood.
+
+# 14-Jun-2024
 - Synced to latest Matrixx source
 - Other Fixes under the hood.
 
