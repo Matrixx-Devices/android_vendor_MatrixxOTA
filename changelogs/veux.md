@@ -1,3 +1,8 @@
+# 10-JUL-2024
+- Initial QPR3 Build.
+- Comes with latest positron kernel.
+- Some under the hood improvements.
+
 # 16-JUN-2024
 - Fixed Updater.
 - Fixed FM Radio.
