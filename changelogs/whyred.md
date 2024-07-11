@@ -1,3 +1,10 @@
+# 11-July-2024
+- Synced with latest source
+- Fixed camera and all other sensors
+- Fixed fingerprint sensor for fpc and goodix users
+- Added miui camera
+- Many more underhood changes
+
 # 17-June-2024
 - Synced with latest source
 - Fixed usb file transfer
