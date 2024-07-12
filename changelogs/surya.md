@@ -1,3 +1,15 @@
+# 12 July 2024
+
+- Synced with latest source
+- July Security Patch [UQPR3]
+- Use QTI vibrator HAL
+- Drop AIDL power extension
+- Use powerhint for DT2W and DT2S
+- Optimize auto brightness
+- VoLTE/ViLTE/VoWiFi for 470 and 268 mcc
+- Enable Turbo Charging With OEM Charger
+- Arise Igris Kernel [KernelSU Included]
+
 # 15 May 2024
 
 - Synced with latest source
