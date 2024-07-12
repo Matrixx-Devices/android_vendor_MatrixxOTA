@@ -17,3 +17,8 @@
 # Changelog 26 May 2024
 - fix Egistec fingerprint
 - fix error 7 in recovery
+
+# Changelog 11 July 2024
+- Upstream kernel to 5.4.279
+
+
