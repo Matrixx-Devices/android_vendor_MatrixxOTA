@@ -1,3 +1,21 @@
+# Matrixx v-10.6.1 Changelog
+
+- Update release version to 10.6.1
+- Added back removed options after qpr3:
+	- Lockscreen timeout: Make timeout configurable
+	- Allow setting custom symbol near text on charging
+	- Power/reboot menu transparency
+	- Added Rotate animation to Power Menu
+	- Toast Animations
+	- Long swipe gesture implementation
+	- Max Lockscreen Notification count
+	- Max Notif Panel Notification count
+	- Custom(User Selected) UDFPS Icon
+- Added back navbar layout
+- Fixed less boring headsup causing systemui force close
+- Moved Gesture navigation to Matrixx Settings
+- Fixed battery percent view not disappearing after disconnecting charger
+
 # Matrixx v-10.6.0 Changelog
 
 - Bump up Matrixx version to 10.6.0
