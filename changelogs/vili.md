@@ -1,3 +1,6 @@
+# 13-JUL-2024:
+- Synced with latest source v10.6.1
+
 # 10-Jul-2024
 - Kernel Void 5.4.278 Thanks to Omar
 - Dropped some apps eleven,mapps,seedvault
