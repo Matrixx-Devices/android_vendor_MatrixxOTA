@@ -1,4 +1,7 @@
-# 10-JUL-2024
+# 13-JUL-2024:
+- Synced with latest source v10.6.1
+
+ # 10-JUL-2024
 - Initial QPR3 Build.
 - Comes with latest positron kernel.
 - Some under the hood improvements.
