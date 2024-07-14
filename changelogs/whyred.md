@@ -1,3 +1,10 @@
+# 14-July-2024
+- Synced with latest source
+- Added device settings again
+- Fixed all previous issues
+- Fixed an issue with dirac
+- Many more underhood changes
+
 # 11-July-2024
 - Synced with latest source
 - Fixed camera and all other sensors
