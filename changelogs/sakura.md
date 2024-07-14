@@ -1,3 +1,20 @@
+# Changelog 14 July 2024:
+- Synced with latest v10.6.1 source
+- Moved to Fbev1
+- Remove software omx codec references
+- Use AOSP default Codec2/OMX ranks
+- Set higher priority to c2 than OMX
+- finetune performance xml
+- Finetune mediacodec performance
+- mark the target with slow cpu
+- Drop Xiaomiparts once and for all
+- QCamera2: Fix sensor to active array ROI conversion
+- HAL3 Fix for memleak if for snapshot stream
+- Fix sharpness issue in snapshot
+- Fix snprintf string truncation error
+- Further more changes
+- Rom signed with sign keys
+
 # Changelog 17 March 2024:
 - Synced with latest v10.3.1 source
 - Set zram size to 50% of system ram
