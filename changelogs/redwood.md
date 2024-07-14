@@ -1,3 +1,6 @@
+# 14-July-2024
+- No changes
+
 # 10-July-2024
 - Shipped with OS1.0.5.0.UMSMIXM firmware
 - Switched to stock HyperOS camera V5.1.001110.5 ( This uses Google Photos as the default gallery. You need to install Google Photos to open pictures from the camera.)
