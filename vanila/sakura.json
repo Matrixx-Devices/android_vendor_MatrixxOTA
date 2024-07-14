@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "sakura",
         "device_name": "Redmi 6 Pro",
-        "filename": "Matrixx-v10.3.1-Official-sakura-Vanilla-20240315.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.3.1-Official-sakura-Vanilla-20240315.zip/download",
+        "filename": "Matrixx-v10.6.1-Official-sakura-Vanilla-20240714.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.6.1-Official-sakura-Vanilla-20240714.zip/download",
         "timestamp": 1710539280,
-        "md5": "ec061db29124ad43b7eee1116e7abe82",
-        "size": 1053499383,
-        "version": "v10.3.1"
+        "md5": "f43fea9c415c103c8bf81365461915d7",
+        "size": 1073956779,
+        "version": "v10.6.1"
     }
   ]
 }
