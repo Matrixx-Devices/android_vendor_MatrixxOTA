@@ -1,6 +1,12 @@
 # 12 July 2024
 
 - Synced with latest source
+- Misc improvement 
+- Arise Igris Kernel [KernelSU Included]
+
+# 12 July 2024
+
+- Synced with latest source
 - July Security Patch [UQPR3]
 - Use QTI vibrator HAL
 - Drop AIDL power extension
