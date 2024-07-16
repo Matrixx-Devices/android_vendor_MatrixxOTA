@@ -2,6 +2,7 @@
 
 1. Your bootloader must be unlocked
 2. You have to be on OS1.0.5.0.UMGMIXM (for topaz) / OS1.0.7.0.UMTMIXM (for tapas) firmware
+3. You can download matrixx recovery on sourceforge: recovery folder
 ----
 ## Gapps variant
 

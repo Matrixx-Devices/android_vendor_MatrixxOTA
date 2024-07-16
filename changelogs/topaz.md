@@ -1,3 +1,13 @@
+# 16-July-2024
+
+- Bump Matrixx 10.6.1 (QPR3)
+- Fix visual SMS bug (also fixed USSD)
+- Fix offline charge (used charger from stock for now)
+- Fix overestimated mAh values 
+- Fix battery stats
+- Update kernel to 5.15.148 (google common) -> fast charging works by default
+- Minor optimizations
+
 # 16-June-2024
 
 - Bump to Matrixx 10.5.3
