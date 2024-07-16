@@ -1,25 +1,28 @@
-**Before start flashing…..**
+## Before Starting Flashing
+
 - Backup all your data to any external source.
-- Always look for the build if its GAPPS or Vanilla varient
-- If it is vanilla, then flash only the recommended flashable GAPPS zip given in notes right after flashed the rom
+- Always check if the build is GAPPS or Vanilla variant.
+- If it is a Vanilla variant, flash only the recommended flashable GAPPS zip given in the notes right after flashing the ROM.
 
-**Clean Flash:**
+## Clean Flash
 
-- Use OrangeFox Official Recovery
-- Format Data
-- Wipe metadata, data, dalvik and cache
-- Flash the rom from SD Card or OTG
-- Flash Recovery as Rmadisk
-- Format data and Reboot to system
-- If you want to sideload from ADB, Plug your phone to pc
-- Run adb sideload ROM.zip and follow step 4 
+1. Use OrangeFox Official Recovery.
+2. Format Data.
+3. Wipe metadata, data, dalvik, and cache.
+4. Flash the ROM from SD Card or OTG.
+5. Flash Recovery as Ramdisk.
+6. Format data and reboot to the system.
+7. If you want to sideload from ADB, plug your phone into the PC:
+    - Run `adb sideload ROM.zip` and follow step 4.
 
-**Rom Update/Dirty flash:**
+## ROM Update / Dirty Flash
 
-- Reboot to recovery
-- Flash the downloaded rom from internal storage
-- If you want to go with PC, then Open command prompt & sideload rom using command adb sideload <rom_filename>.zip
-- Reboot
+1. Reboot to recovery.
+2. Flash the downloaded ROM from internal storage.
+3. If you prefer using a PC:
+    - Open command prompt & sideload ROM using the command `adb sideload <rom_filename>.zip`.
+4. Reboot.
 
-**Note:**
-- If getting any issue after dirty flash, Flash clean before reporting.
+## Note
+
+- If you encounter any issues after a dirty flash, perform a clean flash before reporting.
