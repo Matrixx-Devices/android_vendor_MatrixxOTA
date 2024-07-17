@@ -1,3 +1,6 @@
+#v18-July-2024
+- Synced with latest source
+
 # 30-May-2024
 - Synced with latest source
 - Fixed all battery drain issues
