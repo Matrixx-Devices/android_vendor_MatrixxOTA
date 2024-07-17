@@ -1,3 +1,9 @@
+# 17-July-2024
+
+- Fix second simcard
+- Drop smart pixels support (broken since QPR2)
+- Drop vanilla build (have many UI bugs)
+
 # 16-July-2024
 
 - Bump Matrixx 10.6.1 (QPR3)
