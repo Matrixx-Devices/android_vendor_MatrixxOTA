@@ -3,6 +3,24 @@ title: Samsung Galaxy Tab A7 (gta4lwifi)
 description: Brought to you by Aryan
 ---
 
+<b>Changelog 19 July 2024:</b>
+- Dropped vulkan ui
+- Disable Backpressure propagation
+- Removed libqti-perfd-client
+- Removed powerhint
+- Improved Surface flingers
+- Improved read write speed
+- Removed useless props
+- Set CPU governer as perfomance
+- Fixed qs lags
+- Switched to neutron clang 18
+- Rebased and downstreamed kernel to v4.19.315
+- Added Poly loop optimisers in kernel
+- Tuned Zram to lz4 and 70%
+- Enabled lz4 compression for ramdisk
+- Enabled HWUI abpf
+- Many more underhood changes!
+
 <b>Changelog 29 APR 2024:</b>
 - Switch to VULKAN UI renderer
 - Stop pinning camera app in memory
