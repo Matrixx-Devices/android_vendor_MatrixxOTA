@@ -1,16 +1,16 @@
 {
   "response": [
     {
-        "maintainer": "JoseMCC",
+        "maintainer": "josemcc0705",
         "oem": "motorola",
         "device": "dubai",
         "device_name": "Motorola Edge 30",
-        "filename": "Matrixx-v10.5.3-Official-dubai-Gapps-20240615.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/dubai/Matrixx-v10.5.3-Official-dubai-Gapps-20240615.zip/download",
-        "timestamp": 1718441194,
-        "md5": "ca174e16653f8bea926231a03c80a441",
-        "size": 1956126383,
-        "version": "v10.5.3"
+        "filename": "Matrixx-v10.6.1-Official-dubai-Gapps-20240720.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/dubai/Matrixx-v10.6.1-Official-dubai-Gapps-20240720.zip/download",
+        "timestamp": 1721445006,
+        "md5": "a2d68b1c62a5350be284a0808dfa466c",
+        "size": 2000637047,
+        "version": "v10.6.1"
     }
   ]
 }
