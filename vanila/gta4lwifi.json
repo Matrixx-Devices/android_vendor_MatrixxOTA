@@ -5,12 +5,12 @@
         "oem": "Samsung",
         "device": "gta4lwifi",
         "device_name": "Samsung Galaxy Tab A7",
-        "filename": "Matrixx-v10.6.1-Official-gta4lwifi-Vanilla-20240719.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/gta4lwifi/Matrixx-v10.6.1-Official-gta4lwifi-Vanilla-20240719.zip/download",
-        "timestamp": 1721372870,
-        "md5": "96fc12ad191f60fa3f28bc9ca77ecc33",
-        "size": 1161605573,
-        "version": "v10.6.1"
+        "filename": "Matrixx-v10.6.2-Official-gta4lwifi-Vanilla-20240723.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/gta4lwifi/Matrixx-v10.6.2-Official-gta4lwifi-Vanilla-20240723.zip/download",
+        "timestamp": 1721726715,
+        "md5": "fcb56bdb34f14191f6c22b5316880fdb",
+        "size": 1158452571,
+        "version": "v10.6.2"
     }
   ]
 }
