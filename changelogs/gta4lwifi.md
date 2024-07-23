@@ -3,6 +3,12 @@ title: Samsung Galaxy Tab A7 (gta4lwifi)
 description: Brought to you by Aryan
 ---
 
+<b>Changelog 23 July 2024:</b>
+- Improved Touch response and scrolling
+- Removed some props
+- Reverted read write speed adjustment
+- Misc changes
+
 <b>Changelog 19 July 2024:</b>
 - Dropped vulkan ui
 - Disable Backpressure propagation
