@@ -1,3 +1,15 @@
+# Matrixx v-10.6.2 Changelog
+
+- Update release version to 10.6.2
+- Fixed notification sound/vibration
+- Fixed monet accent color isn't applying
+- Fixed Google Lens integration into Screenshot
+- Fixed settings crash for tablet
+- Fixed broken apns
+- Improved black theme color shades
+- Removed SystemUI overlay for UIStyles
+- Other system wide optimisations
+
 # Matrixx v-10.6.1 Changelog
 
 - Update release version to 10.6.1
