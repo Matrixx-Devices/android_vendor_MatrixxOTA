@@ -1,3 +1,11 @@
+# 23-JUL-2024:
+- Switched to Miui camera (vili hyperos)
+- Use AOSP default Codec2/OMX rank
+- Build android.hardware.graphics.common-V4-ndk
+- Move input surface to CCodec
+- Remove media_codecs_google_c2
+- 8Gb dalvik heap size config
+
 # 13-JUL-2024:
 - Synced with latest source v10.6.1
 
