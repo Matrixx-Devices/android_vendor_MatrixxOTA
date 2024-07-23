@@ -1,3 +1,9 @@
+# 23-July-2024
+
+- Bump Matrixx 10.6.2 (QPR3)
+- Update blobs & kernel modules to HyperOS 1.0.6.0.UMGMIXM
+- Bring back 32 bit apps support
+
 # 17-July-2024
 
 - Fix second simcard
@@ -7,7 +13,6 @@
 # 16-July-2024
 
 - Bump Matrixx 10.6.1 (QPR3)
-- Fix visual SMS bug (also fixed USSD)
 - Fix offline charge (used charger from stock for now)
 - Fix overestimated mAh values 
 - Fix battery stats
