@@ -1,3 +1,21 @@
+# 23-July-2024
+- Note: Dirty flash is fine over last build
+- Shipped with OS1.0.7.0.UMSCNXM firmware
+- updated blobs to V816.0.7.0.UMSCNXM
+- props: Disable VSync for CPU-rendered apps
+- props: Disable sf EGL image tracking
+- props: Enable lmkd
+- Introduce custom LiveDisplay HAL
+- Add Notch Bar Killer overlay
+- Codecs: Remove software omx codec references
+- Codecs: Use AOSP default Codec2/OMX ranks
+- Codecs: Move input surface to CCodec	
+- Codecs: Remove media_codecs_google_c2*
+
+
+
+
+
 # 14-July-2024
 - No changes
 
