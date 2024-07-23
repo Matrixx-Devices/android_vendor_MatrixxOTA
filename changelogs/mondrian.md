@@ -1,3 +1,9 @@
+# 23-July-2024
+- Update Leica camera to 5.0b7.5-2
+- Fix dolby atmos
+- Update thermal parts
+- Note : /!\ CLEAN FLASH is probably required due to major changes in device trees /!\
+
 # 29-May-2024
 - Fix play integrity
 - Note : /!\ CLEAN FLASH is mandatory /!\
