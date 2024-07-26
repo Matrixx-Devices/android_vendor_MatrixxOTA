@@ -1,3 +1,6 @@
+# 26-July-2024
+- Synced with latest source
+
 # 14-July-2024
 - Synced with latest source
 - Added device settings again
