@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "306bobby",
+        "oem": "Google",
+        "device": "barbet",
+        "device_name": "Pixel 5a",
+        "filename": "Matrixx-v10.6.2-Official-barbet-Vanilla-20240725.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/barbet/Matrixx-v10.6.2-Official-barbet-Vanilla-20240725.zip/download",
+        "timestamp": 1721947464,
+        "md5": "52fc691623c0597947c74132350c91e4",
+        "size": 1351108160,
+        "version": "v10.6.2"
+    }
+  ]
+}
