@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "306bobby",
+        "oem": "Google",
+        "device": "redfin",
+        "device_name": "Pixel 5",
+        "filename": "Matrixx-v10.6.2-Official-redfin-Vanilla-20240725.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/redfin/Matrixx-v10.6.2-Official-redfin-Vanilla-20240725.zip/download",
+        "timestamp": 1721956504,
+        "md5": "0e224cace278216f9d8c197bf97903c9",
+        "size": 1352159844,
+        "version": "v10.6.2"
+    }
+  ]
+}

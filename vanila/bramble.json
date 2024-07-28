@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+        "maintainer": "306bobby",
+        "oem": "Google",
+        "device": "bramble",
+        "device_name": "Pixel 4a 5G",
+        "filename": "Matrixx-v10.6.2-Official-bramble-Vanilla-20240725.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bramble/Matrixx-v10.6.2-Official-bramble-Vanilla-20240725.zip/download",
+        "timestamp": 1721959724,
+        "md5": "5952a23bb5e510e9ef7bfae6d12d17de",
+        "size": 1352087339,
+        "version": "v10.6.2"
+    }
+  ]
+}
