@@ -1,3 +1,9 @@
+# 28-07-2024
+
+- Initial qpr3 release
+- Moto dolby added
+- Mind the gapps and bitgapps recommended by vanilla build
+
 # 26-05-2024
 
 - Sytemui crash fixed
