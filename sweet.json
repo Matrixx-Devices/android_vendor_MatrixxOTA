@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "sweet",
         "device_name": "Redmi Note 10 Pro",
-        "filename": "Matrixx-v10.5.2-official-sweet-Gapps-20240526.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sweet/Matrixx-v10.5.2-official-sweet-Gapps-20240526.zip/download",
-        "timestamp": 1716730006,
-        "md5": "a91bfccb14d5bce3ac72b6902eb608b4",
-        "size": 1822386901,
-        "version": "v10.5.2"
+        "filename": "Matrixx-v10.6.2-official-sweet-Gapps-20240727.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sweet/Matrixx-v10.6.2-official-sweet-Gapps-20240727.zip/download",
+        "timestamp": 1722076037,
+        "md5": "04df3507b669aa75fc347a4acb6d3a0a",
+        "size": 1904666214,
+        "version": "v10.6.2"
     }
   ]
 }
