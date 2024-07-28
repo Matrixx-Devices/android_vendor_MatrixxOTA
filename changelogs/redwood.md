@@ -1,3 +1,8 @@
+# 28-July-2024
+- Note: Dirty flash is fine over last build
+- Note: This build is only compatible with Gtx panel
+- Switched to Google dialer & Google Messages
+
 # 23-July-2024
 - Note: Dirty flash is fine over last build
 - Shipped with OS1.0.7.0.UMSCNXM firmware
