@@ -1,4 +1,11 @@
-#v18-July-2024
+# 29-July-2024
+- Synced with latest source
+- Removed adaptive color profile
+- Added fm again
+- Fixed qcom bluetooth soc
+- More underhood changes
+
+# 18-July-2024
 - Synced with latest source
 
 # 30-May-2024
