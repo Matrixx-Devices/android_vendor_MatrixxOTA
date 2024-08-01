@@ -1,3 +1,14 @@
+# 31-July-2024
+- Moto Dolby updated to latest version (07.00.1759)
+- Moto Ready For updated to Smart Connect 07.0.0.022.5
+- Resize Status Bar
+- Added Vanilla variant
+- Fixed alarm volume always at 0
+- Fixed broken sound
+- Added changelog in Updater 
+- Synced with latest source v10.6.2
+- Other sources changes/fixes
+
 # 20-July-2024
 - Moto Dolby added
 - Moto Ready For added
