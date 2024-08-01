@@ -5,12 +5,12 @@
         "oem": "motorola",
         "device": "dubai",
         "device_name": "Motorola Edge 30",
-        "filename": "Matrixx-v10.6.1-Official-dubai-Gapps-20240720.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/dubai/Matrixx-v10.6.1-Official-dubai-Gapps-20240720.zip/download",
-        "timestamp": 1721445006,
-        "md5": "a2d68b1c62a5350be284a0808dfa466c",
-        "size": 2000637047,
-        "version": "v10.6.1"
+        "filename": "Matrixx-v10.6.2-Official-dubai-Gapps-20240731.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/dubai/Matrixx-v10.6.2-Official-dubai-Gapps-20240731.zip/download",
+        "timestamp": 1722465799,
+        "md5": "b77bd73a2161c7873c9d3c8b74c94407",
+        "size": 2016369753,
+        "version": "v10.6.2"
     }
   ]
 }
