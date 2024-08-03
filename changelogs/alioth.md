@@ -1,3 +1,12 @@
+# 03-Aug-2024
+- Upstreamed to latest 10.6.2 Matrixx source
+- Upstreamed n0kernel to latest kernel source
+- Nuke Battery Friendly Pocket mode
+- Add missing IMS lib
+- Build liblz4
+- Fix Camera failed to start camera preview
+- Switch to Leica 4.9
+
 # 14-June-2024
 - Upstreamed to latest 10.5.2 Matrixx source
 - Upstreamed n0kernel to latest kernel source
