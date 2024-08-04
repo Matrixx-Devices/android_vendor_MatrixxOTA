@@ -1,3 +1,14 @@
+# 04 August 2024
+
+- Synced with latest source
+- Signed build
+- Misc Improvement
+- Misc Audio Changes
+- Fix Jitter Lag on QS Pulldown
+- Import Missing Libs
+- Include Leica [Minor Bugs]
+- Arise Igris Kernel [KernelSU Included]
+
 # 15 July 2024
 
 - Synced with latest source

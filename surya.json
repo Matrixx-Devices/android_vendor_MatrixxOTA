@@ -6,12 +6,12 @@
       "oem": "Xiaomi",
       "device": "surya",
       "device_name": "Poco X3/Poco X3 NFC",
-      "filename": "Matrixx-v10.6.1-Official-surya-Gapps-20240714.zip",
-      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/surya/Matrixx-v10.6.1-Official-surya-Gapps-20240714.zip/download",
-      "timestamp": 1720951831,
-      "md5": "f8b99feb608eaf9530fcaf506db75bb8",
-      "size": 1986248115,
-      "version": "v10.6.1"
+      "filename": "Matrixx-v10.6.2-Official-surya-Gapps-20240804.zip",
+      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/surya/Matrixx-v10.6.2-Official-surya-Gapps-20240804.zip/download",
+      "timestamp": 1722755256,
+      "md5": "f0fbe3037d65beb5ff14023fa6279ece",
+      "size": 2163152481,
+      "version": "v10.6.2"
     }
   ]
 }
