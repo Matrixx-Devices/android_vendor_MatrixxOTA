@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "KSSRAO",
-        "support_group": "https://t.me/KSSRAO_Romverse",
+        "maintainer": "CHAITANYA",
+        "support_group": "https://t.me/chaitanyabuilds",
         "oem": "Xiaomi",
         "device": "marble",
         "device_name": "Poco F5/Redmi Note 12 Turbo",
-        "filename": "Matrixx-v10.6.0-Official-marble-Vanilla-20240710.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.6.0-Official-marble-Vanilla-20240710.zip/download",
-        "timestamp": 1720609412,
-        "md5": "b535de2ff95a60f2963fc3aa3ec80ce2",
-        "size": 1934600083,
-        "version": "v10.6.0"
+        "filename": "Matrixx-v10.7.0-Official-marble-Vanilla-20240811.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.7.0-Official-marble-Vanilla-20240811.zip/download",
+        "timestamp": 1723416699,
+        "md5": "8da1bcf0c2b8e3f68df3fa9e4e4b422b",
+        "size": 1941689388,
+        "version": "v10.7.0"
     }
   ]
 }

@@ -1,3 +1,38 @@
+# 12-August-2024
+- Drop xiaomi libsensor_cal@2.0.so
+- Unpin telephony apks
+- Build xiaomi-telephony-stub
+- Build XiaomiDolby
+- Define OEM fast charge sysfs node
+- Optimize dex2oat for cortex-a76 on cortex-a510
+- Optimize native executables for Cortex-A76 CPU
+- wifi: Enable support for IEEE80211AX
+- rootdir: Add sdcard1 and usbotg to recovery fstab
+- Fix battery and USB OTG detection
+- Load adsp_loader_dlkm for battery status in recovery
+- sensors: Increase _oem_msg struct size
+- Kill xiaomi citsensorservice and sensor communicate
+- sensors: Introduce LightNotifier and use libssccalapi@2.0
+- Add aod notifier
+- sensors: Convert nonui notifier into a generalized sensor based notifier
+- sensors: Close touch dev fd after usage
+- Use kernel provided xiaomi_touch.h
+- sensors: Pass nonui value unmodified to touchscreensensors: Pass nonui value unmodified to touchscreen
+- sensors: Cleanup code and drop unused dependencies
+- Drop nfc services from manifest since they have fragments
+- Migrate to QTI USB Gadget 1.2 HIDL
+- Swap to QTI USB init scripts
+- Use soong_config_set to set xiaomi powershare variable
+- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Assert for marble or marblein
+- Introduce sensor notifier extension to report raw brightness
+- Set HWC-specific properties
+- Set display idle time to 0
+- Add missing kvh2xml.xml
+- Add Xiaomi sensor module
+- Update blobs from V816.0.6.0.UMRMIXM
+- Update bcr to version 1.69
+
 # 10-July-2024
 - Synced with QPR3 based July SP Source
 - Fixed OIS
