@@ -1,3 +1,6 @@
+# 11-August-2024
+- Fixed lockscreen charging info
+
 # 10-July-2024
 - Update Kernel to LOS upstream
 - Updated KSU to 0.9.5
