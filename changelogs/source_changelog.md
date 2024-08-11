@@ -1,3 +1,14 @@
+# Matrixx v-10.7.0 Changelog
+
+- Update release version to 10.7.0
+- Merged August 2024 security patch
+- Added option to toggle Google Play Integrity spoofing
+- Fixed Launcher crash with home gesture in some cases
+- Fixed pattern activity theme issues
+- Fixed UIStyle not themeing systemUI component
+- Removed user selectable VoLTE & VoWiFi Icons
+- System optimizations and small fixes here & there
+
 # Matrixx v-10.6.2 Changelog
 
 - Update release version to 10.6.2
