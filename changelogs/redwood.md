@@ -1,3 +1,13 @@
+# 12-August-2024
+- Switched to TURBO kernel ( Both panel are supported now )
+- Drop vm-bootsys from fstab ( This reduces the boot time )
+- Build xiaomi-telephony-stub ( Unpatch & update ims libs to V816.0.7.0.UMSCNXM )
+- Import missing camera blobs
+- overlay: Disable pocket mode lock
+- Enable force LTE_CA
+- Re-implemented dolby
+- Switched to AOSP dialer
+
 # 28-July-2024
 - Note: Dirty flash is fine over last build
 - Note: This build is only compatible with Gtx panel
