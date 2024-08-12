@@ -1,3 +1,12 @@
+# 11-AUG-2024:
+- Updated device blobs and firmware from HyperOS 1.0.3.0.UKDEUXM
+- Switched to lz4 for zram
+- Update to ViPER4Android FX Redesign 6.7
+- Update BCR 1.69
+- Switch to lz4 for zram
+- Latest Void kernel changes Thanks to Omar
+- Other Fixes and changes under the hood.
+
 # 23-JUL-2024:
 - Switched to Miui camera (vili hyperos)
 - Use AOSP default Codec2/OMX rank
