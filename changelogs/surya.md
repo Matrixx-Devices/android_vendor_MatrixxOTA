@@ -1,3 +1,11 @@
+# 11 August 2024
+
+- Synced with latest source
+- August Security Patch
+- Fix Leica Camera
+- Misc Improvement
+- Arise Igris Kernel [KernelSU Included]
+
 # 04 August 2024
 
 - Synced with latest source
