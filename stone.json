@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "stone",
         "device_name": "POCO X5 5G/Redmi Note 12",
-        "filename": "Matrixx-v10.6.2-Official-stone-Gapps-20240729.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/Matrixx-v10.6.2-Official-stone-Gapps-20240729.zip/download",
-        "timestamp": 1722253609,
-        "md5": "993dadf350a23a68a1a9a9d450241493",
-        "size": 1536356317,
-        "version": "v10.6.2"
+        "filename": "Matrixx-v10.7.0-Official-stone-Gapps-20240813.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/Matrixx-v10.7.0-Official-stone-Gapps-20240813.zip/download",
+        "timestamp": 1723514205,
+        "md5": "2f0ba37f6bc38354edc6a315df3d8d48",
+        "size": 1539231266,
+        "version": "v10.7.0"
     }
   ]
 }

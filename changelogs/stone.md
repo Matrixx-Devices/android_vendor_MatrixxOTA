@@ -1,3 +1,7 @@
+# 13-August-2024
+- Synced with latest source
+- Introducing libperfmgr
+
 # 29-July-2024
 - Synced with latest source
 - Removed adaptive color profile
