@@ -1,3 +1,11 @@
+# 13-August-2024
+
+- Bump Matrixx 10.7.0 (August security)
+- Update blobs & kernel modules to HyperOS 1.0.5.0.UMGIDXM (August vendor patch)
+- Introduce HyperOS camera instead of Aperture
+- Switch to user build instead of userdebug
+- Minor improvements
+
 # 23-July-2024
 
 - Bump Matrixx 10.6.2 (QPR3)
