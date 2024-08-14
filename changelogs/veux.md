@@ -1,6 +1,6 @@
-# 24-JUL-2024:
+# 14-AUG-2024:
 - Synced with latest source v10.7.0
-- Fixed smart pixel
+- Fixed smart pixels.
 
 # 24-JUL-2024:
 - Synced with latest source v10.6.2
