@@ -1,3 +1,13 @@
+# Matrixx v-10.7.1 Changelog
+
+- Update release version to 10.7.1
+- Added Allow to enforce user selected resolution
+- Added back force monochrome theme icons option
+- Fixed alpha transparency on AOD mode
+- Fixed baking apps check for encryption status 
+- Fixed Google play integrity
+- Updated themed icons
+
 # Matrixx v-10.7.0 Changelog
 
 - Update release version to 10.7.0
