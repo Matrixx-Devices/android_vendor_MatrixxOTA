@@ -1,3 +1,9 @@
+# Changelog 17 August 2024:
+
+- Synced sources 10.7.0->10.7.1
+- Switched to Villhaze v1.10 (KSU Version)
+- Fixed Smart Pixels
+
 # Changelog 11 August 2024:
 
 - Synced sources 10.6.2->10.7.0 (Including new Aug Security patches)
@@ -8,6 +14,7 @@
 - Rebased trees
 
 Note: Clean flash is recommended due to tree rebase!
+
 Bugs: Smart pixels is currently not working (Will be fixed in next build)
 
 # Changelog 22 July 2024:
