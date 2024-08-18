@@ -1,3 +1,6 @@
+# Changelog 18 Aug 2024
+- Update to 10.7.1
+
 # Changelog 14 Aug 2024
 - Add Dirac (note: for dirac to work correctly on bluetooth headphones, go to Bluetooth settings, select your device settings, and set audio device type to headphones, then reboot)
 - Haptic Tweaks
