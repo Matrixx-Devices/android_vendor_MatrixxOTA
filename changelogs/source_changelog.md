@@ -3,6 +3,8 @@
 - Update release version to 10.7.1
 - Added Allow to enforce user selected resolution
 - Added back force monochrome theme icons option
+- Added support for json-based (PIF) spoofing
+- Added back user selected volte/Wifi icon
 - Fixed alpha transparency on AOD mode
 - Fixed baking apps check for encryption status 
 - Fixed Google play integrity
