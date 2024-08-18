@@ -1,3 +1,8 @@
+# 18-AUG-2024:
+- Synced with latest source v10.7.1
+- Fixed dolby crashing isssue.
+- Fixed updater app.
+  
 # 14-AUG-2024:
 - Synced with latest source v10.7.0
 - Fixed smart pixels.
