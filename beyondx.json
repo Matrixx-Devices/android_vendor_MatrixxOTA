@@ -5,12 +5,12 @@
         "oem": "Samsung",
         "device": "beyondx",
         "device_name": "Samsung Galaxy S10 5G",
-        "filename": "Matrixx-v10.5.2-Official-beyondx-Gapps-20240528.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/beyondx/Matrixx-v10.5.2-Official-beyondx-Gapps-20240528.zip/download",
-        "timestamp": 1716895764,
-        "md5": "53a0957ee8a2fd39c393dfc950c86f5d",
-        "size": 1631550866,
-        "version": "v10.5.2"
+        "filename": "Matrixx-v10.7.1-Official-beyondx-Gapps-20240817.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/beyondx/Matrixx-v10.7.1-Official-beyondx-Gapps-20240817.zip/download",
+        "timestamp": 1723912184,
+        "md5": "e3dd4f06fb1c91e6e2beab2aa7349c87",
+        "size": 1667619191,
+        "version": "v10.7.1"
     }
   ]
 }

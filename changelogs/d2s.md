@@ -1,4 +1,4 @@
-# Changelog 29 May 2024:
-- Fixed all microphone issues
-- Upstreamed kernel
-- Smooth AF
+# Changelog 18 August 2024:
+- latest upstreamed kernel
+- Auguest patch
+- Update to Matrixx V10.7.1
