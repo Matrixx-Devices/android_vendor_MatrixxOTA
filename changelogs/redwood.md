@@ -1,3 +1,10 @@
+# 18-August-2024
+
+- Switched to Perf kernel 
+- Updated camera & blobs to V816.0.8.0.UMSCNXM
+- Updated yupik-post-boot script for memory optimization
+- Updated kernelSU to v0.9.5 ( THE END )
+
 # 12-August-2024
 - Switched to TURBO kernel ( Both panel are supported now )
 - Drop vm-bootsys from fstab ( This reduces the boot time )
