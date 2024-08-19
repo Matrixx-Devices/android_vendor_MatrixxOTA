@@ -1,3 +1,10 @@
+# 18 August 2024
+
+- Synced with latest source
+- August Security Patch
+- Misc Improvement
+- Arise Igris Kernel [KernelSU Included]
+
 # 11 August 2024
 
 - Synced with latest source
