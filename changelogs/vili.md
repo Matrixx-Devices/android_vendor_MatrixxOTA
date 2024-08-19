@@ -1,3 +1,6 @@
+# 18-AUG-2024:
+- Synced with latest source v10.7.1
+
 # 12-AUG-2024:
 - Updated device blobs and firmware from HyperOS 1.0.3.0.UKDEUXM
 - Switched to lz4 for zram
