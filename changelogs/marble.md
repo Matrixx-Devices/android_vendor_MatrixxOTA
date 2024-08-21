@@ -1,3 +1,64 @@
+# 21-August-2024
+- Update blobs from V816.0.7.0.UMRMIXM
+- Updated hyper os cam from latest marble global
+- Implemented new dolby with eq
+- Fixed double tap to wake
+- sensors: Let the light notifier decide whether it should run
+- sensors: LightNotifier: Support secondary panel
+- Remove modules that depend on debugfs
+- Include vendor/debugfs.config
+- Remove duplicate auto-brightness configurations
+- Commonize building sensors.xiaomi
+- rootdir: Add more infos to ro.boot.hardware.revision prop
+- rootdir: Set hardware revision property
+- Build opensource soundtrigger HAL
+- Disable proprietary listen sound model
+- Let build system copy audio manifests
+- Add platform specific audio hal to build targets
+- Build libsndcardparser from source
+- Build libbatterylistener from source
+- Skip building agm test binaries
+- Move most agm and pal targets to source built
+- Build mtdservice interface lib from source
+- Switch to source-built mlipay interface
+- Build audioadsprpcd from source
+- Build librmnetctl from source
+- Kill libstagefrighthw
+- Disable OMX
+- Get rid of unnecessary 32-bit blobs
+- Extend audio offload buffer size to 256kb
+- Fix battery and USB OTG detection
+- Drop xiaomi libsensor_cal@2.0.so
+- Unpin telephony apks
+- Build xiaomi-telephony-stub
+- Build XiaomiDolby
+- Define OEM fast charge sysfs node
+- wifi: Enable support for IEEE80211AX
+- rootdir: Add sdcard1 and usbotg to recovery fstab
+- Fix battery and USB OTG detection
+- Load adsp_loader_dlkm for battery status in recovery
+- sensors: Increase _oem_msg struct size
+- Kill xiaomi citsensorservice and sensor communicate
+- sensors: Introduce LightNotifier and use libssccalapi@2.0
+- Add aod notifier
+- sensors: Convert nonui notifier into a generalized sensor based notifier
+- sensors: Close touch dev fd after usage
+- Use kernel provided xiaomi_touch.h
+- sensors: Pass nonui value unmodified to touchscreensensors: Pass nonui value unmodified to touchscreen
+- sensors: Cleanup code and drop unused dependencies
+- Drop nfc services from manifest since they have fragments
+- Migrate to QTI USB Gadget 1.2 HIDL
+- Swap to QTI USB init scripts
+- Use soong_config_set to set xiaomi powershare variable
+- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Assert for marble or marblein
+- Introduce sensor notifier extension to report raw brightness
+- Set HWC-specific properties
+- Set display idle time to 0
+- Add missing kvh2xml.xml
+- Add Xiaomi sensor module
+- Update bcr to version 1.69
+
 # 10-July-2024
 - Synced with QPR3 based July SP Source
 - Fixed OIS
