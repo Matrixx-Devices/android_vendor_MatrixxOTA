@@ -1,3 +1,15 @@
+# Matrixx v-10.7.2 Changelog
+
+- Update release version to 10.7.2
+- Fixed Games spoofing
+- Added Split notification shade
+- Added QS/QQS row customization
+- Added option to remove SAF restrictions
+- Added multiple options for three finger swipe gesture
+- Updated model for call of duty to Lenovo Y700
+- Allow to hide screen capture status from apps
+- Improved brightness slider track design
+
 # Matrixx v-10.7.1 Changelog
 
 - Update release version to 10.7.1
