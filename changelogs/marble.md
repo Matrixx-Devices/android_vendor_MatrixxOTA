@@ -1,3 +1,14 @@
+# 23-August-2024
+- Introduce sensor notifier extension to report raw brightness
+- Move to Xiaomi IR AIDL
+- Drop unused battery property
+- Move more radio properties to vendor
+- Remove DEVICE_PROVISIONED
+- overlay: Prodive MIUI color mode options
+- overlay: Move rro packages to vendor partition
+- overlay: Remove _Sys and _Vendor suffix from names
+- Add clang-format configuration
+
 # 21-August-2024
 - Update blobs from V816.0.7.0.UMRMIXM
 - Updated hyper os cam from latest marble global
