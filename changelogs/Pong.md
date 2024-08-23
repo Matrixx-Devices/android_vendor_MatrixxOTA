@@ -1,3 +1,6 @@
+# Changelog 23 Aug 2024
+- Update to 10.7.2
+
 # Changelog 18 Aug 2024
 - Update to 10.7.1
 
