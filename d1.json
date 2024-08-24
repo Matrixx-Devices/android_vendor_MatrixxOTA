@@ -5,12 +5,12 @@
         "oem": "Samsung",
         "device": "d1",
         "device_name": "Samsung Galaxy Note 10",
-        "filename": "Matrixx-v10.7.1-Official-d1-Gapps-20240817.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/d1/Matrixx-v10.7.1-Official-d1-Gapps-20240817.zip/download",
-        "timestamp": 1723912841,
-        "md5": "d56e9fb9f4c7a5475f65a4973de63c22",
-        "size": 1635908591,
-        "version": "v10.7.1"
+        "filename": "Matrixx-v10.7.2-Official-d1-Gapps-20240823.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/d1/Matrixx-v10.7.2-Official-d1-Gapps-20240823.zip/download",
+        "timestamp": 1724437353,
+        "md5": "0cd0f539ecd436676830206b37869eee",
+        "size": 1635874468,
+        "version": "v10.7.2"
     }
   ]
 }
