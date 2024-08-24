@@ -1,3 +1,9 @@
+# 25 August 2024
+
+- Synced with latest source 10.7.2
+- Misc Improvement and optimization
+- Arise Igris Kernel [KernelSU Included]
+
 # 18 August 2024
 
 - Synced with latest source
