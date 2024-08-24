@@ -1,3 +1,9 @@
+# 25-Aug-2024
+
+- Initial 14QPR3 August patch
+- Rebase dt and kernel from LineageOS
+- Added Vanilla Build
+
 # 18-May-2024
 
 - Fix denial for FPS info tile
