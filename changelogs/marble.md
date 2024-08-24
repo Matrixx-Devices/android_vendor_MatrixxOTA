@@ -1,3 +1,7 @@
+# 24-August-2024
+- Fixed gphotos not opening with hyper os Camera
+- fixed ksu giving bootloop
+
 # 23-August-2024
 - Introduce sensor notifier extension to report raw brightness
 - Move to Xiaomi IR AIDL
