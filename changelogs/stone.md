@@ -1,3 +1,15 @@
+# 24-August-2024
+- Synced with latest source
+- Switch to QTI Memtrack AIDL HAL
+- Force 60hz on keyguard
+- Update vendor security patch
+- Add Nothing phone(1)'s carrierconfig
+- Switch to pixel-libperfmgr
+- Updated fingerprints to 1.0.8.0.UMPMIXM
+- Change readahead to 128KiB on post-boot
+- Set ZRAM to 2GB and 60%
+- Many more underhood changes
+
 # 13-August-2024
 - Synced with latest source
 - Introducing libperfmgr
