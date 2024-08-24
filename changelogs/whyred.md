@@ -1,3 +1,16 @@
+# 25-August-2024
+- Synced with latest source
+- Switch to common libqti-perfd-client and power-libperfmgr
+- Set the compiler filter for shared apks to quicken
+- Fix "/sys/ lines must have 5 or 6 entries"
+- Update battery info every second when
+- Correct Mic Channels
+- Use jemalloc to fix camera
+- Added Moto Dolby
+- Improved charging speed.Thanks to @SpiDyNub
+- Many more underhood changes
+
+
 # 19-August-2024
 - Synced with latest source
 - Added v4a

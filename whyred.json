@@ -2,15 +2,16 @@
   "response": [
     {
         "maintainer": "Arijit Saha",
+        "support_group": "https://t.me/project_bd_support",
         "oem": "Xiaomi",
         "device": "Whyred",
         "device_name": "Redmi Note 5 Pro",
-        "filename": "Matrixx-v10.7.1-Official-whyred-Gapps-20240819.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/Matrixx-v10.7.1-Official-whyred-Gapps-20240819.zip/download",
-        "timestamp": 1724052544,
-        "md5": "cc6906984b15ecbc9fe5b54b417b5b50",
-        "size": 1839265912,
-        "version": "v10.7.1"
+        "filename": "Matrixx-v10.7.2-Official-whyred-Gapps-20240824.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/Matrixx-v10.7.2-Official-whyred-Gapps-20240824.zip/download",
+        "timestamp": 1724519877,
+        "md5": "665fa2873bcd49705783d5d843fca536",
+        "size": 1819027162,
+        "version": "v10.7.2"
     }
   ]
 }
