@@ -1,4 +1,10 @@
 # 18-AUG-2024:
+- Synced with latest source v10.7.2
+- Disable blurs during app launch
+- Build missing libraries for Dolby Atmos
+- Other Fixes and changes under the hood
+
+# 18-AUG-2024:
 - Synced with latest source v10.7.1
 
 # 12-AUG-2024:
