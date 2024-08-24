@@ -1,3 +1,17 @@
+# Changelog 24 Aug 2024:
+- Synced with latest v10.7.2 source
+- ro_overlays: Move CarrierConfig to RRO
+- Specify caymanslm source at the top
+- Remove media_codecs_google_c2*
+- Droped libts libs
+- Brought back bcr and viper4android
+- Move input surface to CCodec
+- Import prebuilt wpa_supplicant
+- Added performance point tag for msm8953
+- Redisgned QS brightness progress bar
+- And some optimisation here and there
+- Disabled Wallpaper zoom animation once and for all
+
 # Changelog 14 July 2024:
 - Synced with latest v10.6.1 source
 - Moved to Fbev1
