@@ -1,3 +1,15 @@
+# 24-August-2024
+NOTE: Both panel are supported
+
+* Updated blobs to V816.0.6.0.UMSMIXM
+* Shipped with firmware ( OS1.0.6.0.UMSMIXM )
+* overlay: Speed up auto-brightness ramp up
+* overlay: Disable alpha compositing in WM
+* overlay: Globally enable LTE+ icon
+* Switch to QTI Memtrack AIDL HAL
+* Build missing libraries for Dolby Atmos
+* audio: Disable ULL mode
+
 # 18-August-2024
 
 - Switched to Perf kernel 
