@@ -1,3 +1,8 @@
+# 25-AUG-2024:
+- Synced with latest source v10.7.2
+- Nuked Dolby.
+- Added charging control.
+
 # 18-AUG-2024:
 - Synced with latest source v10.7.1
 - Fixed dolby crashing isssue.
