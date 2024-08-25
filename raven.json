@@ -5,12 +5,12 @@
         "oem": "Google",
         "device": "raven",
         "device_name": "Google Pixel 6 Pro",
-        "filename": "Matrixx-v10.7.1-Official-raven-Gapps-20240818.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/raven/Matrixx-v10.7.1-Official-raven-Gapps-20240818.zip/download",
-        "timestamp": 1724002975,
-        "md5": "f9803516570c5fee74ecc3abd1c04117",
-        "size": 2068879742,
-        "version": "v10.7.1"
+        "filename": "Matrixx-v10.7.2-Official-raven-Gapps-20240825.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/raven/Matrixx-v10.7.2-Official-raven-Gapps-20240825.zip/download",
+        "timestamp": 1724567058,
+        "md5": "7be638bb42db1456e40f030a4f9fe912",
+        "size": 2068930805,
+        "version": "v10.7.2"
     }
   ]
 }
