@@ -1,3 +1,10 @@
+# Changelog 27 August 2024:
+
+- Synced sources 10.7.2->10.7.3
+- Improved battery life
+- Improved minimum brightness
+- Minor tweaks
+
 # Changelog 23 August 2024:
 
 - Synced sources 10.7.1->10.7.2
