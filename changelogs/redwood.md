@@ -1,3 +1,8 @@
+# 27-August-2024
+NOTE: Both panel are supported
+
+* No changes
+
 # 24-August-2024
 NOTE: Both panel are supported
 
