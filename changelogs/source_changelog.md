@@ -1,3 +1,11 @@
+# Matrixx v-10.7.3 Changelog
+
+- Update release version to 10.7.3
+- Added support for json-based games spoofing
+- Added optional QS Split Shade
+- Fixed volume panel haptic feedback
+- Remove default action for three finger swipe
+
 # Matrixx v-10.7.2 Changelog
 
 - Update release version to 10.7.2
