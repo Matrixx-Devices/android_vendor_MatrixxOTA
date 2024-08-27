@@ -1,4 +1,10 @@
-# 18-AUG-2024:
+# 27-AUG-2024:
+- Updated device blobs and firmware from HyperOS 1.0.4.0.UKDEUXM
+- Update app from HyperOS 1.0.4.0.UKDEUXM
+- Patch to match camera icon based on monet and other improvements (It's recommended to clear cache & data of camera app)
+- Passes strong integrity
+
+# 23-AUG-2024:
 - Synced with latest source v10.7.2
 - Disable blurs during app launch
 - Build missing libraries for Dolby Atmos
