@@ -1,3 +1,6 @@
+# 28-August-2024
+- Synced with latest source
+
 # 25-August-2024
 - Synced with latest source
 - Switch to common libqti-perfd-client and power-libperfmgr
