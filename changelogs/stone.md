@@ -1,3 +1,9 @@
+# 28-August-2024
+- Synced with latest source
+- Import adreno v676.56 drivers
+- Add 120fps for screen recorder
+- Add restart SystemUI in Advanced Reboot
+
 # 24-August-2024
 - Synced with latest source
 - Switch to QTI Memtrack AIDL HAL
