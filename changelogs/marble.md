@@ -1,3 +1,8 @@
+# 28-August-2024
+- Updated gpu driver to 762.18
+- Fixed Aod
+- Signed with matrixx keys
+- passes strong integrity
 # 24-August-2024
 - Fixed gphotos not opening with hyper os Camera
 - fixed ksu giving bootloop
