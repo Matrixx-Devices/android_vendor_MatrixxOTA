@@ -1,3 +1,10 @@
+# Matrixx v-10.7.3 hotfix Changelog
+
+- Removed three finger gesture & reverted to old implementation
+- Fixed volume percent text
+- Fixed per app volume
+- Fixed statusbar cutout issue if split shade enabled
+
 # Matrixx v-10.7.3 Changelog
 
 - Update release version to 10.7.3
