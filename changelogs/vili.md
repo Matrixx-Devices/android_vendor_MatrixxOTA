@@ -1,3 +1,6 @@
+# 29-AUG-2024:
+- Sync with latest source to fix few source side errors
+
 # 27-AUG-2024:
 - Updated device blobs and firmware from HyperOS 1.0.4.0.UKDEUXM
 - Update app from HyperOS 1.0.4.0.UKDEUXM
