@@ -1,3 +1,6 @@
+# 29-AUG-2024:
+- Sync with latest 10.7.3 hotfix sources
+
 # 27-AUG-2024:
 - Updated device blobs and firmware from HyperOS 1.0.4.0.UKDEUXM
 - Update app from HyperOS 1.0.4.0.UKDEUXM
