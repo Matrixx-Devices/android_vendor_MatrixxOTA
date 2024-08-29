@@ -5,11 +5,11 @@
         "oem": "Xiaomi",
         "device": "garnet",
         "device_name": "Redmi Note 13 Pro 5G / Poco X6 5G",
-        "filename": "Matrixx-v10.7.3-Official-garnet-Gapps-20240827.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/garnet/Matrixx-v10.7.3-Official-garnet-Gapps-20240827.zip/download",
-        "timestamp": 1724787878,
-        "md5": "5bdfb49f37f60ab250f6bb954e3d15c3",
-        "size": 2195487443,
+        "filename": "Matrixx-v10.7.3-Official-garnet-Gapps-20240829.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/garnet/Matrixx-v10.7.3-Official-garnet-Gapps-20240829.zip/download",
+        "timestamp": 1724941686,
+        "md5": "4e51e0ee249ab91c39a29ad9b6174e54",
+        "size": 2205944526,
         "version": "v10.7.3"
     }
   ]
