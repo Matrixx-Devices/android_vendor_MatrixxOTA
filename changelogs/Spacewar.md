@@ -1,3 +1,10 @@
+# Changelog 30 August 2024:
+- Updated blobs to 2.6
+- Improved Stability
+- NOS Cam included
+- BCR included
+- Improve performance
+
 # Changelog 19 May 2024:
 - Updated blobs to 2.5.5
 - Improved system stability
