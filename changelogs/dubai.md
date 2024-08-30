@@ -1,3 +1,10 @@
+# 30-August-2024
+- Fixed random SIM death
+- Dropped SmartConnect
+- Improved Motorola Dolby output
+- Synced with latest source v10.7.3
+- Other sources changes/fixes
+
 # 31-July-2024
 - Moto Dolby updated to latest version (07.00.1759)
 - Moto Ready For updated to Smart Connect 07.0.0.022.5
