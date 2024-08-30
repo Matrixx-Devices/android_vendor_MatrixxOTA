@@ -1,3 +1,16 @@
+# Changelog 30 August 2024:
+- August Patch
+- OOS Cam included
+- Dolby included
+- Improve wifi speeds and stability
+- Import Powerhints from OOS 11
+- Import LDAC blobs from oplus
+- Systemwide improvements
+- Implement auto HBM from aosp
+- Performance improvements
+- Stability improvements
+- Implemented unlimit edge touch for gamers (its in settings > oplusextras)
+
 # Changelog 19 May 2024:
 - OOS Cam included
 - Dolby included
