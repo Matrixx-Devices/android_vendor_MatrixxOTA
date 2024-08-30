@@ -1,3 +1,7 @@
+# 30-August-2024
+- Synced with latest source
+- Revert back to old adreno driver
+
 # 28-August-2024
 - Synced with latest source
 - Import adreno v676.56 drivers
