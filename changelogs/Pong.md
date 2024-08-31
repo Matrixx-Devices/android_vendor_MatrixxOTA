@@ -1,3 +1,7 @@
+# Changelog 31 Aug 2024
+- Update to 10.7.3
+- Add Dolby support
+
 # Changelog 23 Aug 2024
 - Update to 10.7.2
 
