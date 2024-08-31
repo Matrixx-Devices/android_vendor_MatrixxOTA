@@ -1,3 +1,10 @@
+# 31-August-2024
+NOTE: Both panel are supported
+
+* Updated adreno and display blobs from AOSPA 
+* Imported diag HAL
+* props: Increase refresh rate timers
+
 # 27-August-2024
 NOTE: Both panel are supported
 
