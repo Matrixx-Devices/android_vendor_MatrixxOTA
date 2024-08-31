@@ -1,3 +1,14 @@
+# 01-September-2024
+- IMPORTANT NOTE:: people on 28aug build or older will need to do a clean flash due to sensors changes. sorry for inconvience
+- overlay: Disable config_powerDecoupleInteractiveModeFromDisplay
+- Unset BOARD_USERDATAIMAGE_PARTITION_SIZE
+- overlay: Add reboot to fastbootd
+- overlay: Enable option for full screen aspect ratio
+- Update blobs and fingerprint from V816.0.8.0.UMRMIXM
+- drop v762.18 gpu drivers using stock now
+- Update hyperos camera from marble OS1.0.8.0.UMRMIXM
+- Aod works but double tap to wake aod is dead
+
 # 28-August-2024
 - Updated gpu driver to 762.18
 - Fixed Aod
