@@ -21,4 +21,6 @@
 # Changelog 11 July 2024
 - Upstream kernel to 5.4.279
 
+# Changelog 04 Sep 2024
+-Update source to 10.7.3
 
