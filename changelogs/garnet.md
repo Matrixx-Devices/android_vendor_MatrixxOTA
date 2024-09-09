@@ -1,3 +1,11 @@
+# Changelog 9 September 2024:
+
+- Synced sources 10.7.3->10.8.0
+- Improved audio
+- Improved ram management
+- Minor tweaks
+- Added fix for DRM related content
+
 # Changelog 29 August 2024:
 
 - Synced sources 10.7.2->10.7.3
