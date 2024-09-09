@@ -1,3 +1,13 @@
+# Matrixx v-10.8.0 Changelog
+
+- Bump up release version to 10.8.0
+- Android September 2024 Security Update
+- Various memory leak fixes and performance improvements
+- Added more launcher searchbar customization
+- Added launcher customization to disable scrollbar
+- Added Google's new material weather icons
+- System optimizations and small fixes here & there
+
 # Matrixx v-10.7.3 hotfix Changelog
 
 - Removed three finger gesture & reverted to old implementation
