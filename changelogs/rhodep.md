@@ -24,3 +24,5 @@
 # Changelog 04 Sep 2024
 -Update source to 10.7.3
 
+# Changelog 10 Sep 2024
+-Update source to 10.8.0
