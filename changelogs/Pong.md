@@ -1,3 +1,7 @@
+# Changelog 10 September 2024
+- Added Charging Control
+- Update to 10.8.0
+
 # Changelog 31 Aug 2024
 - Update to 10.7.3
 - Add Dolby support
