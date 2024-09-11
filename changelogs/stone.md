@@ -1,3 +1,6 @@
+# 11-September-2024
+- Synced with latest source
+
 # 30-August-2024
 - Synced with latest source
 - Revert back to old adreno driver
