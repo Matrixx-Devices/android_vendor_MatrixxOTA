@@ -1,3 +1,10 @@
+# 11-September-2024
+- Source upstream (10.8.0)
+- Update Leica camera to 8.3b
+- Update Dolby Atmos
+- Update blobs to V816.0.8.0.UMNMIXM
+- Note : Firmware OS1.0.8.0.UMNMIXM is recommended
+
 # 23-July-2024
 - Update Leica camera to 5.0b7.5-2
 - Fix dolby atmos
