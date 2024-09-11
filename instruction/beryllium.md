@@ -1,24 +1,66 @@
-**Before start flashing…..**
-- Backup all your data to any external source.
-- Update your device to latest firmware of your region.
-- Always look for the build if its GAPPS or Vanilla varient
-- If it is vanilla, then flash only the recommended flashable GAPPS zip given in notes right after flashed the rom
+* DYNAMIC PARTITIONS ROM-:
 
-**Clean Flash:**
+Recovery-: Orangefox/TWRP Dynamic Partition supported recovery.
 
-- Use Recovery given in notes
-- Wipe metadata, data, dalvik and cache
-- Flash the rom from internal storage if you have in local
-- Format data (if you needed) and Reboot to system
-- If you want to sideload from ADB, Plug your phone to pc
-- Run adb sideload ROM.zip and follow step 4 
+Links-: https://www.pling.com/p/2117593/(OFOX)
+https://www.pling.com/p/1346294/#files-panel(TWRP)
 
-**Rom Update/Dirty flash:**
 
-- Reboot to recovery
-- Flash the downloaded rom from internal storage
-- If you want to go with PC, then Open command prompt & sideload rom using command adb sideload <rom_filename>.zip
-- Reboot
 
-**Note:**
-- If getting any issue after dirty flash, Flash clean before reporting.
+IMPORTANT TO NOTE:
+
+* Do not try to switch to any other kernel
+
+* Do not use SYSTEM_EXT recoveries to flash this
+
+
+
+* You must clean flash in following cases-:
+
+- You are coming from any other ROM or MIUI
+
+- You are coming from previous Android Version
+
+- You are coming from Non Retrofit Dynamic ROM
+
+
+
+* Clean Flash (coming from a different ROM)
+
+Clean flash involves formatting data which means you will be loosing data stored in the internal storage of your device, data in SD Card should not be affected. I will not be responsible for any loss of data.
+
+1- Download ROM, recovery to your computer
+
+2- Reboot the device to bootloader (Fastboot Mode)
+
+3- Flash recovery image by running fastboot flash recovery <path/to/recovery.img> in terminal
+
+3- Reboot to recovery mode
+
+4- Wipe dalvik cache,cache,data partitions
+
+5- On your phone [which is in recovery mode], Select ADB Sideload option
+
+Flash the ROM through ADB sideload by running adb sideload <path/to/rom.zip> in terminal
+6- Reboot to recovery again
+
+7- Format data
+
+8- Reboot
+
+
+
+* Dirty Flash / Update
+
+There will be no loss of data if everything goes well. Keep backups incase of any mishap. I will not be responsible for any loss of data.
+
+1- Download ROM file to your device
+
+2- Reboot the device to recovery
+
+3- Wipe dalvik cache/cache partitions
+
+4- Flash rom.zip
+
+5- Reboot
+
