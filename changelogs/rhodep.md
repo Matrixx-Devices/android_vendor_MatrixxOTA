@@ -22,7 +22,10 @@
 - Upstream kernel to 5.4.279
 
 # Changelog 04 Sep 2024
--Update source to 10.7.3
+- Update source to 10.7.3
 
 # Changelog 10 Sep 2024
--Update source to 10.8.0
+- Update source to 10.8.0
+
+# Changelog 11 Sep 2024
+- Fix FP issuse 
