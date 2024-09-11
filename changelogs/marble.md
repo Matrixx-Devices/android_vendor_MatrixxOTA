@@ -1,3 +1,15 @@
+# 11-September-2024
+- Add fingerprint configuration to overlay
+- Commonize udfps doze sensor type
+- Remove hw_acc effect
+- sensors: Add more padding to oem_msg
+- sepolicy: Drop nfc rules which are handled by sepolicy_vndr already
+- sepolicy: Remove xiaomi specific gnss rules
+- Drop so many unused blobs
+- Commonize most audio blobs
+- Document some DISABLE_CHECKELF
+- so many more changes
+
 # 01-September-2024
 - IMPORTANT NOTE:: people on 28aug build or older will need to do a clean flash due to sensors changes. sorry for inconvience
 - overlay: Disable config_powerDecoupleInteractiveModeFromDisplay
