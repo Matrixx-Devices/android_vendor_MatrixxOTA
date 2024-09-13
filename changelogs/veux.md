@@ -1,3 +1,11 @@
+# 13-SEP-2024:
+- Synced with latest source v10.7.3
+- Update blobs from V816.0.6.0.TKCMIXM
+- Fixed WFD
+
+# 31-AUG-2024:
+- Synced with latest source v10.7.3
+
 # 25-AUG-2024:
 - Synced with latest source v10.7.2
 - Nuked Dolby.
