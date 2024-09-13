@@ -1,3 +1,9 @@
+# Matrixx v-10.8.0 13 Sep 2024 Changelog
+
+- Multiple memory leaks fixes
+- Messaging: fixes playing/displaying gifs
+- Updated Auxio music player
+
 # Matrixx v-10.8.0 Changelog
 
 - Bump up release version to 10.8.0
