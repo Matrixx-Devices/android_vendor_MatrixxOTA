@@ -1,3 +1,7 @@
+# 13-Sepetember-2024
+- Added Dolby atmos
+- Added UDFPS pressed icon color to cyan
+
 # 11-August-2024
 - Fixed lockscreen charging info
 

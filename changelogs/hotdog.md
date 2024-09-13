@@ -1,3 +1,6 @@
+# 13-Sepetember-2024
+- Added Dolby atmos
+
 # 11-August-2024
 - Fixed lockscreen charging info
 

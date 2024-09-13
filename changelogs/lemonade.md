@@ -1,3 +1,7 @@
+# 13-September-2024
+- Update Kernel
+- Added dolby atmos
+
 # 10-July-2024
 - Update KSU to 0.9.5
 - Updated kernel
