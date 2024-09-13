@@ -1,7 +1,8 @@
 # 13-SEP-2024:
-- Synced with latest source v10.7.3
+- Synced with latest source v10.8.0
 - Update blobs from V816.0.6.0.TKCMIXM
-- Fixed WFD
+- Fixed WFD.
+- Comes with latest positron kernel.
 
 # 31-AUG-2024:
 - Synced with latest source v10.7.3
