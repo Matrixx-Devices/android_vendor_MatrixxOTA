@@ -1,3 +1,9 @@
+# 15-September-2024
+- Android 14 EOL
+- Improved network performance
+- Synced with latest source v10.8.0
+- Other sources changes/fixes
+
 # 30-August-2024
 - Fixed random SIM death
 - Dropped SmartConnect
