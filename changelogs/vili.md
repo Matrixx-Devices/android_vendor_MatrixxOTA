@@ -1,3 +1,9 @@
+# 14-SEP-2024:
+- Update to ViPER4Android FX Redesign 7.0
+- Added support for Dolby Vision
+- Updated device blobs and firmware from HyperOS 1.0.5.0.UKDMIXM
+- Other Fixes and changes under the hood
+
 # 29-AUG-2024:
 - Sync with latest 10.7.3 hotfix sources
 
