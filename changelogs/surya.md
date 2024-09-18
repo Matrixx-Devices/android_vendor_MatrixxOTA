@@ -1,3 +1,11 @@
+# 18 September 2024
+
+- September Security patch
+- Signed Build
+- Included Leica Camera
+- Bringback Per App Refresh Rate
+- Optimize Audio on Calls
+
 # 25 August 2024
 
 - Synced with latest source 10.7.2
