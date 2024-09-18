@@ -1,3 +1,6 @@
+# Changelog 18 September 2024
+- Switch to user build
+
 # Changelog 10 September 2024
 - Added Charging Control
 - Update to 10.8.0
