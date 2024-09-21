@@ -5,12 +5,12 @@
         "oem": "OnePlus",
         "device": "lemonadep",
         "device_name": "OnePlus 9 Pro",
-        "filename": "Matrixx-v10.8.0-Official-lemonadep-Gapps-20240913.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.8.0-Official-lemonadep-Gapps-20240913.zip/download",
-        "timestamp": 1726208684,
-        "md5": "67ed9f0ef3bd7e9e2dbffab489085a86",
-        "size": 2143972773,
-        "version": "v10.8.0"
+        "filename": "Matrixx-v10.8.1-Official-lemonadep-Gapps-20240921.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.8.1-Official-lemonadep-Gapps-20240921.zip/download",
+        "timestamp": 1726918982,
+        "md5": "cd7a15d794f3a2feb9ef2acbbd6ced80",
+        "size": 2143578125,
+        "version": "v10.8.1"
     }
   ]
 }
