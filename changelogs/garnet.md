@@ -1,3 +1,9 @@
+# Changelog 21 September 2024:
+
+- Synced sources 10.8.0->10.8.1
+- Using Horus v2.1 (KSU) Kernel
+- Minor tweaks
+
 # Changelog 9 September 2024:
 
 - Synced sources 10.7.3->10.8.0
