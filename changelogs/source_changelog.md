@@ -1,3 +1,14 @@
+# Matrixx v-10.8.1 Changelog
+
+- Update release version to 10.8.1
+- Drop Netflix spoof
+- Fixed back gesture sensitivity setting handling
+- Fixed IME space under keyboard feature
+- Fixed more memory leaks
+- More improvements for three finger swipe
+- Spoof realme link to Pixel to fix crash
+- Spoof snapchat to Pixel XL
+
 # Matrixx v-10.8.0 13 Sep 2024 Changelog
 
 - Multiple memory leaks fixes
