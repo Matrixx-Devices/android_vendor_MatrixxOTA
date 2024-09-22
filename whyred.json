@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "Whyred",
         "device_name": "Redmi Note 5 Pro",
-        "filename": "Matrixx-v10.8.0-Official-whyred-Gapps-20240917.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/Matrixx-v10.8.0-Official-whyred-Gapps-20240917.zip/download",
-        "timestamp": 1726544620,
-        "md5": "02a064714524ce234fb67b8562d84efd",
-        "size": 1807547378,
-        "version": "v10.8.0"
+        "filename": "Matrixx-v10.8.1-Official-whyred-Gapps-20240922.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/Matrixx-v10.8.1-Official-whyred-Gapps-20240922.zip/download",
+        "timestamp": 1726982184,
+        "md5": "448fcb9c925613aec07cda9482fb7779",
+        "size": 1806931244,
+        "version": "v10.8.1"
     }
   ]
 }
