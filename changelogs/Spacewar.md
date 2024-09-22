@@ -1,3 +1,19 @@
+# Changelog 22 September 2024:
+- New Nothing Cam included
+- Improved system stability
+- Improve smoothness
+- Increase max volume
+- Added ViperFX
+- Loads of behind the scenes improvements
+- Improve WiFi speeds
+- Improve heat management
+- Firmware included 2.6.0
+
+Bugs so far: 
+- Dark/light theme switch
+- Adaptive switch
+- QS inconsistent and lags a bit
+
 # Changelog 30 August 2024:
 - Updated blobs to 2.6
 - Improved Stability
