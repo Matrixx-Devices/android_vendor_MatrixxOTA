@@ -1,7 +1,14 @@
+# 22-September-2024
+- Android 14 EOL
+- Synced with latest source v10.8.1
+- Latest September SP
+- Other sources changes/fixes
+
 # 15-September-2024
 - Android 14 EOL
 - Improved network performance
 - Synced with latest source v10.8.0
+- Latest September SP
 - Other sources changes/fixes
 
 # 30-August-2024
@@ -9,6 +16,7 @@
 - Dropped SmartConnect
 - Improved Motorola Dolby output
 - Synced with latest source v10.7.3
+- Latest August SP
 - Other sources changes/fixes
 
 # 31-July-2024
@@ -20,6 +28,7 @@
 - Fixed broken sound
 - Added changelog in Updater 
 - Synced with latest source v10.6.2
+- Latest July SP
 - Other sources changes/fixes
 
 # 20-July-2024
@@ -28,6 +37,7 @@
 - ROM signed (pass integrity)
 - Increase status bar height
 - Synced with latest source v10.6.1
+- Latest July SP
 - Other sources changes/fixes
 
 # 15-June-2024
@@ -37,4 +47,5 @@
 - SELinux enforcing
 - KernelSU included
 - Synced with latest source v10.5.3
+- Latest June SP
 - Other sources changes/fixes
