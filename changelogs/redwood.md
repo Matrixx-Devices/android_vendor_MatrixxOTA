@@ -1,3 +1,6 @@
+# 23-September-2024
+* Kernel upstreamed to 5.4.284
+
 # 09-September-2024
 * No changes
 
