@@ -1,3 +1,7 @@
+# Changelog 23 September 2024
+- Add Device Extras (Wireless Powershare and USB-OTG)
+- Improvements to performance and system stability
+
 # Changelog 18 September 2024
 - Switch to user build
 
