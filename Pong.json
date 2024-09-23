@@ -5,12 +5,12 @@
         "oem": "Nothing",
         "device": "Pong",
         "device_name": "Nothing Phone (2)",
-        "filename": "Matrixx-v10.8.0-Official-Pong-Gapps-20240918.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/Pong/Matrixx-v10.8.0-Official-Pong-Gapps-20240918.zip/download",
-        "timestamp": 1726666669,
-        "md5": "123b831d2de1833060d45947ca9f5635",
-        "size": 2243639019,
-        "version": "v10.8.0"
+        "filename": "Matrixx-v10.8.1-Official-Pong-Gapps-20240923.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/Pong/Matrixx-v10.8.1-Official-Pong-Gapps-20240923.zip/download",
+        "timestamp": 1727104738,
+        "md5": "7f38b91f5b80e51fc010620299af78e1",
+        "size": 2246446002,
+        "version": "v10.8.1"
     }
   ]
 }
