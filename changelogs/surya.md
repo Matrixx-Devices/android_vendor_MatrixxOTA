@@ -1,3 +1,8 @@
+# 25 September 2024
+
+- Included Dolby Vision
+- Switch to Pixel PowerHAL
+
 # 18 September 2024
 
 - September Security patch
