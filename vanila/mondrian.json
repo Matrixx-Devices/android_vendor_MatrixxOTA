@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "mondrian",
         "device_name": "POCO F5 Pro",
-        "filename": "Matrixx-v10.8.0-Official-mondrian-Vanilla-20240911.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/mondrian/Matrixx-v10.8.0-Official-mondrian-Vanilla-20240911.zip/download",
-        "timestamp": 1726056388,
-        "md5": "c5607a31e967e14849105335238cb4df",
-        "size": 2158507689,
-        "version": "v10.8.0"
+        "filename": "Matrixx-v10.8.1-Official-mondrian-Vanilla-20240925.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/mondrian/Matrixx-v10.8.1-Official-mondrian-Vanilla-20240925.zip/download",
+        "timestamp": 1727257626,
+        "md5": "caf1f3de13b5ae406a34a13896ceb2ef",
+        "size": 2158363889,
+        "version": "v10.8.1"
     }
   ]
 }
