@@ -1,3 +1,7 @@
+# 27-September-2024
+- Fixed camera night mode & Long exposure crash
+- Fixed Play integrity not passing out of the box
+
 # 13-September-2024
 - Update Kernel
 - Added dolby atmos
