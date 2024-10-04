@@ -1,3 +1,6 @@
+# Changelog 04 October 2024:
+- Synced with latest source v10.8.1
+
 # Changelog 31 August 2024:
 - Synced with latest source v10.7.3
 
