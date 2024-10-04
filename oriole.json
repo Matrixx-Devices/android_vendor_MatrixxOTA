@@ -5,12 +5,12 @@
         "oem": "Google",
         "device": "oriole",
         "device_name": "Google Pixel 6",
-        "filename": "Matrixx-v10.7.3-Official-oriole-Gapps-20240830.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/oriole/Matrixx-v10.7.3-Official-oriole-Gapps-20240830.zip/download",
-        "timestamp": 1725043863,
-        "md5": "ad68c0845c64711ed8eaad729902e419",
-        "size": 2067659329,
-        "version": "v10.7.3"
+        "filename": "Matrixx-v10.8.1-Official-oriole-Gapps-20241004.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/oriole/Matrixx-v10.8.1-Official-oriole-Gapps-20241004.zip/download",
+        "timestamp": 1728052454,
+        "md5": "25c309b01776750ab08da9d6218b6698",
+        "size": 2057010575,
+        "version": "v10.8.1"
     }
   ]
 }
