@@ -1,3 +1,23 @@
+# Changelog 4 October 2024:
+- Fixed media codec bug 
+- Disable dynamic refreshrate
+- Tweak lmk props
+- Build missing Display HAL blobs
+- Drop livedisplay
+- Specify vendor.usb.device
+- Disable camera perflock
+- Change default dexpreopt compiler filter to speed-profile
+- Fix mialogocontrol patch when extract blobs.
+- Cleanup fpc fingerprint wakeup labels.
+- Address maxim ic suspend policies.
+- Correct maximum microphone count
+- Set correct channel mask for earpiece
+- Remove wait_for_keymaster and all references
+- Update hal_power_default to have sys_admin capability
+- Allow surfaceflinger to access firmware
+- Remove conditional for WfdCommon
+- Many more Misc Improvement
+
 # Changelog 15 May 2024:
 - DT rebased over from crdroid
 - Updated blobs from SPESNGlobal_V14.0.6.0.TGKMIXM_3bf72b1c44_13.0
