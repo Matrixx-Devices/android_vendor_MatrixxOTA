@@ -5,12 +5,12 @@
         "oem": "OnePlus",
         "device": "instantnoodle",
         "device_name": "OnePlus 8",
-        "filename": "Matrixx-v10.7.3-OFFICIAL-instantnoodle-Gapps-20240830.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/instantnoodle/Matrixx-v10.7.3-OFFICIAL-instantnoodle-Gapps-20240830.zip/download",
-        "timestamp": 1725009218,
-        "md5": "2cd81132c21bf5afba4836c17d869352",
-        "size": 2144503832,
-        "version": "v10.7.3"
+        "filename": "Matrixx-v10.8.1-OFFICIAL-instantnoodle-Gapps-20241009.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/instantnoodle/Matrixx-v10.8.1-OFFICIAL-instantnoodle-Gapps-20241009.zip/download",
+        "timestamp": 1728481958,
+        "md5": "b762f70b037e3cad597d893046f0b034",
+        "size": 2133445090,
+        "version": "v10.8.1"
     }
   ]
 }
