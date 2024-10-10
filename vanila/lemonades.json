@@ -5,12 +5,12 @@
         "oem": "OnePlus",
         "device": "lemonades",
         "device_name": "OnePlus 9r",
-        "filename": "Matrixx-v10.7.3-OFFICIAL-lemonades-Vanilla-20240831.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonades/Matrixx-v10.7.3-OFFICIAL-lemonades-Vanilla-20240831.zip/download",
-        "timestamp": 1725107791,
-        "md5": "e30200ed353be92b41fc618a07d41a69",
-        "size": 1755112178,
-        "version": "v10.7.3"
+        "filename": "Matrixx-v10.8.1-OFFICIAL-lemonades-Vanilla-20241009.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonades/Vanilla/Matrixx-v10.8.1-OFFICIAL-lemonades-Vanilla-20241009.zip/download",
+        "timestamp": 1728501601,
+        "md5": "13ce2379da45d58447fb0c8441a0e174",
+        "size": 1743906354,
+        "version": "v10.8.1"
     }
   ]
 }

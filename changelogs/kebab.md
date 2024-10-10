@@ -1,3 +1,12 @@
+# Changelog 09 Oct 2024:
+- Fix OplusExtras crashing
+- Fix Edge Touch tile
+- Fix Playback issues
+- Improve system stability
+- OOS cam included
+- Removed Dolby for time being
+- September Patch
+
 # Changelog 30 August 2024:
 - August Patch
 - OOS Cam included
