@@ -1,3 +1,11 @@
+# Matrixx v-10.9.0 Changelog
+- Bump up release version to 10.9.0
+- Merged October 2024 security patch
+- Allow to toggle BT directly with Bluetooth tile
+- Unlink pulse view when media playback is stopped
+- GameSpace: Introduce Quick Start app feature
+- System optimizations and small fixes here & there
+
 # Matrixx v-10.8.1 Changelog
 
 - Update release version to 10.8.1
