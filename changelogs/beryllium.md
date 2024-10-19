@@ -1,3 +1,8 @@
+# Changelog 19 October 2024
+- Include BCR for call recording (Thanks to @Chaitanyakm)
+- Include Extra Gapps (Dialer & Contacts)
+- If Device is not certified: use pifs or modules
+
 # Changelog 11 October 2024
 - Drop custom fastboot-info
 - Remove software OMX blobs
