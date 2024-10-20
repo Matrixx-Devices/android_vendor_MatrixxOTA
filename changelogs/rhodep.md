@@ -29,3 +29,9 @@
 
 # Changelog 11 Sep 2024
 - Fix FP issuse 
+
+# Changelog 19 Oct 2024
+- fix lag
+- fix dual sim
+
+
