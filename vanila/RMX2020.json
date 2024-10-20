@@ -5,12 +5,12 @@
         "oem": "Realme",
         "device": "RMX2020",
         "device_name": "Realme C3",
-        "filename": "Matrixx-v10.8.1-Official-RMX2020-Vanilla-20240927.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/RMX2020/Matrixx-v10.8.1-Official-RMX2020-Vanilla-20240927.zip/download",
-        "timestamp": 1727381007,
-        "md5": "432cddcdbf6beb0e3e4c67d37810bb3b",
-        "size": 1318320122,
-        "version": "v10.8.1"
+        "filename": "Matrixx-v10.9.0-Official-RMX2020-Vanilla-20241019.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/RMX2020/Matrixx-v10.9.0-Official-RMX2020-Vanilla-20241019.zip/download",
+        "timestamp": 1729337016,
+        "md5": "97dcf0caf46315ce7937fa33747ee3b8",
+        "size": 1319574588,
+        "version": "v10.9.0"
     }
   ]
 }
