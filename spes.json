@@ -5,12 +5,12 @@
         "oem": "Xiaomi",
         "device": "spes",
         "device_name": "Redmi Note 11",
-        "filename": "Matrixx-v10.8.1-Official-spes-Gapps-20241003.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/spes/Matrixx-v10.8.1-Official-spes-Gapps-20241003.zip/download",
-        "timestamp": 1727975867,
-        "md5": "3d4434fa23124018328f5ef1ddf01843",
-        "size": 1540186345,
-        "version": "v10.8.1"
+        "filename": "Matrixx-v10.9.0-Official-spes-Gapps-20241020.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/spes/Matrixx-v10.9.0-Official-spes-Gapps-20241020.zip/download",
+        "timestamp": 1729371294,
+        "md5": "b80aa30cd5c708825c4b76aaa3e4368a",
+        "size": 1540363463,
+        "version": "v10.9.0"
     }
   ]
 }

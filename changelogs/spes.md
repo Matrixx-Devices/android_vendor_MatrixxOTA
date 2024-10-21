@@ -1,3 +1,7 @@
+# Changelog 21 October 2024:
+- Fixed sensors not working 
+- Add and increase 5 GHz network signal tolerance
+
 # Changelog 4 October 2024:
 - Fixed media codec bug 
 - Disable dynamic refreshrate
