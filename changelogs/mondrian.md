@@ -1,3 +1,7 @@
+# 21-October-2024
+- Source upstream (10.9.0)
+- Fix display freeze bug (thanks to Arian)
+
 # 25-September-2024
 - Source upstream (10.8.1)
 
