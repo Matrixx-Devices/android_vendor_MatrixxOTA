@@ -1,3 +1,23 @@
+# 23-October-2024
+- only use orange fox recovery using twrp will soft brick
+- dirty flashable on 10.8.0
+- Update bcr to 1.72
+- updated blobs and camera from 1.0.9.0.UMRMIXM
+- rootdir: Do not allow foreground tasks to run on CPU7
+- rootdir: Move background cpuset to CPU0-1
+- rootdir: Set restricted cpuset to the same CPUs as system-background
+- rootdir: Set dex2oat thread count and cpuset
+- init: Register and enable qcrild & data services on boot
+- overlay: configure SQLite to operate in MEMORY mode
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- Dynamically set IRQ affinity for KGSL and MSM_DRM
+- qcril_database: Add migration to disable redir_party_num
+- qcril_database: Add missing migration for db 15.0
+- Import qcril_database and generate the db at build time
+- wifi-display: Add WfdCommon to boot jars
+- Migrate sensor HAL to AIDL interface
+
+
 # 11-September-2024
 - Add fingerprint configuration to overlay
 - Commonize udfps doze sensor type
