@@ -1,3 +1,12 @@
+# 22-Oct-2024
+- Upstreamed to latest 10.9.0 Matrixx sources
+- Upstreamed to latest n0kernel sources
+- Force disable iorapd
+- Disable debug.sf.latch_unsignaled
+- unset BOARD_USERDATAIMAGE_PARTITION_SIZE
+- Build AndroidAuto
+- Add overlay to improve signal reception
+
 # 11-Sept-2024
 - Upstreamed to latest 10.6.2 Matrixx source
 - Upstreamed n0kernel to latest kernel source
