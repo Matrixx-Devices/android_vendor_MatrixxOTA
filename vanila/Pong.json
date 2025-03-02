@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Drishal | Ghost",
+        "maintainer": ["Drishal", "Ghost"],
         "support_group":"https://t.me/DrishalDiscussion",
         "oem": "nothing",
         "device": "Pong",
-        "device_name": "Nothing Phone (2)",
-        "filename": "Matrixx-v11.2.0-Official-Pong-Vanilla-202502121131.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/Pong/Matrixx-v11.2.0-Official-Pong-Vanilla-202502121131.zip/download",
-        "timestamp": 1739359861,
-        "md5": "8da4a7c03d1358bdfd50b2414cc5d2b3",
-        "size": 1851718351,
-        "version": "11.2.0"
+	"device_name": "Nothing Phone (2)",
+        "filename": "Matrixx-v11.2.5-Official-Pong-Vanilla-20250302-1251.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/Pong/Matrixx-v11.2.5-Official-Pong-Vanilla-20250302-1251.zip/download",
+        "timestamp": 1740919871,
+        "md5": "bbb8e104559b563cee777765ba34eff0",
+        "size": 1852133756,
+        "version": "11.2.5"
     }
   ]
 }
