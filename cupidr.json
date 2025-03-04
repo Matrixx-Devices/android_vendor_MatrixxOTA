@@ -5,12 +5,12 @@
         "oem": "Realme",
         "device": "cupidr",
         "device_name": "Realme GT 5G",
-        "filename": "Matrixx-v11.1.0-Official-cupidr-Gapps-20250203.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/cupidr/Matrixx-v11.1.0-Official-cupidr-Gapps-20250203.zip/download",
-        "timestamp": 1738516302,
-        "md5": "53032b3a05c97092232e32110fa2f3ed",
-        "size": 2837230380,
-        "version": "11.1.0"
+        "filename": "Matrixx-v11.2.5-Official-cupidr-Gapps-20250303-1954.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/cupidr/Matrixx-v11.2.5-Official-cupidr-Gapps-20250303-1954.zip/download",
+        "timestamp": 1741006470,
+        "md5": "a6215af5af67797a75cfd54bac9162b5",
+        "size": 2822970917,
+        "version": "11.2.5"
     }
   ]
 }
