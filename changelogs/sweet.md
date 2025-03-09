@@ -1,5 +1,6 @@
-# Changelog 22 February 2025:
+# Changelog 09 March 2025:
 - Initial A15 build
 - February patch
 - Added Leica camera 
-- Added Xiaomi Parts 
+- Added Xiaomi Parts
+- Added KSU Support 
