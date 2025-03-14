@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "G.H.O.S.T",
+        "support_group":"https://t.me/Swaggers_builds",
+        "oem": "Xiaomi",
+        "device": "cepheus",
+        "device_name": "Xiaomi MI9",
+        "filename": "Matrixx-v11.2.5-Official-cepheus-Gapps-20250314-2313.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/cepheus/Matrixx-v11.2.5-Official-cepheus-Gapps-20250314-2313.zip/download",
+        "timestamp": 1741973760,
+        "md5": "644b626f4aa7ffe9b71fc956c6503a25",
+        "size": 2689915228,
+        "version": "11.2.5"
+    }
+  ]
+}
