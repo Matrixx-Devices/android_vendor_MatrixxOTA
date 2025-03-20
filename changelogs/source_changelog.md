@@ -1,3 +1,18 @@
+# Matrixx v-11.2.6 CARTESIAN Changelog
+- Implement Ongoing ProgressBar Chip and make it togglable
+- Introduce QuickSwitch
+- Add Ambient Customizations
+- Bring back Matrixx udfps icon
+- Implement Remove IME space under keyboard feature
+- Introduce AutoDimService
+- drop HTS switch
+- Add recent button for locking tasks to recents
+- Drop Share Button and bringback lens button in recent 
+- rework app scrim colors for launcher 
+- Introduce PowerOffAlarmService
+- Optimize launcher animations
+- Guard BCR and G(Dialer, Message, Phone) with flag
+
 # Matrixx v-11.2.5 CARTESIAN Changelog
 - Tweak the About phone a little
 - added option to show cpu - battery temp in ambient
