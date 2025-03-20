@@ -1,3 +1,19 @@
+# 21-Mar-2025
+- Add front-facing camera protection
+- Add support for modernized doze double/single tap to wake
+- Drop legacy double-tap-to-wake config
+- Drop MIUI Camera
+- Drop old Android Go configurations
+- Enable fts_gesture_mode
+- Enable Bluetooth HAL to read MAC address from NV
+- Enable Touch Gestures
+- Handle DT2W feature through Xiaomi Touch
+- Implement double/single tap attributes
+- Implement support for multiple touch sensor paths
+- Remove camera-daemon boost configs
+- Remove unneeded NFC package
+- Many more misc. changes
+
 # 02-Mar-2025
 - Add WPA3 definition for SAE authentication
 - Allow system_server to read fastcharge node
