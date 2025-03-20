@@ -1,3 +1,8 @@
+# 21-March-2025
+- Switched 2.45ghz cpu oc
+- Added 3gb zram
+- Added Dolby
+
 # 13-Feb-2025
 - Fixed mtp/sdcard issue
 
