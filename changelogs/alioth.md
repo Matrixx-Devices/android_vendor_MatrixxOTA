@@ -1,3 +1,14 @@
+# 20-Mar-2025
+- Introduce GameBar v2.0 and move to system settings also move to m3 style switch 
+- Disable collective Device administrators GMS components
+- Disable Chimera.GmsIntentOperationService
+- Silence some spammy logging
+- give proper permissions for /dev/diag
+- Allow more cached apps in the background
+- Allow vendor_init to set vendor_radio_prop
+- Compact cached app heaps in the background
+- revert to old auto brightness overlay 
+
 # 02-Mar-2025
 - Disable backpressure propagation
 - Enable config_avoidGfxAccel
