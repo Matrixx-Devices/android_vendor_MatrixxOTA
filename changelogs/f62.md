@@ -1,3 +1,3 @@
-# Changelog 19 February 2025:
-- Initial A15 build
-- February patch
+⚡️Device Changelog 03/22/2025⚡️
+- Latest KernelSU-Next
+- Bumped FrEeRuNnEr kernel to v2.2
