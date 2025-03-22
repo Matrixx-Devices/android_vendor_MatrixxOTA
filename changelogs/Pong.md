@@ -1,3 +1,10 @@
+# 22-March-2025
+- Fix dolby sepolicy
+- Bring back stream postprocess
+- Drop sdrHdrRatio from displayconfig
+- Fix Lockscreen cpu info
+- Fixup glyph torch dying immediately when turning on during glyph music visualisation
+
 # 2-March-2025
 - Switch to oss audio HAL
 - Unset scheduler ratelimits
