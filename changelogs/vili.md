@@ -1,3 +1,9 @@
+# 23-Mar-20225
+- Source upstream
+- Fixed audio issue on screen cast
+- Disable stereo support for voip (Fixes in-game voice chat)
+- Added Sony Dolby with c2 audio decoders
+
 # 03-March-2025
 ** CLEAN FLASH RECOMMEND **
 - Source upstream
