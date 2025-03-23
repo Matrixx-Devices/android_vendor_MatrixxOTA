@@ -1,9 +1,19 @@
+# 23-Mar-20225
+- Add init.spes.rc
+- Disable turbulence noise
+- Fix log spam in logcat
+- Introduce GameBar v2.0
+- Move GameBar to system settings
+- Add custom icon for GameBar on system settings
+- Move NFC to global manifest
+- Move to M3 switch for GameSpace 2.0
+- Many more misc. changes
+
 # 21-Mar-2025
 - Add front-facing camera protection
 - Add support for modernized doze double/single tap to wake
 - Drop legacy double-tap-to-wake config
 - Drop MIUI Camera
-- Drop old Android Go configurations
 - Enable fts_gesture_mode
 - Enable Bluetooth HAL to read MAC address from NV
 - Enable Touch Gestures
@@ -11,7 +21,6 @@
 - Implement double/single tap attributes
 - Implement support for multiple touch sensor paths
 - Remove camera-daemon boost configs
-- Remove unneeded NFC package
 - Many more misc. changes
 
 # 02-Mar-2025
