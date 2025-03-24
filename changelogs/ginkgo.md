@@ -11,3 +11,7 @@
 
 - Fixed xiaomi parts
 - Fixed HEVC encoded video recording (video and screen recording)
+
+# Changelog 23 March 2025:
+- Fixed Hotspot and tethering
+- Added torch strength control on xiaomi parts
