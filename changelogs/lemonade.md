@@ -1,3 +1,6 @@
+# 25-March-2025
+- Fixed missing wallpaper and style
+
 # 24-March-2025
 - Fixed screen off udfps
 - Fixed front cam portrait
