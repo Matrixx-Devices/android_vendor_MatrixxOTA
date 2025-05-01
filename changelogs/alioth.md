@@ -1,3 +1,11 @@
+# 20-May-2025
+- Fix Hotspot crashing 
+- Switch To Fakedreamer kernel with KSUNXT
+- Resolve mediacodec denials
+- Enable display async powermode
+- disable proximity usage during doze
+- Many Good underhood changes
+
 # 20-Mar-2025
 - Introduce GameBar v2.0 and move to system settings also move to m3 style switch 
 - Disable collective Device administrators GMS components
