@@ -1,3 +1,9 @@
+# 01-May-2025
+- Fixed 4k 60/120 FPS video
+- Fixed QR scanner crash
+- Removed modded GBoard
+- Upstream kernel
+
 # 25-March-2025
 - Fixed missing wallpaper and style
 
