@@ -1,3 +1,15 @@
+# Matrixx v-11.4.0 Polar Changelog
+- Update source to A15 qpr2 
+- Add option to switch to A14 settings style 
+- Add option to switch settings search bar style to A14 
+- Integrate Avatar inside A15 searchbar (ps try to copy scamsung ig) 
+- Add power menu style 
+- Add notification style 
+- Make lock recent app option togglebale
+- Allow changing font for lockscreen clock
+- Added default game spoof prop for some games 
+- Added option to enable/disbale show media progress and control media playback from statusbar chip
+
 # Matrixx v-11.2.6 CARTESIAN Changelog
 - Implement Ongoing ProgressBar Chip and make it togglable
 - Introduce QuickSwitch
