@@ -2,6 +2,7 @@
 - Fixed 4k 60/120 FPS video
 - Fixed QR scanner crash
 - Removed modded GBoard
+- included KSU next v1.0.6
 - Upstream kernel
 
 # 25-March-2025
