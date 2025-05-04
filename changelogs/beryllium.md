@@ -1,3 +1,7 @@
+# Changelog 04 May 2025
+- Initial QPR2 Release
+- If Device is not certified: use pifs or modules
+
 # Changelog 19 February 2025
 - Include F2FS Filesystem
 - Include ZRAM
