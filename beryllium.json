@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "beryllium",
         "device_name": "POCO F1",
-        "filename": "Matrixx-v11.2.0-Official-beryllium-Gapps-202502191524.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beryllium/Matrixx-v11.2.0-Official-beryllium-Gapps-202502191524.zip/download",
-        "timestamp": 1739978661,
-        "md5": "686dd4209102a7cbe53cc7082fe4a8cb",
-        "size": 2225182852,
-        "version": "11.2.0"
+        "filename": "Matrixx-v11.4.0-Official-beryllium-Gapps-20250504-0621.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beryllium/Matrixx-v11.4.0-Official-beryllium-Gapps-20250504-0621.zip/download",
+        "timestamp": 1746339497,
+        "md5": "1d91063d0961cefa6a3fc1402687246c",
+        "size": 2238804945,
+        "version": "11.4.0"
     }
   ]
 }
