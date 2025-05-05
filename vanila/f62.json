@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "FrEeRuNnEr4EvEr",
+        "support_group":"https://t.me/FrEeRuNnEr4EvErHeLp",
+        "oem": "Samsung",
+        "device": "f62",
+        "device_name": "Samsung Galaxy F62",
+        "filename": "Matrixx-v11.4.0-Official-f62-Vanilla-20250503-2356.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/f62/Matrixx-v11.4.0-Official-f62-Vanilla-20250503-2356.zip/download",
+        "timestamp": 1746330894,
+        "md5": "4be5d1501b96d1ae275d5d3fc57a96dc",
+        "size": 1417786897,
+        "version": "11.4.0"
+    }
+  ]
+}
