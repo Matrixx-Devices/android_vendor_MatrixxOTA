@@ -1,3 +1,43 @@
+# 06-May-2025
+- FIRMWARE flashing is not required latest hos2 global fw is pre-included in the rom itself
+- vanilla build support removed for now will be back in future
+- latest orange fox is compulsory
+- use 01_May ksunext file
+- Update blobs and firmware from OS2.0.4.0.VMRMIXM for device
+- Bring Back Dolby Atmos With whatsapp call bug fixed with ac3 codec
+- Enable support for IEEE80211AC
+- wlan: Drop unused vendor_cmd.xml
+- wlan: Enable self recovery for qca6490
+- Extend audio offload buffer size to 256kb
+- properties: Disable continuous transaction tracing on all build types
+- use QCOM Implementation for Audio Effects
+- Import QCOM audio effects from OnePlus 9R
+- parts: Implement startup service to restore Saturation Setting
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- Dynamically set IRQ affinity for KGSL and MSM_DRM
+- Move Lineage Health HAL to select()
+- Move Lineage PowerShare HAL to select()
+- Set game refresh rate override to 120
+- sepolicy: Allow ueventd to load aw882xx calibration file
+- Enable frame pacing for smoother visual performance
+- Disable ART debug
+- properties: Allow more cached apps in the background
+- properties: Enable support for kernel idle timer
+- Apply dex2oat optimizations
+- props: Disable debug.sf.latch_unsignaled
+- parts: Introduce GameBar v4.0
+- parts: Introduce thermal profile tile service
+- parts: Rework per-app thermal profile
+- parts: Fixup Thermal profile tile service
+- parts: ThermalTileService: Refactor Thermal Tile Service and CPU Governor Management
+- parts: Add support for long-press actions on QS tiles
+- parts: ThermalTileService: Introduce Gaming Mode with per-game optimizations
+- parts: ThermalTileService: Refactor Thermal Profile QS tile
+- parts: Startup: Restore Auto HBM settings on boot
+- Refactor: Migrate SaturationUtils to Kotlin
+- parts: Introduce PowerTools v3.0
+- sepolicy: Rework sepolicy and drop neverallows
+
 # 02-March-2025
 - only use OS1.0.14.0.UMRMIXM firmware otherwise soft brick
 - Fix Dolby audio codecs added ac4 and eac3 codecs
