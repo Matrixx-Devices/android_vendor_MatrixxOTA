@@ -1,3 +1,13 @@
+# 06-May-2025
+- Pong: Use common PowerShare HAL
+- Pong: Set volume steps to 15
+- Pong: powerhint: Drop cpu interection changes
+- Pong: powerhint: Tune down cpu launch duration value
+- Pong: powerhint: Tune uclamp values for efficiency
+- Pong: Remove some unused props
+- Pong: Fix FPS tile
+- Pong: switch to common QCOM AIDL bootctrl HAL
+
 # 22-March-2025
 - Fix dolby sepolicy
 - Bring back stream postprocess
