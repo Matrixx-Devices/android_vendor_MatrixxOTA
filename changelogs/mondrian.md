@@ -1,3 +1,11 @@
+# 06-May-2025
+- Update Dolby Atmos
+- Update MIUI camera
+- Introduce GameBar v4.0
+- Introduce PowerTools v3.0
+- Import QCOM audio effects from OnePlus 9R
+- Clean flash may be required due to major changes in device tree
+
 # 09-March-2025
 - Source upstream
 - Fix wechat pay
