@@ -1,3 +1,7 @@
+# 10-May-2025
+- Hotfix release for Mi Cam
+- Add a KSU-patched boot.img
+
 # 06-May-2025
 - Update Dolby Atmos
 - Update MIUI camera
