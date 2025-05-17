@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "vili",
         "device_name": "Xiaomi 11T Pro",
-        "filename": "Matrixx-v11.2.6-Official-vili-Gapps-20250323-0502.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/vili/Matrixx-v11.2.6-Official-vili-Gapps-20250323-0502.zip/download",
-        "timestamp": 1742706015,
-        "md5": "d33754d9a3ab4c7deaa424dd21a55828",
-        "size": 2516751450,
-        "version": "11.2.6"
+        "filename": "Matrixx-v11.4.0-Official-vili-Gapps-20250504-1525.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/vili/Matrixx-v11.4.0-Official-vili-Gapps-20250504-1525.zip/download",
+        "timestamp": 1746372241,
+        "md5": "5251556bfd87ef0c67155c72c958a268",
+        "size": 2597405519,
+        "version": "11.4.0"
     }
   ]
 }
