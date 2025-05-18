@@ -1,3 +1,21 @@
+# Matrixx v-11.5.0 Radian Changelog
+- Added hide IME option, 
+- Ambient text and img customzations,
+- Fix volume pannel hapic switch, 
+- Fix comapct media player toggle, 
+- Conditionally remove SAF restrictions, 
+- Restart SystemUI on lockclock font select, 
+- Improve cutout force full screen, 
+- Remove extra padding in settings page v2 style,
+- Added compact status bar progress chip  style
+- Added Bypass charging support 
+- Added option to spoof encryption status 
+- Fixes and improvement
+- Fix recent button color
+- Fix clone app not appearing in app drawer
+- Bring back lens in recent button
+- Allow Settings or SUW to connect to insecure Enterprise networks
+
 # Matrixx v-11.4.0 Polar Changelog
 - Update source to A15 qpr2 
 - Add option to switch to A14 settings style 
