@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "EliteDarkKaiser",
-        "support_group":"https://t.me/+E67IdG0vR0gzZWEx",
+        "support_group":"https://t.me/c/2408288954/12",
         "oem": "Google",
         "device": "tangorpro",
-        "device_name": "",
-        "filename": "Matrixx-v11.2.0-Official-tangorpro-Gapps-202502171308.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/tangorpro/Matrixx-v11.2.0-Official-tangorpro-Gapps-202502171308.zip/download",
-        "timestamp": 1739815704,
-        "md5": "c3b3a56a2008f466602cbb9f9f22b6e1",
-        "size": 2248118935,
-        "version": "11.2.0"
+        "device_name": "Pixel Tablet",
+        "filename": "Matrixx-v11.5.0-Official-tangorpro-Gapps-20250518-0246.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/tangorpro/Matrixx-v11.5.0-Official-tangorpro-Gapps-20250518-0246.zip/download",
+        "timestamp": 1747550768,
+        "md5": "9ec8bba179ccf6d6bf43f70e43315581",
+        "size": 2390910049,
+        "version": "11.5.0"
     }
   ]
 }
