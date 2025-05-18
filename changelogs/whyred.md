@@ -1,6 +1,9 @@
 # 01-May-2025
 - Initial qpr2 release
 
+# 18-May-2025
+- Synced with latest source
+
 # 21-March-2025
 - Switched 2.45ghz cpu oc
 - Added 3gb zram
