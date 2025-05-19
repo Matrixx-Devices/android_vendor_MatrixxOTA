@@ -1,3 +1,10 @@
+Note:
+    * Can be flashed via recovery like TWRP/OFOX
+    * Ensure you are on latest available firmware for your device.
+
+# Changelog 19 May 2025
+- Detailed device side full changelog https://github.com/crdroidandroid/android_vendor_crDroidOTA/blob/15.0/vili_changelog.txt
+
 # 23-Mar-20225
 - Source upstream
 - Fixed audio issue on screen cast
