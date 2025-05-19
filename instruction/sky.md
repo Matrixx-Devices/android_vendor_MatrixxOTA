@@ -3,6 +3,8 @@
 - Backup all your data to an external source.
 - A **clean flash** is mandatory if coming from another ROM or a previous unofficial build.
 - Keep in mind that a clean flash is always recommended when coming from another ROM.
+- **Recommended Recovery:** [OrangeFox](https://sourceforge.net/projects/projectmatrixx/files/Android-15/sky/recovery/recovery.img/download)
+- **Recommended Firmware:** [OS2.0.5.0.VMWEUXM](https://xmfirmwareupdater.com/download/?file=fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.5.0.VMWEUXM-user-15.0-0c811cb5a7.zip)
 
 ## Clean Flash
 

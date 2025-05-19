@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "kAiF",
+        "support_group":"https://t.me/Redmi125GSupport",
+        "oem": "Xiaomi",
+        "device": "sky",
+        "device_name": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
+        "filename": "Matrixx-v11.5.0-Official-sky-Vanilla-20250519-1023.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sky/Matrixx-v11.5.0-Official-sky-Vanilla-20250519-1023.zip/download",
+        "timestamp": 1747650168,
+        "md5": "561b738dd65dc8d8e081497a7ddef927",
+        "size": 1165457217,
+        "version": "11.5.0"
+    }
+  ]
+}
