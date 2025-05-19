@@ -23,7 +23,7 @@
    - **Platform Tools Link (Windows)**: [platform-tools-latest-windows.zip](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
 2. Download the Recovery from the link below:
-   - **Recovery Link [ For Android 15 ]:** [Recovery](https://t.me/FilesArchieve/251).
+   - **Recovery Link [ For Android 15 ]:** [Recovery](https://t.me/FilesArchieve/262).
 
 3. Download the Project Matrixx ROM for Realme 7/Narzo 20 Pro/Narzo 30 4G - salaa from a reliable source.
    - **Project Matrixx ROM Link**: [DOWNLOAD](https://www.projectmatrixx.org/downloads/salaa)
@@ -139,7 +139,7 @@ Your device will reboot with Recovery installed.
 4. Clear Dalvik and Cache in advance wipe
 5. Reboot to System
 ***
-- For OTA updates use [Recovery](https://t.me/FilesArchieve/251)
+- For OTA updates use [Recovery](https://t.me/FilesArchieve/262)
 
 > [!Note]
 > **Notes specific to device build**
