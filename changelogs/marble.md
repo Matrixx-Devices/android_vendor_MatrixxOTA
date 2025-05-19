@@ -1,3 +1,32 @@
+# 19-May-2025
+- Firmware is removed only flash hos2 firmware
+- latest orange fox is compulsory to be used
+- use 01_May ksunext file from install documents
+- dirty flashable from 11.2.0 newer updates
+- Includes Powertools,dolbyAtmos,gamebar
+- properties: Disable continuous transaction tracing on all build types
+- textclassifier: Add and ship prebuilt TextClassifier
+- overlay: configure SQLite to operate in MEMORY mode
+- Introduce thermal profile tile service
+- parts: Rework per-app thermal profile
+- parts: Fixup Thermal profile tile service
+- parts: ThermalTileService: Refactor Thermal Tile Service and CPU Governor Management
+- parts: Add support for long-press actions on QS tiles
+- parts: ThermalTileService: Introduce Gaming Mode with per-game optimizations
+- parts: ThermalTileService: Refactor Thermal Profile QS tile
+- Refactor: Migrate SaturationUtils to Kotlin
+- parts: Introduce PowerTools v3.0
+- sepolicy: Rework sepolicy and drop neverallows
+- Set camera override format from reserved via soong config
+- sensors: Migrate sensor-notifier extension config to soong select
+- Move soong_config_sets from BoardConfig to common.mk 
+- Migrate powershare to soong_config_set
+- Move WfdCommon boot jar declaration to vendor
+- Add support for Dolby Vision
+- parts: Don't set battery saver power profile in low battery mode
+- Fix wrong format specifier in libgf_hal.so
+- Migrate sensor-notifer config to soong_config_set
+
 # 06-May-2025
 - FIRMWARE flashing is not required latest hos2 global fw is pre-included in the rom itself
 - vanilla build support removed for now will be back in future

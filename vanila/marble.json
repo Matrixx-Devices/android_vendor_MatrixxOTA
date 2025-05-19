@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "marble",
         "device_name": "Poco F5/Redmi Note 12 Turbo",
-        "filename": "Matrixx-v11.2.5-Official-marble-Vanilla-20250302-1449.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/marble/Matrixx-v11.2.5-Official-marble-Vanilla-20250302-1449.zip/download",
-        "timestamp": 1740907112,
-        "md5": "11247da763c001712dff7684ce9024d1",
-        "size": 1995948470,
-        "version": "11.2.5"
+        "filename": "Matrixx-v11.5.0-Official-marble-Vanilla-20250518-2041.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/marble/Matrixx-v11.5.0-Official-marble-Vanilla-20250518-2041.zip/download",
+        "timestamp": 1747600722,
+        "md5": "7db260bfb087ec806ab6084937a8ac0a",
+        "size": 2023241400,
+        "version": "11.5.0"
     }
   ]
 }
