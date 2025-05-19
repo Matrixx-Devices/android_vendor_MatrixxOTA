@@ -1,4 +1,13 @@
-# 03-Mar-2025
+# 19-May-2025
+- Move Lineage Health HAL to select()
+- Move libcameraservice extension lib to select()
+- Decrease debug.hwui.target_cpu_time_percent
+- Disable_gl_backpressure
+- Disable adsprpcd
+- Fix 64mp Camera issue
+- Many more improvements kernel side
+
+# 03-May-2025
 - drop dt2w hint from powerhint
 - drop Game mode tuning from powerhint
 - update blobs from V816.0.12.0.UKKCNXM
