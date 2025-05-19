@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "haydn",
         "device_name": "Xiaomi 11X Pro",
-        "filename": "Matrixx-v11.4.0-Official-haydn-Gapps-20250503-0134.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/haydn/Matrixx-v11.4.0-Official-haydn-Gapps-20250503-0134.zip/download",
-        "timestamp": 1746216165,
-        "md5": "9aaf544d9971d3c2d31bea7c31a4bff8",
-        "size": 2825702898,
-        "version": "11.4.0"
+        "filename": "Matrixx-v11.5.0-Official-haydn-Gapps-20250519-0847.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/haydn/Matrixx-v11.5.0-Official-haydn-Gapps-20250519-0847.zip/download",
+        "timestamp": 1747624594,
+        "md5": "8eff6160d3a12cdea9e9218c230d57a9",
+        "size": 2792786788,
+        "version": "11.5.0"
     }
   ]
 }
