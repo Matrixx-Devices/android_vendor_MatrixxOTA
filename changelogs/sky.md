@@ -1,5 +1,18 @@
-# 16-Feburary-2025
-- Synced sources v11.1.0 -> v11.2.0
-
-# 07-Feburary-2025
-- Initial A15 QPR1 build
+# 19-May-2025
+- Initial Android 15 QPR2 Release
+- Update blobs from  OS2.0.5.0.VMWEUXM
+- Updated Build FingerPrint
+- Switch to Aidl BootCtrl
+- Extend audio offload buffer size to 256kb
+- Remove unnecessary display board flags
+- Allow PowerOffAlarm app to find alarm service
+- Remove unused GPS implementations
+- Migrate mount point creation out of Android.mk
+- Switch to use.voice.path.for.pcm.voip
+- Disable turbulence noise
+- Disable OMX service
+- Added swappiness to 40 (to avoid qs lag)
+- Sync overlay paddings from Stock
+- Added overlay cpu temp divider
+- Remove unneeded NFC packages
+- Added ViPER4AndroidFX
