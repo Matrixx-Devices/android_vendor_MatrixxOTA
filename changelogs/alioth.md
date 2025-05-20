@@ -1,4 +1,9 @@
 # 20-May-2025
+    - Fix wfd 
+    - Add bypass Charging 
+    - Update blobs from OS1.0.3.0.TKHMIXM
+
+# 01-May-2025
 - Fix Hotspot crashing 
 - Switch To Fakedreamer kernel with KSUNXT
 - Resolve mediacodec denials
