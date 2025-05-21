@@ -1,3 +1,9 @@
+# 21-May-2025
+- Move WfdCommon boot jar declaration to vendor
+- Add support for Dolby Vision
+- Source upstream
+- Update KSU boot img
+
 # 10-May-2025
 - Hotfix release for Mi Cam
 - Add a KSU-patched boot.img
