@@ -1,3 +1,13 @@
+# 21-May-2025
+- Initial Release from the New Maintainer (v11.5.0)
+- GameBar & MIUI Camera is included
+- Import functional OMX codecs from rhode
+- Update configs with fogona
+- Drop unused media_profiles
+- Copy media_codecs_vendor to media_codecs
+- Reduce aggressive TAUClampBoost at launch
+- Many more Misc. changes from Device Tree
+
 # 23-Mar-20225
 - Add init.spes.rc
 - Disable turbulence noise
