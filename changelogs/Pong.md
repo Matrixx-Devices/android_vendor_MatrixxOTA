@@ -1,3 +1,15 @@
+# 22-May-2025
+- Switch back to prebuild audio blobs
+- Fix low mic sound
+- Disable speaker audio spatializer by default
+- Configure max values for background and dex2oat groups
+- Unset scheduler ratelimits
+- Switch BtAudio to AIDL
+- Tweak dolby dax config
+- Switch to PowerShare AIDL
+- Set zram size to 40%
+- Checkout fstab from NOS 3.0
+
 # 06-May-2025
 - Pong: Use common PowerShare HAL
 - Pong: Set volume steps to 15
