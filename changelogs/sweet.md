@@ -1,3 +1,9 @@
+# Changelog 25 May 2025:
+- KSU Build
+- Added Leica camera
+- Added Xiaomi Parts
+- May patch
+
 # Changelog 09 May 2025:
 - Initial QPR2 Release
 - Added Leica camera
