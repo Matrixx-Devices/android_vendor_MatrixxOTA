@@ -1,3 +1,9 @@
+# 26-May-2025
+- Fixed an issue where Camera on certain applications like TG, Brave (QR Code Scanner) or Face Unlock / Banking Apps doesn't work.
+- Addressed some cameraserver denials
+- Migrated Lineage Health to soong_config_set
+- Many more misc. changes from DT
+
 # 21-May-2025
 - Initial Release from the New Maintainer (v11.5.0)
 - GameBar & MIUI Camera is included
