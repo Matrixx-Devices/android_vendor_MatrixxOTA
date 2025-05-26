@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "redwood",
         "device_name": "POCO X5 Pro 5G",
-        "filename": "Matrixx-v11.2.0-Official-redwood-Gapps-202502120833.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/redwood/Matrixx-v11.2.0-Official-redwood-Gapps-202502120833.zip/download",
-        "timestamp": 1739348824,
-        "md5": "cb0c82d4ab6b8a80eb8ec68521f4b5c0",
-        "size": 2417572051,
-        "version": "11.2.0"
+        "filename": "Matrixx-v11.5.0-Official-redwood-Gapps-20250526-0948.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/redwood/Matrixx-v11.5.0-Official-redwood-Gapps-20250526-0948.zip/download",
+        "timestamp": 1748252550,
+        "md5": "ece118575d22741becabd1e609bb2c02",
+        "size": 2522383129,
+        "version": "11.5.0"
     }
   ]
 }
