@@ -1,16 +1,16 @@
 {
     "response": [
       {
-          "maintainer": ["N-EX"],
+          "maintainer": ["spesmynuts"],
           "support_group": "https://t.me/bleedingedgeandroid",
           "oem": "Xiaomi",
           "device": "spes",
           "device_name": "Redmi Note 11/NFC",
-          "filename": "Matrixx-v11.5.0-Official-spes-Gapps-20250521-1029.zip",
-          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/spes/Matrixx-v11.5.0-Official-spes-Gapps-20250521-1029.zip",
-          "timestamp": 1747903778,
-          "md5": "53375a6f0cf3b156c3fa347caec8f04d",
-          "size": 2523499718,
+          "filename": "Matrixx-v11.5.0-Official-spes-Gapps-20250524-1726.zip",
+          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/spes/Matrixx-v11.5.0-Official-spes-Gapps-20250524-1726",
+          "timestamp": 1748236424,
+          "md5": "6A9C8B530A53FE1BA1BB42E908D31C54",
+          "size": 2523245944,
           "version": "11.5.0"
       }
     ]
