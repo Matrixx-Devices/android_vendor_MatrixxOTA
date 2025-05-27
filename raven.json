@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "Jrcable2",
-        "support_group":"https://t.me/+E67IdG0vR0gzZWEx",
-        "oem": "Google",
-        "device": "raven",
+        "support_group":"https,",
+        "oem": "Google,,",
+        "device": "raven,,",
         "device_name": "Pixel 6 Pro",
-        "filename": "Matrixx-v11.2.0-Official-raven-Gapps-202502171759.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/raven/Matrixx-v11.2.0-Official-raven-Gapps-202502171759.zip/download",
-        "timestamp": 1739833175,
-        "md5": "c8443077d00a13848e2bb2c4e4806fa8",
-        "size": 2369566884,
-        "version": "11.2.0"
+        "filename": "Matrixx-v11.5.0-Official-raven-Gapps-20250526-2224.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/raven/Matrixx-v11.5.0-Official-raven-Gapps-20250526-2224.zip/download",
+        "timestamp": 1748312391,
+        "md5": "2a3257106ed38c917960a470a6e24029",
+        "size": 2463271469,
+        "version": "11.5.0"
     }
   ]
 }
