@@ -2,9 +2,8 @@
   "response": [
     {
         "maintainer": "Jrcable2",
-        "support_group":"https,",
-        "oem": "Google,,",
-        "device": "raven,,",
+        "oem": "Google",
+        "device": "raven",
         "device_name": "Pixel 6 Pro",
         "filename": "Matrixx-v11.5.0-Official-raven-Gapps-20250526-2224.zip",
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/raven/Matrixx-v11.5.0-Official-raven-Gapps-20250526-2224.zip/download",
