@@ -1,3 +1,10 @@
+# 30-May-2025
+- Fixes the Problem Of No Sound During a VoIP Call When Switch Earpiece to Speaker & Vice Versa
+- Fixes the Problem of No Sound During a VoIP Call In Background Playback
+- Added Dolby Atmos Support
+- Configure SQLite to operate in MEMORY mode
+- Dropped ViPER4AndroidFX
+
 # 19-May-2025
 - Initial Android 15 QPR2 Release
 - Update blobs from  OS2.0.5.0.VMWEUXM
