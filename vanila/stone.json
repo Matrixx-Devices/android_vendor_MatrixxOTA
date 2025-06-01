@@ -1,17 +1,17 @@
 {
     "response": [
       {
-          "maintainer": ["Mayuresh", "Khnome"],
+          "maintainer": ["mayuresh2543", "Tarataf"],
           "support_group":"https://t.me/team_buildbotchat",
           "oem": "Xiaomi",
           "device": "stone",
           "device_name": "Redmi Note 12 5G / POCO X5",
-          "filename": "Matrixx-v11.2.0-Official-stone-Vanilla-202502131131.zip",
-          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/stone/Matrixx-v11.2.0-Official-stone-Vanilla-202502131131.zip/download",
-          "timestamp": 1739426480,
-          "md5": "fa977d68da709db50039a933e49c3fd9",
-          "size": 1206551594,
-          "version": "11.2.0"
+          "filename": "Matrixx-v11.5.0-Official-stone-Vanilla-20250601-1250.zip",
+          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/stone/Matrixx-v11.5.0-Official-stone-Vanilla-20250601-1250.zip/download",
+          "timestamp": 1748762030,
+          "md5": "551fc936899462aabf96a25a35bbf7dd",
+          "size": 1218712529,
+          "version": "11.5.0"
       }
     ]
   }  
