@@ -1,3 +1,21 @@
+# 04-June-2025
+- props: Added touch improvement props
+- props: Enabled Incremental on the device
+- props: Enabled the pre-rendering feature
+- system: Optimized SF durations
+- system: Improved surfaceflinger
+- audio: Removed direct flag for VOIP RX
+- wifi: Enabled Optimized Power Management
+- wifi: Smarter descicions on wether to use a 2 or 5Ghz AP
+- Reduced boot time
+- Disabled camera perflock
+- Disabled Dynamic RR (refresh-rate)
+- overlays: Disabled 5G toggle in QS
+- overlays: Offloaded WM shell to another thread
+- Enabled LTO Optimizations
+- Disable default game FPS Limit in developer-options
+- Many more misc. changes from DT
+
 # 26-May-2025
 - Fixed an issue where Camera on certain applications like TG, Brave (QR Code Scanner) or Face Unlock / Banking Apps doesn't work.
 - Addressed some cameraserver denials
