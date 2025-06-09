@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "ginkgo",
         "device_name": "Redmi Note 8/8T",
-        "filename": "Matrixx-v11.2.6-Official-ginkgo-Vanilla-20250324-1022.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/ginkgo/Matrixx-v11.2.6-Official-ginkgo-Vanilla-20250324-1022.zip/download",
-        "timestamp": 1742811661,
-        "md5": "4fb28e9248ce32cbac51c67f93723f3a",
-        "size": 1472233755,
-        "version": "11.2.6"
+        "filename": "Matrixx-v11.5.0-Official-ginkgo-Vanilla-20250609-0547.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/ginkgo/Matrixx-v11.5.0-Official-ginkgo-Vanilla-20250609-0547.zip/download",
+        "timestamp": 1749448892,
+        "md5": "52409ee67a96b7a7952c8db860457419",
+        "size": 1497774115,
+        "version": "11.5.0"
     }
   ]
 }
