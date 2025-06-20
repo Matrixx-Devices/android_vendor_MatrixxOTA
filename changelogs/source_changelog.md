@@ -1,3 +1,18 @@
+# Matrixx v-11.6.0 Trigon Changelog
+- Fix Clock glimpse issue when unlocking device
+- Fix custom clock overlapping on theme switch from light/dark
+- Fix default clock color stays white in light mode
+- Fix Clock size getting reset after system ui restart
+- Add keybox method to pass strog (get your own keys )
+- Fix lock/unlock app in launcher recent
+- Fix crash in HideAppListSettings when fragment is not attached
+- Legacy attestation spoofing changes
+- Fixup code for pif and game json file loading (now we don't need to click twice on same option to work)
+- Show a popup dialog upon usb connection
+- Set scrolling friction to 0.006f
+- Disable new carrier group mobile icons(fixes signal icon stays white in expanded qs)
+- Added toggle to switch between new revamp qs by google
+
 # Matrixx v-11.5.0 Radian Changelog
 - Added hide IME option, 
 - Ambient text and img customzations,
