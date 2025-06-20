@@ -3,15 +3,15 @@
     {
         "maintainer": "whyred_404",
         "support_group":"https://t.me/project_bd_support",
-        "oem": "Xiaomi,",
-        "device": "whyred,",
+        "oem": "Xiaomi",
+        "device": "whyred",
         "device_name": "Redmi Note 5 Pro",
-        "filename": "Matrixx-v11.5.0-Official-whyred-Gapps-20250518-1304.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/whyred/Matrixx-v11.5.0-Official-whyred-Gapps-20250518-1304.zip/download",
-        "timestamp": 1747573348,
-        "md5": "2f941039cde90672e510d3be561a82f7",
-        "size": 2761794497,
-        "version": "11.5.0"
+        "filename": "Matrixx-v11.6.0-Official-whyred-Gapps-202506201235.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/whyred/Matrixx-v11.6.0-Official-whyred-Gapps-202506201235.zip/download",
+        "timestamp": 1750422821,
+        "md5": "295ef004847afc31f72e6a8c01d408cd",
+        "size": 2790706968,
+        "version": "11.6.0"
     }
   ]
 }

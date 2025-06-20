@@ -1,3 +1,6 @@
+# 20-June-2025
+- Synced with latest source
+
 # 01-May-2025
 - Initial qpr2 release
 
