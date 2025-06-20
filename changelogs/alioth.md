@@ -1,3 +1,9 @@
+# 20-Jun-2025
+    - Drop Bypass charging 
+    - some underhood changes
+    - Bring back official gboard back
+    - Switch to n0 kernel 
+
 # 20-May-2025
     - Fix wfd 
     - Add bypass Charging 
