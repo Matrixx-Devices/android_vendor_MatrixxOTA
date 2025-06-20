@@ -1,4 +1,9 @@
+# 20-June-2025
+- Synced With Latest Source
+- Added Blur Support
+
 # 30-May-2025
+- Update blobs from  OS2.0.8.0.VMWEUXM
 - Fixes the Problem Of No Sound During a VoIP Call When Switch Earpiece to Speaker & Vice Versa
 - Fixes the Problem of No Sound During a VoIP Call In Background Playback
 - Added Dolby Atmos Support
