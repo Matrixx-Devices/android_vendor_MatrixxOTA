@@ -1,3 +1,9 @@
+# Changelog 20 June 2025:
+- Synced sources v11.2.5 -> v11.6.0
+- Initial build by Mohammad Kibria
+
+N.B: Clean flash mandatory
+
 # Changelog 01 March 2025:
 
 - Synced sources v11.2.0 -> v11.2.5
