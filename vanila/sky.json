@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "kAiF",
-        "support_group":"https://t.me/kAiF_00z",
+        "maintainer": "kAiF_00z",
+        "support_group":"https://t.me/Redmi125GSupport",
         "oem": "Xiaomi",
         "device": "sky",
         "device_name": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
-        "filename": "Matrixx-v11.5.0-Official-sky-Vanilla-20250530-1345.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sky/Matrixx-v11.5.0-Official-sky-Vanilla-20250530-1345.zip/download",
-        "timestamp": 1748612691,
-        "md5": "0a0e08d35744f7d2c9d8e6766f99e646",
-        "size": 1172263715,
-        "version": "11.5.0"
+        "filename": "Matrixx-v11.6.0-Official-sky-Vanilla-202506201736.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sky/Matrixx-v11.6.0-Official-sky-Vanilla-202506201736.zip/download",
+        "timestamp": 1750440907,
+        "md5": "98ce3350bcdba392cd79ac8547d82385",
+        "size": 1166956510,
+        "version": "11.6.0"
     }
   ]
 }
