@@ -1,3 +1,13 @@
+# 21-June-2025
+- Enabled LTE_CA Workaround
+- Reduced Screen Brightness
+- Switched to AIDL ST NFC HAL
+- overlay: Updated CarrierConfig from TKQ1.221114.001-V816.0.11.0.TGKMIXM-release-keys
+- overlay: Synced brightness values with spesn TKQ1.221114.001-V816.0.11.0.TGKMIXM-release-keys
+- sepolicy: Removed duplicate IR rules
+- kernel: Updated the kernel sources to the latest (Credits to @angelomds42)
+- Disable UFFD GC via OVERRIDE_ENABLE_UFFD_GC
+
 # 04-June-2025
 - props: Added touch improvement props
 - props: Enabled Incremental on the device
