@@ -1,3 +1,28 @@
+# 23-June-2025
+- disable gl backpressure
+- disable adsprpcd
+- set camera override format from reserved via soong config
+- Fix product mod device
+- Fix VoWifi
+- Fix 64mp cn cam issues
+- Switched to OSS Dolby interface
+- enabled UFFD GC
+- Update CarrierConfig from haydn v816.0.12.0 UKKCNXM
+- Disable global mode and CDMA choices
+- Configure WIFI TCP buffers
+- enable VoNR for JIO5G
+- Switch to common AIDL IR service
+- Allow VoLTE and VoWiFi by default
+- import missing wpa_supplicant configs from stock
+- allow rild read default_prop
+- Fixed many sepolicy denials
+- Apply dex2oat optimizations
+- Update blobs from haydn v812.0.18.0.UKKEUXM
+- Update HyperOS gallery and editor
+- Update Ksun to v1.0.6
+- Added support for Susfs
+- Added Vanila support
+
 # 19-May-2025
 - Move Lineage Health HAL to select()
 - Move libcameraservice extension lib to select()
