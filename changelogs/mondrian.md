@@ -1,3 +1,9 @@
+# 26-Jun-2025
+- Source upstream
+- Fix some sepolicy denials
+- Update vendor blobs
+- Add support for Dolby spatial audio
+
 # 21-May-2025
 - Move WfdCommon boot jar declaration to vendor
 - Add support for Dolby Vision
