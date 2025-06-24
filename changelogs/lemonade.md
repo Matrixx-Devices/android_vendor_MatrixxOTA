@@ -1,3 +1,8 @@
+# 24-June-2025
+- Updated to KSU next v1.0.8
+- Removed OOS camera
+- Update blobs to OOS 14.0.0.1901
+
 # 01-May-2025
 - Fixed 4k 60 FPS video
 - Fixed QR scanner crash

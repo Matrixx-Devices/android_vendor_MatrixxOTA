@@ -3,7 +3,7 @@
 
 **Update firmware:**
 - If you're on OOS 11/12, update to OOS 13/14 before proceeding
-- Now download firmware-Flasher 14.0.0.730(EX01) [**HERE**](https://sourceforge.net/projects/projectmatrixx/files/Android-15/lemonadep/Utility/)
+- Now download firmware-Flasher 14.0.0.1901(EX01) [**HERE**](https://sourceforge.net/projects/projectmatrixx/files/Android-15/lemonadep/Utility/)
 - Extract Firmware-Flasher zip
 - Reboot to bootloader & connect your phone to PC
 - Double click on __Update-firmware.bat__
