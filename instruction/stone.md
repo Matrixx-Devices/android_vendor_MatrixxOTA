@@ -12,10 +12,10 @@
 4. Format data.
 5. Connect your phone to the PC.
 6. Apply update via ADB with `adb sideload <rom_filename>.zip`.
-6.1. Click "Yes" to reboot to recovery to flash additional packages eg. Gapps, Magisk.
-6.2 Format data again
-7. You can ignore 6.1 and 6.2 if you dont want to flash anything else and click "No".
-8. Reboot to the system.
+7. Click "Yes" to reboot to recovery to flash additional packages eg. Gapps, Magisk.
+8. Format data again
+9. You can ignore Step 7 and 8 if you dont want to flash anything else and click "No".
+10. Reboot to the system.
 
 ## ROM Update / Dirty Flash
 
