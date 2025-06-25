@@ -1,0 +1,11 @@
+# 24-June-2025
+- Initial official Project-Matrixx build.
+- Increased zram size.
+- Setup device as webcam.
+- switched to common qti usb.
+- update gpu driver to adreno 797.
+- Add A650 firmware changes.
+- Added latest version of BCR.
+- Disable proximity usage during doze.
+- Kernel: Added support for kernelsu-next 1.0.8.
+- kernel: some minor changes related to cpufreq.
