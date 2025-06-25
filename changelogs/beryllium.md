@@ -1,3 +1,8 @@
+# Changelog 25 June 2025
+- Added Bypass Charging
+- Dropped Miui Camera
+- Device is not certified: use valid keybox and apply it through Matrixx Settings
+
 # Changelog 04 May 2025
 - Initial QPR2 Release
 - If Device is not certified: use pifs or modules
