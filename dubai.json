@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "NotDheeraj06",
+        "support_group":"https://t.me/NotDheeraj06_Builds",
+        "oem": "motorola",
+        "device": "dubai",
+        "device_name": "Motorola Edge 30",
+        "filename": "Matrixx-v11.6.0-Official-dubai-Gapps-202506250958.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/dubai/Matrixx-v11.6.0-Official-dubai-Gapps-202506250958.zip/download",
+        "timestamp": 1750845509,
+        "md5": "95649ee6a66d62c0b6af00e9d1864396",
+        "size": 2288483167,
+        "version": "11.6.0"
+    }
+  ]
+}
