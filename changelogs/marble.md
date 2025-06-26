@@ -1,3 +1,10 @@
+# 27-June-2025
+- use 29_May ksunext file from install documents
+- dirty flashable from 11.3.0 newer updates
+- Includes Powertools,dolbyAtmos,gamebar,DolbyVison
+- fix booting issues
+- updated blobs and camera app from OS2.0.5.0.VMRMIXM
+
 # 19-May-2025
 - Firmware is removed only flash hos2 firmware
 - latest orange fox is compulsory to be used
