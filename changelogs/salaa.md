@@ -1,8 +1,15 @@
+# 26-06-2025
+- Likely to be EOL release for a15
+- Synced with latest v11.6.0 source
+- June 2025 security patch
+- Compiled with  Stormbreaker v4.14.336 kernel
+- Misc. Fixes and Improvements
+
 # 19-May-2025
 - Synced with latest v11.5.0 source
 - Compiled with  Stormbreaker v4.14.336 kernel
 - Dropped 32 bit DRM Stack
-- Switched to 64 bit C2 service`
+- Switched to 64 bit C2 service
 - Misc. Fixes and Improvements
 
 # 03-March-2025

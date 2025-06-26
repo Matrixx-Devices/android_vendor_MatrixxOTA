@@ -6,12 +6,12 @@
         "oem": "realme",
         "device": "salaa",
         "device_name": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
-        "filename": "Matrixx-v11.5.0-Official-salaa-Gapps-20250519-1436.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/salaa/Matrixx-v11.5.0-Official-salaa-Gapps-20250519-1436.zip/download",
-        "timestamp": 1747671454,
-        "md5": "ce29affa05adde95a8d2f1dea9dc8c12",
-        "size":  2430355851,
-        "version": "11.5.0"
+        "filename": "Matrixx-v11.6.0-Official-salaa-Gapps-202506260843.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/salaa/Matrixx-v11.6.0-Official-salaa-Gapps-202506260843.zip/download",
+        "timestamp": 1750927283,
+        "md5": "08dfe4a70f2160b15ba5a0813b4af38b",
+        "size": 2440341814,
+        "version": "11.6.0"
     }
   ]
 }
