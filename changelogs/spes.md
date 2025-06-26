@@ -1,3 +1,10 @@
+# 26-June-2025
+- Fixed proximity sensor on not working.
+- Dropped GameBar to modernize XiaomiParts.
+- Debloated some apps that came included in the ROM.
+- kernel: Synced the kernel's sources to the latest
+- source: Fixed an issue where Dirty Flashing the ROM causes bootloop.
+
 # 21-June-2025
 - Enabled LTE_CA Workaround
 - Reduced Screen Brightness
