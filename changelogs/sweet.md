@@ -1,3 +1,9 @@
+# 27-June-2025
+- Synced with latest v11.6.0 source
+- June 2025 security patch
+- VentomKSU kernel
+- dirty flash possible from 11.6.0
+
 # Changelog 25 May 2025:
 - KSU Build
 - Added Leica camera
