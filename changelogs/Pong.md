@@ -1,5 +1,4 @@
 # 29-June-2025
-- Sync axion 1.6
 - Update from NOS V3.0-250506-1805
 - Nothing Camera support
 - Optimize dalvik heap config for performance
