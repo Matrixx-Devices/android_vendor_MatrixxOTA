@@ -1,17 +1,17 @@
 {
   "response": [
-    {
-        "maintainer": "FrEeRuNnEr4EvEr",
-        "support_group":"https://t.me/FrEeRuNnEr4EvErHeLp",
-        "oem": "Samsung",
-        "device": "beyondx",
-        "device_name": "Samsung Galaxy S10 5G",
-        "filename": "Matrixx-v11.4.0-Official-beyondx-Vanilla-20250503-1808.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyondx/Matrixx-v11.4.0-Official-beyondx-Vanilla-20250503-1808.zip/download",
-        "timestamp": 1746310016,
-        "md5": "08ea70b5973ba8a4355d33ab24231497",
-        "size": 1422723405,
-        "version": "11.4.0"
+        {
+      "maintainer": "FrEeRuNnEr4EvEr",
+      "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
+      "oem": "Samsung",
+      "device": "beyondx",
+      "device_name": "Samsung Galaxy S10 5G",
+      "filename": "Matrixx-v11.6.0-Official-beyondx-Vanilla-202506242101.zip",
+      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyondx/Matrixx-v11.6.0-Official-beyondx-Vanilla-202506242101.zip/download",
+      "timestamp": 1750813704,
+      "md5": "d5a68da517c3ffa909bc7459d93bdac3",
+      "size": 1423570183,
+      "version": "11.6.0"
     }
   ]
 }

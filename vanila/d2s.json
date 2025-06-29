@@ -1,17 +1,17 @@
 {
   "response": [
-    {
-        "maintainer": "FrEeRuNnEr4EvEr",
-        "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
-        "oem": "Samsung",
-        "device": "d2s",
-        "device_name": "Samsung Galaxy Note 10+",
-        "filename": "Matrixx-v11.4.0-Official-d2s-Vanilla-20250503-2019.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/d2s/Matrixx-v11.4.0-Official-d2s-Vanilla-20250503-2019.zip/download",
-        "timestamp": 1746317862,
-        "md5": "75af97627924f8ce91d58971a3973a38",
-        "size": 1396119381,
-        "version": "11.4.0"
+        {
+      "maintainer": "FrEeRuNnEr4EvEr",
+      "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
+      "oem": "Samsung",
+      "device": "d2s",
+      "device_name": "Samsung Galaxy Note 10+",
+      "filename": "Matrixx-v11.6.0-Official-d2s-Vanilla-202506250400.zip",
+      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/d2s/Matrixx-v11.6.0-Official-d2s-Vanilla-202506250400.zip/download",
+      "timestamp": 1750838800,
+      "md5": "d678cf5873f8ca733f6571681822d55e",
+      "size": 1396226938,
+      "version": "11.6.0"
     }
   ]
 }
