@@ -1,17 +1,17 @@
 {
   "response": [
-    {
-        "maintainer": "FrEeRuNnEr4EvEr",
-        "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
-        "oem": "Samsung",
-        "device": "beyond2lte",
-        "device_name": "Samsung Galaxy S10+",
-        "filename": "Matrixx-v11.4.0-Official-beyond2lte-Vanilla-20250503-1742.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyond2lte/Matrixx-v11.4.0-Official-beyond2lte-Vanilla-20250503-1742.zip/download",
-        "timestamp": 1746308443,
-        "md5": "1c2ce3e707197228e9db511b808db5e7",
-        "size": 1410270828,
-        "version": "11.4.0"
+        {
+      "maintainer": "FrEeRuNnEr4EvEr",
+      "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
+      "oem": "Samsung",
+      "device": "beyond2lte",
+      "device_name": "Samsung Galaxy S10+",
+      "filename": "Matrixx-v11.6.0-Official-beyond2lte-Vanilla-202506231249.zip",
+      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyond2lte/Matrixx-v11.6.0-Official-beyond2lte-Vanilla-202506231249.zip/download",
+      "timestamp": 1750697699,
+      "md5": "829d2b7cd1c2a82cb81c77b84132c193",
+      "size": 1411053617,
+      "version": "11.6.0"
     }
   ]
 }
