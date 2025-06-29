@@ -1,3 +1,16 @@
+# Matrixx v-11.6.0-Hotfix Trigon Changelog 
+- Fix App crashing on 1st click 
+- Fix random reboots when restarting device for some users 
+- Allow Icon Packs to change battery overlay
+- Added overlay path for battery in sam and victor icon pack
+- Launcher: import popup view icon from nothingOS
+- Launcher: update recent overview color in dark mode
+- Explicitly disable storage management preference (broken and show empty space)
+- Properly configure wallpaper for vanilla and Gapps builds
+- QS Clocks: Update OOS clock style
+- PPUtils:fixup spoofing logic
+- Allow disabling hdr display boost & allow changing HDR brightness intensity
+
 # Matrixx v-11.6.0 Trigon Changelog
 - Fix Clock glimpse issue when unlocking device
 - Fix custom clock overlapping on theme switch from light/dark
