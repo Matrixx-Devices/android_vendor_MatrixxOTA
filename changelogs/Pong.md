@@ -1,3 +1,12 @@
+# 29-June-2025
+- Sync axion 1.6
+- Update from NOS V3.0-250506-1805
+- Nothing Camera support
+- Optimize dalvik heap config for performance
+- Update dolby libs
+- Set fixed size to 3GB instead of 40% of RAM
+- Improvements to performance and system stability
+
 # 22-May-2025
 - Switch back to prebuild audio blobs
 - Fix low mic sound
