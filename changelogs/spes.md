@@ -1,3 +1,10 @@
+# 30-June-2025
+- Revert "Enable zRAM Writeback".
+- Increased zRAM Size.
+- sepolicy: Address hal_graphics_composer_default denial. 
+- sepolicy: Label remaining Wakeup nodes.
+- kernel: Synced the Kernel's sources to the latest.
+
 # 26-June-2025
 - Fixed proximity sensor on not working.
 - Dropped GameBar to modernize XiaomiParts.
