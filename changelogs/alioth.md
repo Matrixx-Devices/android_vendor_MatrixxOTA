@@ -1,5 +1,7 @@
-# 29-Jun-2025
-    - Same as 20-June-2025 😑😑
+# 30-Jun-2025
+    - Switch back to Fake-Dreamer Kernel v-1.7.1
+    - Check Source Cl for more changes 
+    - Rest Same as 20-June-2025 😑😑
 
 # 20-Jun-2025
     - Drop Bypass charging 
