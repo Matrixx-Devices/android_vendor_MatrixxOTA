@@ -1,17 +1,18 @@
 {
   "response": [
     {
-        "maintainer": "Mohammad Kibria",
+        "maintainer": "kibria5",
         "support_group":"https://t.me/Garnet_Discussion",
         "oem": "Xiaomi",
         "device": "garnet",
         "device_name": "Redmi Note 13 Pro 5G/Poco X6 5G",
-        "filename": "Matrixx-v11.6.0-Official-garnet-Gapps-202506201335.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/garnet/Matrixx-v11.6.0-Official-garnet-Gapps-202506201335.zip/download",
-        "timestamp": 1750426473,
-        "md5": "c4f5ec2506ed8b3bb73c1b60cea03988",
-        "size": 2623964607,
+        "filename": "Matrixx-v11.6.0-Official-garnet-Gapps-202507010556.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/garnet/Matrixx-v11.6.0-Official-garnet-Gapps-202507010556.zip/download",
+        "timestamp": 1751349227,
+        "md5": "c704ce31d804093b122178700171b8fe",
+        "size": 2725498969,
         "version": "11.6.0"
     }
   ]
 }
+
