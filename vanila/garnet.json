@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "GameNCode",
-        "support_group":"https://t.me/+R-Gv5HevC71jYmRk",
+        "maintainer": "kibria5",
+        "support_group":"https://t.me/Garnet_Discussion",
         "oem": "Xiaomi",
         "device": "garnet",
-	"device_name": "Redmi Note 13 Pro 5G/Poco X6 5G",
+	      "device_name": "Redmi Note 13 Pro 5G/Poco X6 5G",
         "filename": "Matrixx-v11.2.5-Official-garnet-Vanilla-20250301-1546.zip",
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/garnet/Matrixx-v11.2.5-Official-garnet-Vanilla-20250301-1546.zip/download",
-        "timestamp": 1740836702,
-        "md5": "f3aac52b9ead16958a7f2bca0ac1393c",
-        "size": 1755859803,
-        "version": "11.2.5"
+        "timestamp": 1751352325,
+        "md5": "0336e39d6330dda56ff450603366b459",
+        "size": 1907705094,
+        "version": "11.6.0"
     }
   ]
 }
