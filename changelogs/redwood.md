@@ -1,3 +1,7 @@
+# 02-July-2025
+- Android June 2025 Security Update
+- Switched to Moto Dolby
+
 # 26-May-2025
 - Android May 2025 Security Update
 
