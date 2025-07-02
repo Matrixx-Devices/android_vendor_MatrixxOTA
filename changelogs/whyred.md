@@ -1,3 +1,24 @@
+# 03-July-2025
+- Synced with latest source
+- Switch to uclamp
+- task_profiles: rework for better performance
+- init: enable sched_walt_rotate_big_tasks
+- power: use more advanced cgroup/task profile
+- Rework on lmk props
+- kernel: Do not add -cip and st to LOCALVERSION
+- Kernel: Switch to uclamp
+- Kernel: Update fastcharge value upto 3500mah
+- Implement torch light control
+- Adapt LED nodes for whyred
+- Add support for bypass charging
+- sepolicy: Address bypass charging denials
+- prop: Add scrolling boost
+- Switch to half res bootanimation for faster boot
+- Switch to pixel power HAL
+- Enable HWUI adpf
+- Kernel: Force fast charge through init
+- Many more underhood changes
+
 # 29-June-2025
 - Synced with latest source
 
