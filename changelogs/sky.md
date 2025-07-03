@@ -1,3 +1,11 @@
+# 03-July-2025
+- Synced With Latest Source (Trigon-HotFix)
+- Update blobs from OS2.0.9.0.VMWEUXM
+- Lag Free QS (with Blur)
+- Set Game Refresh Rate override to 90FPS
+- Add Support for Dolby Spatial Audio
+- And Many More Optimizations
+
 # 20-June-2025
 - Synced With Latest Source
 - Added Blur Support
