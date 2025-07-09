@@ -1,3 +1,10 @@
+# 09-July-2025
+ overlay: Update brightness restrictions for VRR.
+- blobs: Update some blobs from LA.UM.9.15.2.r1-10600-KAMORTA.QSSI14.0
+- blobs: Update power profiles from TKQ1.221114.001-V816.0.11.0.TGKMIXM-release-keys
+- Reduced zRAM size to 60% (Previous was causing too much overhead).
+- kernel: Synced the kernel's sources to the latest.
+
 # 30-June-2025
 - Revert "Enable zRAM Writeback".
 - Increased zRAM Size.
