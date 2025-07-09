@@ -6,12 +6,12 @@
         "oem": "OnePlus",
         "device": "kebab",
         "device_name": "OnePlus 8T",
-        "filename": "Matrixx-v11.5.0-Official-kebab-Gapps-20250531-1901.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/kebab/Matrixx-v11.5.0-Official-kebab-Gapps-20250531-1901.zip/download",
-        "timestamp": 1748717830,
-        "md5": "c3b68fe60d1d4ba6e742bae393b6e921",
-        "size": 2386433498,
-        "version": "11.5.0"
+        "filename": "Matrixx-v11.6.0-Official-kebab-Gapps-202507082205.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/kebab/Matrixx-v11.6.0-Official-kebab-Gapps-202507082205.zip/download",
+        "timestamp": 1752026553,
+        "md5": "edb30cf9df23286a87453b08b9fe4577",
+        "size": 2397384920,
+        "version": "11.6.0"
     }
   ]
 }
