@@ -1,3 +1,6 @@
+# 09-July-2025
+- Fixed VOIP audio issue ( If a notification is received during your conversation, you will stop hearing the other person. )
+
 # 02-July-2025
 - Android June 2025 Security Update
 - Switched to Moto Dolby
