@@ -22,6 +22,6 @@
 1. Reboot to recovery.
 2. Go to `Apply update > Apply from ADB`.
 3. In the command prompt, sideload the ROM using the command: `adb sideload <rom_filename>.zip`.
-3.1 Reboot to recovery again and sideload Gapps or Magisk if you had them installed.
-4. Reboot to the system
+4. Reboot to recovery again and sideload Gapps or Magisk if you had them installed.
+5. Reboot to the system
 
