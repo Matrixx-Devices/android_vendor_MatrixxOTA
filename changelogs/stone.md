@@ -1,3 +1,10 @@
+# Changelog 14 July 2025:
+- Rebase on new  kami tree
+- Actually add Viper4Android
+- Switch to lineage libperfmgr
+- Sync with latest sources
+- Read source changes for bug fixes
+
 # Changelog 24 June 2025:
 - June Security Patch
 - Add Sony Dolby Atmos and Viper4Android
