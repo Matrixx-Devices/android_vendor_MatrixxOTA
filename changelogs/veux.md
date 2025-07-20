@@ -1,13 +1,18 @@
+# 20 July 2025
+- Synced with latest source changes.
+- Fixed all those weird audio bugs, like no ringtone can be heard while wearing headphones.
+- Miscellaneous Improvements.
+
 # 20 May 2025
-- Initial QPR 2 Build
-- Switched To AIDL bootctrl HAL
-- Fixed AOD Brightness At 55%
-- Fixed Display Flickering Problem While Toggling Night Light
+- Initial QPR 2 Build.
+- Switched To AIDL bootctrl HAL.
+- Fixed AOD Brightness At 55%.
+- Fixed Display Flickering Problem While Toggling Night Light.
 - Updated Adreno Blobs to 530.54
-- Fixed Most Network Instabilities
-- Switched To NCM USB Tethering
-- Re-added Charging Control
-- Updated Dolby Blobs
+- Fixed Most Network Instabilities.
+- Switched To NCM USB Tethering.
+- Re-added Charging Control.
+- Updated Dolby Blobs.
 
 # 20 February 2025
 - Synced with latest source changes.
@@ -17,4 +22,4 @@
 - Fixed Doze Brightnes.
 
 # 1 February 2025
-- Initial Matrixx A15 release
+- Initial Matrixx A15 release.
