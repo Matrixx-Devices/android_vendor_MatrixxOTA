@@ -1,3 +1,23 @@
+# Matrixx v-11.7.0-EOL(A15) Tangent Changelog 
+- Fix unsupported qs tile icon crash
+- Fix flickering issue in streaming video cases
+- Backport back button fix from 16 QPR1 Beta 2.1
+- Fix vpn disconnects during package state changes
+- Fix dark mode schedule 
+- Fix crash in YT playback and YT music playback
+- Add Power off verify option
+- Bring back QuickSwitch
+- Fixed ringtone setup for secondary SIM slot
+- Fixed colors issue on QS for battery styles
+- Fixed QS color for circle battery styles 
+- Do not skip search animation for app icons 
+- Align icons vertically when labels are hidden
+- Cancel ongoing animations before entering All Apps 
+- Prevent wrapping of icons from icon packs 
+- Quickspace: Various improvements
+- Bring Back Opacity Customization in Launcher for Appdrawer and recent
+- August Patch
+
 # Matrixx v-11.6.0-Hotfix Trigon Changelog 
 - Fix App crashing on 1st click 
 - Fix random reboots when restarting device for some users 
