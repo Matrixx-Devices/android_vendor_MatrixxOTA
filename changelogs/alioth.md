@@ -1,3 +1,7 @@
+# 24-Aug-2025
+    - Move WfdCommon boot jar declaration to vendor
+    - Enable USB and skin temperature warnings
+
 # 30-Jun-2025
     - Switch back to Fake-Dreamer Kernel v-1.7.1
     - Check Source Cl for more changes 
