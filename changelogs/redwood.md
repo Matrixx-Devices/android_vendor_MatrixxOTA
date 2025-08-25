@@ -1,3 +1,10 @@
+# 25-August-2025
+- Android August 2025 Security Update
+- Fixed facial verification issue in some banking apps ( eg. banco guayaqui).
+- Upstreamed lineage kernel to 5.4.292 
+- Uprev Kernelsu-Next to v1.0.9
+- Switched to QTI power hal
+
 # 09-July-2025
 - Fixed VOIP audio issue ( If a notification is received during your conversation, you will stop hearing the other person. )
 
