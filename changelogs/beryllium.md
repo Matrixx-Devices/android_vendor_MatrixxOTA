@@ -1,3 +1,12 @@
+# Changelog 25 August 2025
+- wifi: Enable 2.4GHz channel bonding
+- Enable frame pacing for smoother visual performance
+- Explicitly disable "Enable GL comp backpressure"
+- props: Disable Skia tracing by default
+- props: Disable vendor.audio.feature.kpi_optimize.enable
+- props: Use Vulkan for HWUI rendering
+- Device is not certified: use valid keybox and pif.json, apply it through Matrixx Settings
+
 # Changelog 25 June 2025
 - Added Bypass Charging
 - Dropped Miui Camera
