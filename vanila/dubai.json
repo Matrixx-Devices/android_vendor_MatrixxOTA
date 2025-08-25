@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "NotDheeraj06",
+        "support_group":"https://t.me/NotDheeraj06_Builds",
+        "oem": "motorola",
+        "device": "dubai",
+        "device_name": "Motorola Edge 30",
+        "filename": "Matrixx-v11.7.0-Official-dubai-Vanilla-202508251006.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/dubai/Matrixx-v11.7.0-Official-dubai-Vanilla-202508251006.zip/download",
+        "timestamp": 1756116270,
+        "md5": "e2582a34341bb053c8927d5fa9cc0df9",
+        "size": 1540721410,
+        "version": "11.7.0"
+    }
+  ]
+}
