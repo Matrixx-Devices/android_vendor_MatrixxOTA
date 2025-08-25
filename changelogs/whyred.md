@@ -1,3 +1,7 @@
+# 26-Aug-2025
+- Synced with latest source
+- Eol a15 release
+
 # 03-July-2025
 - Synced with latest source
 - Switch to uclamp
