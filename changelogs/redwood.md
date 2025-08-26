@@ -1,3 +1,6 @@
+# 26-August-2025
+- Fixed missing Gesture Navigation options in settings
+
 # 25-August-2025
 - Android August 2025 Security Update
 - Fixed facial verification issue in some banking apps ( eg. banco guayaqui).
