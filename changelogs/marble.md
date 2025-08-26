@@ -1,3 +1,9 @@
+# 25-August-2025
+- update blobs and camera from OS2.0.203.0.VMRMIXM
+- removed dolby vision
+- more underthehood changes
+- use 10_aug ksu file
+
 # 27-June-2025
 - use 29_May ksunext file from install documents
 - dirty flashable from 11.3.0 newer updates
