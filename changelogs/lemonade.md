@@ -1,3 +1,8 @@
+# 26-August-2025
+- Kernel upstream with LineageOS
+- Updated KernelSU Next  to v1.0.9
+- Fixed Power share tiles causing crash
+
 # 24-June-2025
 - Updated to KSU next v1.0.8
 - Removed OOS camera
