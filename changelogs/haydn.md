@@ -1,3 +1,20 @@
+# 26-August-2025
+- synced with latest source changes
+- Fixed haptics
+- Fixed up some sepolicy denials
+- Apply dex2oat optimizations
+- Nuke Spatial Audio from BT SCO
+- Enabled ac4 dolby codecs
+- switched to OSS modified volumes
+- Fixed camera issues with cn users
+- Block proximity sensor for telegram apps
+- Update blobs from haydn V816.0.13.0.UKKCNXM
+- Fixed the issue of transferring files through recovery
+- Use QCOM implementation for audio effects
+- Remove duplicate sepolicy labels
+- Upstream kernel to linux 5.4.296
+- Update KSU-Next to v1.0.9
+
 # 23-June-2025
 - disable gl backpressure
 - disable adsprpcd
