@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "whyred_404",
+        "support_group":"https://t.me/project_bd_support",
+        "oem": "OnePlus",
+        "device": "giulia",
+        "device_name": "OnePlus 13R/Ace 5",
+        "filename": "Matrixx-v11.7.0-Official-giulia-Gapps-202508271816.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/giulia/Matrixx-v11.7.0-Official-giulia-Gapps-202508271816.zip/download",
+        "timestamp": 1756382876,
+        "md5": "b263b604818232beb6a3000be40d8d55",
+        "size": 3865870566,
+        "version": "11.7.0"
+    }
+  ]
+}
