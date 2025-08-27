@@ -1,3 +1,19 @@
+# Changelog 26 August 2025
+- August Security Patch
+- Update blobs from OS2.0.4.0.UMQEUXM
+- Enable UFFD GC
+- Add Datura Firewall
+- Properly define CPU architecture
+- Increase vibration duration from 20ms to 25ms
+- Drop QCOM WFD and switch to AOSP WFD to fix wifi display (cast)
+- Replace writepid with task_profiles command for cgroup migration
+- Define missing hals in compatibility manifest
+- Remove libqti-perfd-client.so from public.libraries.txt
+- Kernel: Enable CONFIG_WIREGUARD
+- Kernel: Enable CONFIG_USERFAULTFD
+- Kernel: Move 'struct sched_param' out of uapi, to work around glibc/musl breakage
+- Sync with latest sources
+
 # Changelog 14 July 2025:
 - Rebase on new  kami tree
 - Actually add Viper4Android
