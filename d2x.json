@@ -1,17 +1,17 @@
 {
   "response": [
-        {
-      "maintainer": "FrEeRuNnEr4EvEr",
-      "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
-      "oem": "Samsung",
-      "device": "d2x",
-      "device_name": "Samsung Galaxy Note 10+ 5G",
-      "filename": "Matrixx-v11.6.0-Official-d2x-Gapps-202506222219.zip",
-      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/d2x/Matrixx-v11.6.0-Official-d2x-Gapps-202506222219.zip/download",
-      "timestamp": 1750645820,
-      "md5": "d3fb90923560615b5ea423bd873d4ceb",
-      "size": 2425823299,
-      "version": "11.6.0"
+    {
+        "maintainer": "FrEeRuNnEr4EvEr",
+        "support_group":"https://t.me/FrEeRuNnEr4EvErHeLp",
+        "oem": "Samsung",
+        "device": "d2x",
+        "device_name": "Samsung Galaxy Note 10+ 5G",
+        "filename": "Matrixx-v11.7.0-Official-d2x-Gapps-202508281753.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/d2x/Matrixx-v11.7.0-Official-d2x-Gapps-202508281753.zip/download",
+        "timestamp": 1756417900,
+        "md5": "14141eee6c24bc3b9450ec0f1f0dbc84",
+        "size": 2340243710,
+        "version": "11.7.0"
     }
   ]
 }
