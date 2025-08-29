@@ -1,3 +1,7 @@
+# 29-August-2025
+- Update to v11.7.0
+- Improvements to performance and system stability
+
 # 29-June-2025
 - Update from NOS V3.0-250506-1805
 - Nothing Camera support

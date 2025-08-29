@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": ["Drishal", "Ghosuto7"],
+        "maintainer": ["Drishal", "GhostRX89"],
         "support_group":"https://t.me/DrishalDiscussion",
         "oem": "nothing",
         "device": "Pong",
         "device_name": "Nothing Phone (2)",
-        "filename": "Matrixx-v11.6.0-Official-Pong-Gapps-202506291441.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/Pong/Matrixx-v11.6.0-Official-Pong-Gapps-202506291441.zip/download",
-        "timestamp": 1751208075,
-        "md5": "c1039d998e5a1cade99f50398dbf9f63",
-        "size": 2726204325,
-        "version": "11.6.0"
+        "filename": "Matrixx-v11.7.0-Official-Pong-Gapps-202508290408.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/Pong/Matrixx-v11.7.0-Official-Pong-Gapps-202508290408.zip/download",
+        "timestamp": 1756440451,
+        "md5": "bed6175697b501f1882aa54f9456b9de",
+        "size": 2752031723,
+        "version": "11.7.0"
     }
   ]
 }
