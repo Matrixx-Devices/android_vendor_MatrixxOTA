@@ -1,0 +1,18 @@
+{
+  "response": [
+    {
+        "maintainer": "tillua467",
+        "support_group":"https://t.me/tillua467build",
+        "oem": "Xiaomi",
+        "device": "phoenix/phoenixin",
+        "device_name": "POCO X2/REDMI K30",
+        "filename": "Matrixx-v11.7.0-Official-phoenix-Vanilla-202508271255.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/phoenix/Matrixx-v11.7.0-Official-phoenix-Vanilla-202508271255.zip/download",
+        "timestamp": 1756298947,
+        "md5": "a95e0da62c53839a44f01a45fcbdea8e",
+        "size": 1660501999,
+        "version": "11.7.0"
+    }
+  ]
+}
+
