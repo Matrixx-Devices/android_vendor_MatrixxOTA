@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "Jyotishman Baruah (BULLA)",
+        "support_group":"https://t.me/Genhodee",
+        "oem": "Xiaomi",
+        "device": "raphael",
+        "device_name": "Redmi K20 Pro",
+        "filename": "Matrixx-v11.7.0-Official-raphael-Vanilla-202508311510.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/raphael/Matrixx-v11.7.0-Official-raphael-Vanilla-202508311510.zip/download",
+        "timestamp": 1756632969,
+        "md5": "2c7a85f790e800ca56f3b79d2e6d1b88",
+        "size": 1878524856,
+        "version": "11.7.0"
+    }
+  ]
+}
