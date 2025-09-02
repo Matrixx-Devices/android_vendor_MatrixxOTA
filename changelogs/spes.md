@@ -1,5 +1,9 @@
+# 02-August-2025
+- Don't restrict CPU idle levels
+- Make SurfaceFlinger latch all buffers unsignaled
+
 # 09-July-2025
- overlay: Update brightness restrictions for VRR.
+- overlay: Update brightness restrictions for VRR.
 - blobs: Update some blobs from LA.UM.9.15.2.r1-10600-KAMORTA.QSSI14.0
 - blobs: Update power profiles from TKQ1.221114.001-V816.0.11.0.TGKMIXM-release-keys
 - Reduced zRAM size to 60% (Previous was causing too much overhead).
