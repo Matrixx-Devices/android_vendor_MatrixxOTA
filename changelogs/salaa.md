@@ -1,3 +1,20 @@
+# 02-09-2025
+- EOL release for a15
+- Synced with latest v11.7.0 source
+- August 2025 security patch
+- Drop BesLoudness
+- Drop mtk pkm service
+- Drop atcid stack
+- Shut hwcomposer spam
+- Silence HWUI logspam
+- Enable support for background blur
+- Disable FRP by default
+- Update light HAL
+- Silence gralloc4 logspam
+- Silence MDP logspam
+- Compiled with  Stormbreaker v4.14.336 kernel
+- Misc. Fixes and Improvements
+
 # 26-06-2025
 - Likely to be EOL release for a15
 - Synced with latest v11.6.0 source
