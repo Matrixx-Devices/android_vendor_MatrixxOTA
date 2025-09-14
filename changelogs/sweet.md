@@ -1,3 +1,12 @@
+# Changelog 14 sep 2025:
+- Synced with latest v11.7.0 source
+- Ventom kernel (non ksu)
+- dirty flash possible from 11.6.0
+- added viper4a
+- leica camera
+- xiaomi dolby
+- Android 15
+
 # 27-June-2025
 - Synced with latest v11.6.0 source
 - June 2025 security patch
