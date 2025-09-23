@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "veux",
         "device_name": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
-        "filename": "Matrixx-v11.6.0-Official-veux-Gapps-202507091559.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/veux/Matrixx-v11.6.0-Official-veux-Gapps-202507091559.zip/download",
+        "filename": "Matrixx-v11.8.0-Official-veux-Gapps-202509201411.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/veux/Matrixx-v11.8.0-Official-veux-Gapps-202509201411.zip/download",
         "timestamp": 1747662600,
-        "md5": "6c5313f83459ee5a449c20b5da37bb05",
-        "size": 2249508277,
-        "version": "11.6.0"
+        "md5": "a522a7aeea32962240ea74c6b855b728",
+        "size": 2249508299,
+        "version": "11.8.0"
     }
   ]
 }

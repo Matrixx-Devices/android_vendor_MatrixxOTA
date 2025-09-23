@@ -1,3 +1,6 @@
+# 23 September 2025
+- Synced with latest source changes.
+
 # 20 July 2025
 - Synced with latest source changes.
 - Fixed all those weird audio bugs, like no ringtone can be heard while wearing headphones.
