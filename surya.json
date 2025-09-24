@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "shoya0x00",
+        "support_group":"https://t.me/BrainCellSG",
+        "oem": "Xiaomi",
+        "device": "surya",
+        "device_name": "POCO X3/NFC",
+        "filename": "Matrixx-v11.8.0-Official-surya-Gapps-202509240828.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/surya/Matrixx-v11.8.0-Official-surya-Gapps-202509240828.zip/download",
+        "timestamp": 1758702417,
+        "md5": "e8ecc1c3cca9f32b02c9b4255f0c74c1",
+        "size": 2850466746,
+        "version": "11.8.0"
+    }
+  ]
+}
