@@ -1,5 +1,14 @@
+# 23-09-2025
+- Synced with latest v11.8.0 source
+- September 2025 security patch
+- Set screen density to 420
+- Kernel built with full LLVM 
+- Fixed "Charging Rapidly" info on lockscreen 
+- STRONG integrity passes by default
+- Compiled with  Stormbreaker v4.14.336 kernel
+- Misc. Fixes and Improvements 
+
 # 02-09-2025
-- EOL release for a15
 - Synced with latest v11.7.0 source
 - August 2025 security patch
 - Drop BesLoudness
@@ -16,7 +25,6 @@
 - Misc. Fixes and Improvements
 
 # 26-06-2025
-- Likely to be EOL release for a15
 - Synced with latest v11.6.0 source
 - June 2025 security patch
 - Compiled with  Stormbreaker v4.14.336 kernel
