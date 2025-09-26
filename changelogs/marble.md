@@ -1,3 +1,15 @@
+# 26-September-2025
+- update blobs and camera from OS2.0.205.0.VMRMIXM
+- added dolby vison again
+- Build IFAAService from source
+- sepolicy: Allow platform app to find SoterService
+- sepolicy: Allow apps to read Mlipay and IFAA props
+- Replace isolated_app with isolated_app_all
+- Allow system_app to access Mlipay service
+- integrated hbm in brightness bar
+- more underthehood changes for better smoothness and performance
+- use 26_september ksu file
+
 # 25-August-2025
 - update blobs and camera from OS2.0.203.0.VMRMIXM
 - removed dolby vision
