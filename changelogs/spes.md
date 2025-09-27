@@ -1,3 +1,7 @@
+# 27-August-2025
+- Updated Kernel & ROM sources to the latest
+- Dropped some useless HALs 
+
 # 02-August-2025
 - Don't restrict CPU idle levels
 - Make SurfaceFlinger latch all buffers unsignaled
