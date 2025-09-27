@@ -1,3 +1,8 @@
+# 27-Sep-2025
+    - Rework on Dolby with c2 codec
+    - Update kernel to latest FakeDreamer kernel 
+    - Some Misc improvement
+
 # 24-Aug-2025
     - Move WfdCommon boot jar declaration to vendor
     - Enable USB and skin temperature warnings
