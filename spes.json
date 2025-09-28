@@ -6,12 +6,12 @@
           "oem": "Xiaomi",
           "device": "spes",
           "device_name": "Redmi Note 11/NFC",
-          "filename": "Matrixx-v11.7.0-Official-spes-Gapps-202508260546.zip",
-          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/spes/Matrixx-v11.7.0-Official-spes-Gapps-202508260546.zip/download",
-          "timestamp": 1756809041,
-          "md5": "ECD075A72FB8233EA9394FD9B28A6682",
-          "size": 2399826080,
-          "version": "11.7.0"
+          "filename": "Matrixx-v11.8.0-Official-spes-Gapps-202509271050.zip",
+          "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/spes/Matrixx-v11.8.0-Official-spes-Gapps-202509271050.zip/download",
+          "timestamp": 1759066780,
+          "md5": "2FDE2EF4E014368E6BC289E738853928",
+          "size": 1759066780,
+          "version": "11.8.0"
       }
     ]
   }
