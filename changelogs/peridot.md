@@ -1,3 +1,8 @@
+# 29-September-2025
+- Initial Official Build by kibria
+- OSS Build
+- MiuiCamera Included
+
 # 19-May-2025
 - Update blobs to OS2.0.103.0.VNPMIXM
 - Fix Screen-Off UDFPS

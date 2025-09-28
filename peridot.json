@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": ["realdrenzzz"],
-        "support_group":"https://t.me/drenzzzdiscuzz",
+        "maintainer": "[kibria5]",
+        "support_group":"https://t.me/kibria5",
         "oem": "Xiaomi",
         "device": "peridot",
         "device_name": "POCO F6/Redmi Turbo 3",
-        "filename": "Matrixx-v11.5.0-Official-peridot-Gapps-20250519-0738.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/peridot/Matrixx-v11.5.0-Official-peridot-Gapps-20250519-0738.zip/download",
-        "timestamp": 1747640222,
-        "md5": "b90a696cd85d897b175ee528e86b5f14",
-        "size": 3518986567,
-        "version": "11.5.0"
+        "filename": "Matrixx-v11.8.0-Official-peridot-Gapps-202509282017.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/peridot/Matrixx-v11.8.0-Official-peridot-Gapps-202509282017.zip/download",
+        "timestamp": 1759083415,
+        "md5": "1d21346817dcbed654d91f1a9ceea151",
+        "size": 3410473891,
+        "version": "11.8.0"
     }
   ]
 }
