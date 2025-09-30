@@ -1,3 +1,16 @@
+# Changelog 30 September 2025
+- Remove Viper4AndroidFX Support
+- Add Dolby Support
+- Revert "props: Use Vulkan for HWUI rendering"
+- Adjust Padding
+- Switch to AOSP WFD
+- Switch to AIDL LiveDisplay
+- Drop force double frame buffers
+- Don't pin deprecated RenderScript libs
+- Improve kernel performance a little
+- Misc Improvements
+- Device is certified by default
+
 # Changelog 25 August 2025
 - wifi: Enable 2.4GHz channel bonding
 - Enable frame pacing for smoother visual performance
