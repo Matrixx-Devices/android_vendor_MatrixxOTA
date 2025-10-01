@@ -1,17 +1,17 @@
 {
   "response": [
-        {
-      "maintainer": "FrEeRuNnEr4EvEr",
-      "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
-      "oem": "Samsung",
-      "device": "f62",
-      "device_name": "Samsung Galaxy F62",
-      "filename": "Matrixx-v11.6.0-Official-f62-Vanilla-202506251616.zip",
-      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/f62/Matrixx-v11.6.0-Official-f62-Vanilla-202506251616.zip/download",
-      "timestamp": 1750882984,
-      "md5": "fcaf02fe10013f16734c8e42ca5af6ac",
-      "size": 1418392133,
-      "version": "11.6.0"
+    {
+        "maintainer": "FrEeRuNnEr4EvEr",
+        "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
+        "oem": "Samsung",
+        "device": "f62",
+        "device_name": "Samsung Galaxy F62",
+        "filename": "Matrixx-v11.8.0-Official-f62-Vanilla-202509281227.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/f62/Matrixx-v11.8.0-Official-f62-Vanilla-202509281227.zip/download",
+        "timestamp": 1759076744,
+        "md5": "0b090ae4ba39f275dc3e5f27f3822cb5",
+        "size": 1442370799,
+        "version": "11.8.0"
     }
   ]
 }

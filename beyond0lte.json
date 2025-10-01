@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "FrEeRuNnEr4EvEr",
-        "support_group":"https://t.me/FrEeRuNnEr4EvErHeLp",
-        "oem": "Samsung",
+        "support_group": "https://t.me/FrEeRuNnEr4EvErHeLp",
+        "oem": "samsung",
         "device": "beyond0lte",
-        "device_name": "Samsung Galaxy S10e",
-        "filename": "Matrixx-v11.7.0-Official-beyond0lte-Gapps-202508261844.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyond0lte/Matrixx-v11.7.0-Official-beyond0lte-Gapps-202508261844.zip/download",
-        "timestamp": 1756248215,
-        "md5": "5e9ff89c21d91e45ff9018fc65573c34",
-        "size": 2310396580,
-        "version": "11.7.0"
+        "device_name": "",
+        "filename": "Matrixx-v11.8.0-Official-beyond0lte-Gapps-202509281502.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyond0lte/Matrixx-v11.8.0-Official-beyond0lte-Gapps-202509281502.zip/download",
+        "timestamp": 1759086055,
+        "md5": "f4ebc44b487210d96d5cc252a7b4b61f",
+        "size": 2322934728,
+        "version": "11.8.0"
     }
   ]
 }
