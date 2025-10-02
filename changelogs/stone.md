@@ -1,3 +1,16 @@
+# Changelog 2 October 2025
+- September Security Patch
+- Switch to Global Blobs and update from OS2.0.4.0.UMQMIXM
+- Fix SMS not getting sent in some cases unless you reboot
+- Bring back Dirac from old tree (thanks kami for original implementation)
+- Reduce boost duration to 1.5s
+- Revert back to in tree task profiles
+- Extend task profiles to add dex2oat and input latency optimizations
+- Update Dolby to latest version and also fix rare dolby crash
+- Update DFM on IChargingControl and IFastCharge
+- Cleanup postboot script
+- Sync with latest sources
+
 # Changelog 26 August 2025
 - August Security Patch
 - Update blobs from OS2.0.4.0.UMQEUXM
