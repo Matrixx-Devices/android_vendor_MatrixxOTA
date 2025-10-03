@@ -1,3 +1,9 @@
+# 03-October-2025
+- Android September 2025 Security Update
+- Switched to Xiaomi Dolby
+- Switched to Scarlet kernel v3.0
+- Update blobs to OS2.0.10.0.UMSMIXM
+
 # 26-August-2025
 - Fixed missing Gesture Navigation options in settings
 
