@@ -1,3 +1,7 @@
+# 04-Oct-2025
+- Fixed WPA3 and 5Ghz band for WiFi hotspot
+- Merged latest KernelSU-Next commit
+
 # 28-Aug-2025
 - Build Pixel Launcher for Gapps build
 - Updated susfs to v1.5.9
