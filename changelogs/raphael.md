@@ -1,3 +1,9 @@
+# 7-October-2025
+- Added latest soviet-star kernel.
+- Added ViPER4AndroidFX.
+- Updated FCM support for IChargingControl and IFastCharge. 
+- Improved charging control stability. 
+
 # 1-August-2025
 - Revert NCM usb tethering.
 - Switch to common light hal.
