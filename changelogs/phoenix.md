@@ -1,3 +1,7 @@
+# 14-October-2025
+- Kernel: Revert "Enable Power CONFIG_BATT_VERIFY_BY_DS28E16 CONFIG_SMB1390_CHARGE_PUMP_PSY CONFIG_SMB1355_SLAVE_CHARGER CONFIG_QPNP_SMB5 And CONFIG_ONEWIRE_GPIO For faster Charging Speed"
+- Source: Synced with latest source
+
 # 27-August-2025
 - Kernel: Move 'struct sched_param' out of uapi, to work around glibc/musl breakage
 - Kernel: Enable Power CONFIG_BATT_VERIFY_BY_DS28E16 CONFIG_SMB1390_CHARGE_PUMP_PSY CONFIG_SMB1355_SLAVE_CHARGER CONFIG_QPNP_SMB5 And CONFIG_ONEWIRE_GPIO For faster Charging Speed
