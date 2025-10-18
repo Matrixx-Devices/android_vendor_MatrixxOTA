@@ -1,3 +1,9 @@
+# Matrixx v-11.9.0 (A15) Zeta Changelog 
+- October patch merged 
+- Fixed Freeform all app page opening in fullscreen
+- Fix memory leaks
+- Fix fingerprint crash in private space
+
 # Matrixx v-11.8.0 (A15) DELTΔ Changelog 
 - Sep patch merged 
 - Reduce the size of keyguard affordance 
