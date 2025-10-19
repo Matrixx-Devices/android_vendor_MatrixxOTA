@@ -6,12 +6,12 @@
       "oem": "Xiaomi",
       "device": "monet",
       "device_name": "Mi 10 Lite 5G",
-      "filename": "Matrixx-v11.8.0-Official-monet-Vanilla-202510042032.zip",
-      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/monet/Matrixx-v11.8.0-Official-monet-Vanilla-202510042032.zip/download",
-      "timestamp": 1759581079,
-      "md5": "a2b2673ba3a2dfd25cf54adad17ea1d4",
-      "size": 1764048830,
-      "version": "11.8.0"
+      "filename": "Matrixx-v11.9.0-Official-monet-Vanilla-202510192106.zip",
+      "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/monet/Matrixx-v11.9.0-Official-monet-Vanilla-202510192106.zip/download",
+      "timestamp": 1760879067,
+      "md5": "c376bbdd53e71cc4c21ebfd8504a6124",
+      "size": 1764899965,
+      "version": "11.9.0"
     }
   ]
 }

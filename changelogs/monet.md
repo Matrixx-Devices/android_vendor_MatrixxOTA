@@ -1,3 +1,7 @@
+# 19-Oct-2025
+- Updated susfs to v1.5.11
+- Merged latest KernelSU-Next commit
+
 # 04-Oct-2025
 - Fixed WPA3 and 5Ghz band for WiFi hotspot
 - Merged latest KernelSU-Next commit
