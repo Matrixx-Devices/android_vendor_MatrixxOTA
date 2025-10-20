@@ -1,3 +1,7 @@
+# 20-oct-2025
+    - Some Misc improvement
+    - rest is same as 27-Sep-2025 (11.8.0 CL)
+
 # 27-Sep-2025
     - Rework on Dolby with c2 codec
     - Update kernel to latest FakeDreamer kernel 
