@@ -1,3 +1,11 @@
+# Changelog 22 Oct 2025:
+- Synced with latest v11.9.0 source
+- Ventom kernel (non ksu)
+- added viper4a
+- MIUI camera
+- xiaomi dolby
+- Android 15
+
 # Changelog 14 sep 2025:
 - Synced with latest v11.7.0 source
 - Ventom kernel (non ksu)
