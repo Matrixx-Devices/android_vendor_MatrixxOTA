@@ -1,3 +1,10 @@
+# 23-October-2025
+- Synced with latest source
+- Some changes related to kernel-governor.
+- Implemented latest soviet changes.
+- some minor changes.
+- Updated bcr version from 1.7.6 to 1.8.0.
+
 # 7-October-2025
 - Added latest soviet-star kernel.
 - Added ViPER4AndroidFX.
