@@ -1,3 +1,12 @@
+# 26-October-2025
+- Drop c2 input surface
+- Don't force CCodec
+- Define charging control path for Lineage Health HAL
+- label palm_sensor node
+- Updated the kernel sources to the latest
+- Fixed the lagging of Camera and Screen Recording
+- Charging Control is fully working.
+
 # 28-September-2025
 - Updated Kernel & ROM sources to the latest
 - Dropped some useless HALs 
