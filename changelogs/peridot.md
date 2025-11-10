@@ -1,3 +1,15 @@
+# 20-November-2025
+- Add KSUN v1.1.1 and SUSFS 1.5.12 support
+- Set restricted cpuset to the same CPUs as system-background
+- Use HintManager for HWUI
+- Add HWUI properties from SLD_sprout
+- Implement LiveDisplay HAL
+- Update from OS2.0.205.0.VNPMIXM
+- Optimize dalvik heap config for performance
+- Fix battery drain issue
+- Optimize system stability
+- Misc Changes and improvement
+
 # 29-September-2025
 - Initial Official Build by kibria
 - OSS Build
