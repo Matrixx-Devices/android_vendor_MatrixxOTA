@@ -1,4 +1,10 @@
-# 20-November-2025
+# 10-November-2025 (Hot-Fix)
+- Improve rendering stability
+- Improves idle drain
+- Improve UI smoothness
+- Misc Changes and improvement
+
+# 10-November-2025
 - Add KSUN v1.1.1 and SUSFS 1.5.12 support
 - Set restricted cpuset to the same CPUs as system-background
 - Use HintManager for HWUI
