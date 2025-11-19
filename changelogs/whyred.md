@@ -1,3 +1,21 @@
+# 19-Nov-2025
+- Synced with latest changes
+- Switch to AVC 3.1 for screen recording
+- Allow all filesystems for USB-OTG
+- sepolicy: Allow system apps to access zram nodes
+- Add fake encryption by default
+- Enable QTI Memory Optimization
+- configs: Enable slow-cpu media_codecs
+- media: Import configs and props from LA.UM.10.2.1.r1-03400-sdm660.0
+- update CLO media profiles and codecs
+- configs: update media config from Hon660
+- media: Adapt S62Pro changes
+- configs: Update media codecs from V12.0.2.0.PEIMIXM release-keys
+- audio: Fix mic issues in apps like WhatsApp
+- Update wifi overlay from Qcom
+- wifi: smarter decisions on whether to use a 2- or 5Ghz AP
+- Many more underhood changes
+
 # 19-Oct-2025
 - Synced with latest changes
 
