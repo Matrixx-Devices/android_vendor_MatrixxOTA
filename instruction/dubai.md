@@ -1,8 +1,8 @@
 **Before start flashing.....**
 - Backup all your internal storage
-- GApps are included, so you don't need to flash them
+- GApps are included for GAPPS build, so you don't need to flash them
 - Download latest boot.img, vendor_boot.img, dtbo.img from here
-- Links-: [**Extras**](https://sourceforge.net/projects/projectmatrixx/files/Android-15/dubai/Extras/)
+- Links-: [**Extras**](https://sourceforge.net/projects/projectmatrixx/files/Android-16/dubai/Extras/)
 
 **Clean flash**
 1. Reboot to fastboot
