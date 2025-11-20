@@ -148,7 +148,7 @@ def send_post(chat_id, image, caption, button):
 # Prepare message format for channel
 def message_content(information):
     msg = ""
-    msg += f"<b>Project Matrixx OFFICIAL - A15</b> <b>(</b><code>{information['matrixx_version']}</code><b>)</b>\n\n"
+    msg += f"<b>Project Matrixx OFFICIAL - A16</b> <b>(</b><code>{information['matrixx_version']}</code><b>)</b>\n\n"
     msg += f"<b>Device:</b> <code>{information['device_name']} ({information['codename']})</code>\n"
     if isinstance(information['maintainer'], List):
         msg += f"<b>Maintainers:</b> "
@@ -160,7 +160,7 @@ def message_content(information):
     msg += f"<b>Build Type:</b> <code>{information['build_type']}</code>\n\n"
     msg += f"<b>Changelogs:</b> <a href='https://www.projectmatrixx.org/changelog'>Source</a> <b>|</b> <a href='https://www.projectmatrixx.org/downloads/{information['''codename''']}'>Device</a>\n"
     msg += f"<b>Screenshots:</b> <a href='https://www.projectmatrixx.org/gallery'>Here</a>\n"
-    msg += f"\n#{information['codename']} #Matrixx #Android15"
+    msg += f"\n#{information['codename']} #Matrixx #Android16"
     return msg
 
 # Prepare buttons for message
@@ -204,3 +204,4 @@ def tg_message():
 tg_message()
 print("Successful")
 sleep(2)
+
