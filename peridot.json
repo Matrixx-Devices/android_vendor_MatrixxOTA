@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "peridot",
         "device_name": "POCO F6/Redmi Turbo 3",
-        "filename": "Matrixx-v11.9.0-Official-peridot-Gapps-202511101926.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/peridot/Matrixx-v11.9.0-Official-peridot-Gapps-202511101926.zip/download",
-        "timestamp": 1762802648,
-        "md5": "4b52a2a5beaa64482399b692d284dbac",
-        "size": 3408761039,
-        "version": "11.9.0"
+        "filename": "Matrixx-v12.1.0-Official-peridot-Gapps-202511210701.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/peridot/Matrixx-v12.1.0-Official-peridot-Gapps-202511210701.zip/download",
+        "timestamp": 1763708410,
+        "md5": "a7f29e05d8fa72b1f07360ba8ff5dde9",
+        "size": 3497343648,
+        "version": "12.1.0"
     }
   ]
 }
