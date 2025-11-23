@@ -1,4 +1,8 @@
-# 19-Oct-2025
-- Initial official release
+# 23-Nov-2025
+- Initial A16 release
 - Synced with latest source
-- Added latest KSU-Next and susfs
+- Updated firmware version to CPH2381_14.0.0.2400(EX01)
+- Enabled battery cycle count
+- Enable VoNR calls support
+- Added support for offline charging
+

@@ -6,12 +6,13 @@
         "oem": "OnePlus",
         "device": "oscaro",
         "device_name": "OnePlus Nord CE2 lite 5G",
-        "filename": "Matrixx-v11.9.0-Official-oscaro-Vanilla-202510191240.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/oscaro/Matrixx-v11.9.0-Official-oscaro-Vanilla-202510191240.zip/download",
-        "timestamp": 1760877242,
-        "md5": "0dd96942748c8c8188e932c80215fb44",
-        "size": 1917370450,
-        "version": "11.9.0"
+        "filename": "Matrixx-v12.1.0-Official-oscaro-Vanilla-202511230737.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/oscaro/vanilla/Matrixx-v12.1.0-Official-oscaro-Vanilla-202511230737.zip/download",
+        "timestamp": 1763883305,
+        "md5": "8fd405546412b1f9af5f24842a91a7cc",
+        "size": 1940938520,
+        "version": "12.1.0"
     }
   ]
 }
+
