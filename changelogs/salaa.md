@@ -1,3 +1,10 @@
+# 23-11-2025
+- Synced with latest v12.1.0 source
+- November 2025 security patch
+- Initial Android 16 build
+- Compiled with  Stormbreaker v4.14.336 kernel
+- Misc. Fixes and Improvements
+
 # 23-09-2025
 - Synced with latest v11.8.0 source
 - September 2025 security patch
