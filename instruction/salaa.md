@@ -9,11 +9,11 @@
 > * You are not to blame Project Matrixx or its respected developers for any of your loss.
 >
 > **Basic Notes for all users:**
-> * The provided instructions are for Project Matrixx based on Android 15.
+> * The provided instructions are for Project Matrixx based on Android 16.
 > * These will only work if you follow every section and step precisely
 > * Do not continue after something fails! Contact in support group for help
 > * The device must have an unlocked bootloader & has Platform Tools installed in pc.
-> * If you are moving from any other Android version to Android 15, it is necessary to do CLEAN FLASH (Format Data)
+> * If you are moving from any other Android version to Android 16, it is necessary to do CLEAN FLASH (Format Data)
 > * Take a backup for safe side (If you are coming from older Android version or doing a clean flash)
 > * For any queries or help related to Matrixx, join our support group : [Tap Here](https://t.me/matrixx_community)
 > *
@@ -23,7 +23,7 @@
    - **Platform Tools Link (Windows)**: [platform-tools-latest-windows.zip](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
 2. Download the Recovery from the link below:
-   - **Recovery Link [ For Android 15 ]:** [Recovery](https://t.me/FilesArchieve/262).
+   - **Recovery Link [ For Android 16 ]:** [Recovery](https://sourceforge.net/projects/evilanshbuild/files/recovery/salaa/OrangeFox-R11.3_A12.1-APOCALYPSE-20250803-salaa.zip/download).
 
 3. Download the Project Matrixx ROM for Realme 7/Narzo 20 Pro/Narzo 30 4G - salaa from a reliable source.
    - **Project Matrixx ROM Link**: [DOWNLOAD](https://www.projectmatrixx.org/downloads/salaa)
@@ -124,7 +124,7 @@ Your device will reboot with Recovery installed.
 ***
 - Download the latest build
 - Take a backup for safe side
-- Boot to Recovery - use A15 recovery - LINK PROVIDED IN STEP 1
+- Boot to Recovery - use A16 recovery - LINK PROVIDED IN STEP 1
 - Format Data
 - Flash the latest build
 - Clear Dalvik & Cache
@@ -134,12 +134,12 @@ Your device will reboot with Recovery installed.
 ** Dirty Flash
 ***
 1. Download the Latest Build
-2. Boot to A15 recovery (eg. Ofox)
+2. Boot to A16 recovery (eg. Ofox)
 3. Flash ROM zip
 4. Clear Dalvik and Cache in advance wipe
 5. Reboot to System
 ***
-- For OTA updates use [Recovery](https://t.me/FilesArchieve/262)
+- For OTA updates use [Recovery](https://sourceforge.net/projects/evilanshbuild/files/recovery/salaa/OrangeFox-R11.3_A12.1-APOCALYPSE-20250803-salaa.zip/download)
 
 > [!Note]
 > **Notes specific to device build**
