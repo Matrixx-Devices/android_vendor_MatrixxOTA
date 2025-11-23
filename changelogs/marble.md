@@ -1,3 +1,9 @@
+# 23-November-2025
+- initial android 16 build with dolby atmos
+- update blobs and camera from OS2.0.210.0.VMRMIXM
+- clean flash is mandatory over android 15
+- use 15_november ksu file
+
 # 26-September-2025
 - update blobs and camera from OS2.0.205.0.VMRMIXM
 - added dolby vison again
