@@ -49,7 +49,7 @@ bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 # File directories
 jsonDir = {
     "Gapps": ".",
-    "Vanilla": "./vanila"
+    "Vanilla": "./vanilla"
 }
 idDir = ".github/scripts"
 
@@ -204,4 +204,5 @@ def tg_message():
 tg_message()
 print("Successful")
 sleep(2)
+
 
