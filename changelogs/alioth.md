@@ -1,3 +1,8 @@
+# 25-Nov-2025
+    - Update WFD system blobs from dada OS2.0.217.0.WOCMIXM
+    - Update media, audio and BT blobs form 1.0.3.0 
+    - Some Misc improvement
+
 # 20-oct-2025
     - Some Misc improvement
     - rest is same as 27-Sep-2025 (11.8.0 CL)
