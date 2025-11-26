@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "Lowxorx",
+        "support_group":"https://t.me/matrixx_community",
+        "oem": "Xiaomi",
+        "device": "zorn",
+        "device_name": "POCO F7 Pro",
+        "filename": "Matrixx-v12.1.0-OFFICIAL-zorn-Gapps-20251126-2050.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/zorn/Matrixx-v12.1.0-OFFICIAL-zorn-Gapps-20251126-2050.zip/download",
+        "timestamp": 1764186568,
+        "md5": "75b6c27d8acc33ff2fe27a81dc59d5f3",
+        "size": 4096045701,
+        "version": "12.1.0"
+    }
+  ]
+}
