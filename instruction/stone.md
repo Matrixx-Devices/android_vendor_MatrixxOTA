@@ -2,7 +2,8 @@
 
 - Backup all your data to an external source.
 - A **clean flash** is mandatory if coming from another ROM.
-- **Recommended Recovery:** [Matrixx Recovery](https://sourceforge.net/projects/projectmatrixx/files/Android-15/stone/recovery/boot.img/download)
+- Must be using latest firmware available for your region.
+- **Recommended Recovery:** [Matrixx Recovery](https://sourceforge.net/projects/projectmatrixx/files/Android-16/stone/recovery/boot.img/download)
 
 ## Clean Flash
 
