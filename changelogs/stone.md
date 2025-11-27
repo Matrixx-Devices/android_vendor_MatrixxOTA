@@ -1,3 +1,15 @@
+# Changelog 27 November 2025
+- Initial Android 16 release
+- Clean flash needed
+- November Security Patch
+- Update blobs from OS2.0.5.0.UMQMIXM
+- Revert back to recovery in boot
+- Switch to minimal kernel
+- Fix cpu governor being performance
+- Disable unnecessary logging
+- Various other changes
+- Sync with latest sources
+
 # Changelog 2 October 2025
 - September Security Patch
 - Switch to Global Blobs and update from OS2.0.4.0.UMQMIXM
