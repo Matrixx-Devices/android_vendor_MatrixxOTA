@@ -1,3 +1,7 @@
+# 29-November-2025
+- Initial Matrixx A16 release.
+- Updated bcr version 1.86.
+
 # 23-October-2025
 - Synced with latest source
 - Some changes related to kernel-governor.
