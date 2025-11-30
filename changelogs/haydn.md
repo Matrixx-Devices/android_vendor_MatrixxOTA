@@ -1,3 +1,6 @@
+# 29-October-2025
+- Initial A16 release
+
 # 26-August-2025
 - synced with latest source changes
 - Fixed haptics
