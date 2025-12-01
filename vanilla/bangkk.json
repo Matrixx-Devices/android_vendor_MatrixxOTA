@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "Aryan S",
+        "support_group":"https://t.me/AryanBangkkSupport",
+        "oem": "Motorola",
+        "device": "bangkk",
+        "device_name": "Moto G84",
+        "filename": "Matrixx-v12.1.0-OFFICIAL-bangkk-Vanilla-20251130-2001.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/bangkk/Matrixx-v12.1.0-OFFICIAL-bangkk-Vanilla-20251130-2001.zip/download",
+        "timestamp": 1764532790,
+        "md5": "c46bfabdf7b15c71c12bdd6c05a8d639",
+        "size": 1669026465,
+        "version": "12.1.0"
+    }
+  ]
+}
