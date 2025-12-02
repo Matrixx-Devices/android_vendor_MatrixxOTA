@@ -1,3 +1,24 @@
+# 03-December-2025
+- Based on A16 pre-qpr
+- Clean Flash Mandatory
+- Enabled and optimised blur ui wide
+- Switch to maple I/O scheduler
+- Drop everything legacy sched walt
+- Updated to use Uclamp + Pelt
+- Whole lots of optimizations in kernel
+- Relaxed cpu throttling
+- Updated to latest adreno gpu blobs from aospa
+- Updated blobs from OS2.0.14.0.UMZCNXM
+- Switch to OSS Dolby with Stock blobs
+- Stabilised wifi toggle a bit
+- Optimised props and ui
+- Implemented usb force fast charge
+- Improved refresh rate handling
+- Optimised display hal
+- Added Gamebar, Clear speaker, thermal profiles, MiSound, etc
+- Updated to have Wifi 6 support 
+- Use latest KernelSU Next v1.1.1
+
 # 15-Feburary-2025
 - Enabled LTO & Polly loop optimisers
 - Compiled HWUI for performance
