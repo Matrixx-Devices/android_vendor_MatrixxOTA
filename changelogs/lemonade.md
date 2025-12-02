@@ -1,3 +1,6 @@
+# 02-December-2025
+- Initial A16 release
+
 # 26-August-2025
 - Kernel upstream with LineageOS
 - Updated KernelSU Next  to v1.0.9
