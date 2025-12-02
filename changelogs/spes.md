@@ -1,3 +1,9 @@
+# 02-December-2025
+- device: Fixed an issue where AOD is flickering like crazy in Android 16
+- Dropped LEICA Camera (No active maintainer for the sm6225 lineup)
+- kernel: Updated the kernel to the latest with more improvements.
+- device: Switched the main partitions to EroFS
+
 # 26-October-2025
 - Drop c2 input surface
 - Don't force CCodec
