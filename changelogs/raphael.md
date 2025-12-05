@@ -1,3 +1,11 @@
+# 06-December-2025
+- Resolved an issue where the selfie camera was not functioning for some users.
+- Fixed third-party camera apps failing to open or operate correctly.
+- Fixed a problem where mobile data did not activate after toggling it on.
+- Fixed an APN-related bug.
+- Added Quickswitch support, allowing seamless switching between Pixel Launcher and Matrixx Launcher.
+- Additional minor fixes and overall performance enhancements to improve user experience.
+
 # 29-November-2025
 - Initial Matrixx A16 release.
 - Updated bcr version 1.86.
