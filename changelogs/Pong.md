@@ -1,3 +1,6 @@
+# 05-December-2025
+- Initial Matrixx A16 release
+
 # 29-August-2025
 - Update to v11.7.0
 - Improvements to performance and system stability

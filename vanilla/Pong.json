@@ -3,15 +3,15 @@
     {
         "maintainer": ["Drishal", "GhostRX89"],
         "support_group":"https://t.me/DrishalDiscussion",
-        "oem": "nothing",
+        "oem": "Nothing",
         "device": "Pong",
         "device_name": "Nothing Phone (2)",
-        "filename": "Matrixx-v11.7.0-Official-Pong-Vanilla-202508290711.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/Pong/Matrixx-v11.7.0-Official-Pong-Vanilla-202508290711.zip/download",
-        "timestamp": 1756451449,
-        "md5": "a43419d8f3f7d61bec073492c0e5fff7",
-        "size": 1956160219,
-        "version": "11.7.0"
+        "filename": "Matrixx-v12.1.0-OFFICIAL-Pong-Vanilla-20251205-0803.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/Pong/Matrixx-v12.1.0-OFFICIAL-Pong-Vanilla-20251205-0803.zip/download",
+        "timestamp": 1764921677,
+        "md5": "50ca2faa50fd14a5b7c8cd7384f0d918",
+        "size": 2046984157,
+        "version": "12.1.0"
     }
   ]
 }
