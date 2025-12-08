@@ -1,3 +1,16 @@
+# 27-November-2025
+-Source: Synced with latest source
+-Source: Build With November Security Patch
+-Device: Drop Miuicam for now 
+-Device: Add device side Improvment for less lag
+-Device: Add per app maximum refresh rate
+-Kernel: Switch to SLMK 
+-Kernel: Switch to Kernel Space Battery Saver
+-Kernel: Introduce SBalance IRQ balancer
+-Kernel: Increase minimum bus frequency
+-Kernel: Synced with latest lineage source 
+
+
 # 14-October-2025
 - Kernel: Revert "Enable Power CONFIG_BATT_VERIFY_BY_DS28E16 CONFIG_SMB1390_CHARGE_PUMP_PSY CONFIG_SMB1355_SLAVE_CHARGER CONFIG_QPNP_SMB5 And CONFIG_ONEWIRE_GPIO For faster Charging Speed"
 - Source: Synced with latest source

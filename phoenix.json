@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "phoenix/phoenixin",
         "device_name": "POCO X2/REDMI K30",
-        "filename": "Matrixx-v11.8.0-Official-phoenix-Gapps-202508260727.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/phoenix/Matrixx-v11.8.0-Official-phoenix-Gapps-202510061117.zip/download",
-        "timestamp": 1759752228,
-        "md5": "7123b52003b68bc260aafc43324ba204",
-        "size": 2673637581,
-        "version": "11.8.0"
+        "filename": "Matrixx-v12.1.0-OFFICIAL-phoenix-Gapps-20251127-1645.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/phoenix/Matrixx-v12.1.0-OFFICIAL-phoenix-Gapps-20251127-1645.zip/download",
+        "timestamp": 1764635802,
+        "md5": "04cded129c62e17bb987536869924188",
+        "size": 2397183474,
+        "version": "12.1.0"
     }
   ]
 }
