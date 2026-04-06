@@ -1,7 +1,5 @@
-# Matrixx v-12.1.0 (A16-QPR0) Protium Changelog
-- Initial A16 release
-
 # Matrixx v-12.2.0 (A16-QPR2) Aurora Changelogs
+
 - Initial QR2 Source release 
 - Added Per-App Spoofing feature
 - Added Statur Bar clock customisations
@@ -9,7 +7,7 @@
 - Added Battery Bar
 - Added Custom Statur Bar logo
 - Allow to toggle Wifi-Standard icon
-- Allow Tumi g Statur bar padding
+- Allow Tuning Statur bar padding
 - Added QS header image customisation
 - Added UDFPS customisations
 - Added QS tile shape Customisations
@@ -31,3 +29,6 @@
 - Added Idle-manager
 
 Note: All features have been picked with proper authorship. If anyone have any issues Please contact Matrixx Team
+
+# Matrixx v-12.1.0 (A16-QPR0) Protium Changelog
+- Initial A16 release
