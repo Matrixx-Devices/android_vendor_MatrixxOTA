@@ -1,13 +1,13 @@
 {
   "response": [
     {
-        "maintainer": "",
-        "support_group":"",
+        "maintainer": "Mrick343",
+        "support_group":"https://t.me/mrickdiscussion",
         "oem": "Xiaomi",
         "device": "munch",
         "device_name": "",
         "filename": "Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260406-1129.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/munch/Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260406-1129.zip/download",
+        "download": "https://get.projectmatrixx.org/folder/munch/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260406-1129.zip",
         "timestamp": 1775474924,
         "md5": "e6e1833f531696218caee26318778c44",
         "size": 2599467474,
@@ -15,3 +15,4 @@
     }
   ]
 }
+
