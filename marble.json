@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "marble",
         "device_name": "Poco F5/Redmi Note 12 Turbo",
-        "filename": "Matrixx-v12.1.0-Official-marble-Gapps-20251123-1157.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/marble/Matrixx-v12.1.0-Official-marble-Gapps-20251123-1157.zip/download",
-        "timestamp": 1763898978,
-        "md5": "41a0cf214f0a38a507f37a5e42690bd2",
-        "size": 2964984908,
-        "version": "12.1.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-marble-Gapps-20260407-2350.zip",
+        "download": "https://get.projectmatrixx.org/folder/marble/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-marble-Gapps-20260407-2350.zip",
+        "timestamp": 1775598530,
+        "md5": "a8176b3269ae9fb24f785ad7d574d595",
+        "size": 2978835946,
+        "version": "12.2"
     }
   ]
 }
