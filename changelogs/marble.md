@@ -1,3 +1,9 @@
+# 08-April-2026
+- Firmware is removed download from the download page only hos3 fw compatible , flash 3.0.3.0 global fw or regional equivalent 
+- latest orange fox is compulsory to be used available on download page instructions section
+- use 26_March ksunext file from download page instructions section
+- initial matrixx build after new source updates includes dolby atmos and all the other goodies
+
 # 23-November-2025
 - initial android 16 build with dolby atmos
 - update blobs and camera from OS2.0.210.0.VMRMIXM
