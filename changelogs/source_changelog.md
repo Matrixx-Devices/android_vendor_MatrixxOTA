@@ -1,4 +1,4 @@
-# Matrixx v-12.2.0 (A16-QPR2) Aurora Changelogs
+# Matrixx v-12.2 (A16-QPR2) Aurora Changelogs
 
 - Initial QR2 Source release 
 - Added Per-App Spoofing feature
@@ -7,7 +7,7 @@
 - Added Battery Bar
 - Added Custom Statur Bar logo
 - Allow to toggle Wifi-Standard icon
-- Allow Tuning Statur bar padding
+- Allow Tuning Statusbar padding
 - Added QS header image customisation
 - Added UDFPS customisations
 - Added QS tile shape Customisations
