@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "Jyotishman Baruah (BULLA)",
+        "support_group":"https://t.me/Genhodee",
+        "oem": "Xiaomi",
+        "device": "lavender",
+        "device_name": "Redmi Note 7/7s",
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-lavender-Vanilla-20260407-2329.zip",
+        "download": "https://get.projectmatrixx.org/folder/lavender/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-lavender-Vanilla-20260407-2329.zip",
+        "timestamp": 1775584662,
+        "md5": "1d10ced9a36960c2d2f6cffcb432d4bb",
+        "size": 1475797670,
+        "version": "12.2"
+    }
+  ]
+}
