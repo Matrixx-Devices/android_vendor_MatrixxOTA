@@ -6,13 +6,12 @@
         "oem": "Xiaomi",
         "device": "munch",
         "device_name": "",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260406-1129.zip",
-        "download": "https://get.projectmatrixx.org/folder/munch/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260406-1129.zip",
-        "timestamp": 1775474924,
-        "md5": "e6e1833f531696218caee26318778c44",
-        "size": 2599467474,
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260408-0634.zip",
+        "download": "https://get.projectmatrixx.org/folder/munch/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260408-0634.zip",
+        "timestamp": 1775629949,
+        "md5": "6cae58bfa5a3dc8505d20e9ff9cd056a",
+        "size": 2591679334,
         "version": "12.2"
     }
   ]
 }
-
