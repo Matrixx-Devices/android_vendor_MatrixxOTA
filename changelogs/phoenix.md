@@ -1,3 +1,10 @@
+# 7-April-2026
+- Source: Synced with the latest source
+- Device: Synced with Lineage changes
+- Device: Readded Dolby with Lunaris Dolby
+- Device: Synced parts with Material UI3
+- Device/Kernel: Enabled Bypass Charging
+- Device: 
 # 27-November-2025
 -Source: Synced with latest source
 -Source: Build With November Security Patch
