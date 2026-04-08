@@ -7,7 +7,7 @@
         "device": "phoenix/phoenixin",
         "device_name": "POCO X2/REDMI K30",
         "filename": "Matrixx-v12.1.0-OFFICIAL-phoenix-Vanilla-20251207-1554.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/phoenix/Matrixx-v12.1.0-OFFICIAL-phoenix-Vanilla-20251207-1554.zip/download",
+        "download": "https://get.projectmatrixx.org/folder/phoenix/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-phoenix-Vanilla-20260407-0337.zip",
         "timestamp": 1765124946,
         "md5": "48925281a59d203c523d31da053c576b",
         "size": 1493962783,
@@ -15,4 +15,5 @@
     }
   ]
 }
+
 

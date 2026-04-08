@@ -7,6 +7,6 @@
 
 **Dirty flash:**
 - Boot to recovery
-- Clear Data, Dalvik and cache
+- Clear Dalvik and cache
 - Flash the Rom
 - Reboot to System
