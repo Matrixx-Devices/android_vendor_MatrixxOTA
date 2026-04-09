@@ -1,3 +1,8 @@
+# 09-April-2026
+- Source: Synced the source to the latest changes
+- Kernel: Synced the kernel to the latest changes
+- XiaomiParts: Modernized parts to adapt with Material 3 UI
+
 # 02-December-2025
 - device: Fixed an issue where AOD is flickering like crazy in Android 16
 - Dropped LEICA Camera (No active maintainer for the sm6225 lineup)
