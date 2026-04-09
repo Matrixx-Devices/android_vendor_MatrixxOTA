@@ -51,5 +51,5 @@ fastboot boot path/to/recovery.img
 - Since there's no dedicated recovery partition, you must flash recovery every time after flashing the ROM
 - After the dirty flash your root/kernel will be overwritten. So, take a backup of your favourite kernel
 - If you face any bug or issues, politely report them with [logs](https://github.com/nathanchance/android-tools/blob/main/guides/proper_bug_reporting.txt) into the [device support group](https://t.me/TanvirBuildsSupport)
-- You can also blame the maintainer and move on
+- When dirty/clean flashing via OrangeFox, do not reflash Ofox after flashing the ROM
 ---
