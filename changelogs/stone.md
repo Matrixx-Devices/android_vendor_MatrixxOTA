@@ -1,3 +1,12 @@
+# Changelog 10 April 2026
+- Initial Android 16 QPR2 release
+- April Security Patch
+- Clean Flash Required
+- Update blobs from OS2.0.9.0.UMQEUXM
+- Fully rebased kernel and device tree
+- Optimized for balanced performance and efficiency
+- Synced with latest tree and source changes
+
 # Changelog 27 November 2025
 - Initial Android 16 release
 - Clean flash needed
