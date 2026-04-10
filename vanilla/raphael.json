@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Jyotishman Baruah (BULLA)",
+        "maintainer": "Bulla03x",
         "support_group":"https://t.me/Genhodee",
         "oem": "Xiaomi",
         "device": "raphael",
         "device_name": "Redmi K20 Pro",
-        "filename": "Matrixx-v12.1.0-OFFICIAL-raphael-Vanilla-20251206-0030.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/raphael/Matrixx-v12.1.0-OFFICIAL-raphael-Vanilla-20251206-0030.zip/download",
-        "timestamp": 1764960990,
-        "md5": "7678a2bad3c9a5415875ef45671ce6ae",
-        "size": 1881060961,
-        "version": "12.1.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260410-2044.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/raphael/Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260410-2044.zip/download",
+        "timestamp": 1775833945,
+        "md5": "f5faaea1657c60f772c46e709d73b500",
+        "size": 1960289164,
+        "version": "12.2"
     }
   ]
 }

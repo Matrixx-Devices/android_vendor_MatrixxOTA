@@ -1,3 +1,13 @@
+# 10-April-2026
+- Initial A16 QRP2 release.
+- Implemented haptic feedback level.
+- Fixed face detection problem.
+- Fixed bluetooth sepolicy issue.
+- Updated bcrversion 2.5.
+- Added GameBar feature.
+- Added improved Leica camera.
+- Additional minor fixes and overall performance enhancements to improve user experience.
+
 # 06-December-2025
 - Resolved an issue where the selfie camera was not functioning for some users.
 - Fixed third-party camera apps failing to open or operate correctly.
