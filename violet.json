@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "achu",
+        "support_group": "https://t.me/achubuildschat",
+        "oem": "Xiaomi",
+        "device": "violet",
+        "device_name": "Redmi Note 7 Pro",
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-violet-Gapps-20260413-1937.zip",
+        "download": "https://get.projectmatrixx.org/folder/violet/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-violet-Gapps-20260413-1937.zip",
+        "timestamp": 1776101667,
+        "md5": "8afd61c970ff3c354a9dc42cbe1a78a2",
+        "size": 2325033831,
+        "version": "12.2"
+    }
+  ]
+}
