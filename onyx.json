@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "",
+        "support_group": "",
+        "oem": "Xiaomi",
+        "device": "onyx",
+        "device_name": "",
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-onyx-Gapps-20260413-1303.zip",
+        "download": "https://get.projectmatrixx.org/folder/onyx/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-onyx-Gapps-20260413-1303.zip",
+        "timestamp": 1776078136,
+        "md5": "c841f9af3f3f970652c674e57c1ece81",
+        "size": 4542678376,
+        "version": "12.2"
+    }
+  ]
+}
