@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "PARBINDAR7",
+        "support_group": "https://t.me/ExyROM",
+        "oem": "samsung",
+        "device": "f41",
+        "device_name": "Samsung Galaxy F41",
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-f41-Vanilla-20260413-1614.zip",
+        "download": "https://get.projectmatrixx.org/folder/f41/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-f41-Vanilla-20260413-1614.zip",
+        "timestamp": 1776096786,
+        "md5": "fbf221b6d5ad85ad82961cc2b9e2b87f",
+        "size": 1325686747,
+        "version": "12.2"
+    }
+  ]
+}
