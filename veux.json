@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "iaswinop",
-        "support_group":"https://t.me/snowbuilds",
+        "maintainer": "Amrito",
+        "support_group": "https://t.me/amritoyaaps",
         "oem": "Xiaomi",
         "device": "veux",
-        "device_name": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
-        "filename": "Matrixx-v11.9.0-Official-veux-Gapps-202510191846.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/veux/Matrixx-v11.9.0-Official-veux-Gapps-202510191846.zip/download",
-        "timestamp": 1760899191,
-        "md5": "6dc0e161d45899baa09be98cb8498803",
-        "size": 2307854444,
-        "version": "11.9.0"
+        "device_name": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-veux-Gapps-20260417-0737.zip",
+        "download": "https://get.projectmatrixx.org/folder/veux/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-veux-Gapps-20260417-0737.zip",
+        "timestamp": 1776411472,
+        "md5": "e8139f7e3587b939edcc0504a5832131",
+        "size": 2359311185,
+        "version": "12.2"
     }
   ]
 }
