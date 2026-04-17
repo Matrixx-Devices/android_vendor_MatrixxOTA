@@ -1,3 +1,21 @@
+# 17 April 2026
+- Intial Android 16 QPR2 build
+- Import from xiaomi_sdm845-common
+- Checkout thermal profiles to xiaomi-sm8250 implementation
+- Fix thermal profile screen state handling
+- add ZRAM option
+- extend ZRAM option
+- force HDR and HLG
+- add core control
+- add Kamis Stuff and shift some settings there
+- add uselessness
+- add minimal CPU Manager
+- add minimal GPU Manager
+- import dirac from marble
+- add per app and system wide resolution setting
+- Initialize High Touch Polling Rate support
+- Introduce Display Satutaion Service and TileUtils
+
 # 20 October 2025
 - Synced with latest source changes.
 

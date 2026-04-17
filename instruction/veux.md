@@ -6,7 +6,7 @@
 
 **Clean Flash:**
 
-1. Make sure you have Matrixx recovery installed [**#here**] (https://t.me/snowbuilds/79180) (`fastboot flash vendor_boot vendor_boot.img && fastboot flash boot boot.img`).
+1. Make sure you have Matrixx recovery installed [**#here**] (https://t.me/amritoyaaps) (`fastboot flash vendor_boot vendor_boot.img && fastboot flash boot boot.img`).
 2. Reboot to Matrixx recovery.
 3. Plug your phone into the PC and select "Apply update via ADB."
 4. Run `adb sideload <rom_filename>.zip`.
