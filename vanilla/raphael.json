@@ -2,15 +2,15 @@
   "response": [
     {
         "maintainer": "Bulla03x",
-        "support_group":"https://t.me/Genhodee",
+        "support_group": "https://t.me/Genhodee",
         "oem": "Xiaomi",
         "device": "raphael",
         "device_name": "Redmi K20 Pro",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260410-2044.zip",
-        "download": "https://get.projectmatrixx.org/folder/raphael/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260410-2044.zip",
-        "timestamp": 1775833945,
-        "md5": "f5faaea1657c60f772c46e709d73b500",
-        "size": 1960289164,
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260417-2231.zip",
+        "download": "https://get.projectmatrixx.org/folder/raphael/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260417-2231.zip",
+        "timestamp": 1776445277,
+        "md5": "c315e28dfa4d71f0ac271229dd33514b",
+        "size": 1960230071,
         "version": "12.2"
     }
   ]

@@ -1,3 +1,9 @@
+# 18-April-2026
+- Syned with latest source.
+- Fixed battery charging indicator not working for some users while charging.
+- April security patch.
+- Inclueded latest gamebar changes. 
+
 # 10-April-2026
 - Initial A16 QRP2 release.
 - Implemented haptic feedback level.
