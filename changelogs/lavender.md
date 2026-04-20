@@ -1,3 +1,28 @@
+# 20-April-2026
+- Synced with latest source changes.
+- April Security Patch build.
+- Inclueded quickspace, added both matrixx and pixel launcher.
+- Optimized auto brightness adjustment.
+- Tweaked some auto brightness configs.
+- Set game refresh rate override to 120.
+- Added support for flashlight level adjustment.
+- Optimized lineage health hal.
+- Corrected reserved partition path.
+- removed unwated bloats.
+- Cleanup some useless props.
+- Disable blurs during app launch.
+- rro_overlay: Reduce blur radius.
+- Bump override kernel BPF version.
+- Implemented latest dolby related changes.
+- libcameraservice: update ext_lib to soong format.
+- Boost GPU to max for expensive rendering.
+- Adjust scaling frequencies.
+- Fixed Bluetooth sepolicy.
+- silent some spams.
+- Fixed bcr crashed issue for some users.
+- Implemented latest bcr version changes.
+- Additional minor fixes.
+
 # 07-April-2026
 - Initial release.
 - Fixed Gcam related error.
