@@ -1,3 +1,7 @@
+# 20-Apr-2026
+- update to matrix 12.2 
+- Improvements to performance and system stability
+
 # 05-December-2025
 - Initial Matrixx A16 release
 
