@@ -1,3 +1,6 @@
+# 20-Apr-2026
+- Initial Matrixx A16 release
+
 # 19-Oct-2025
 - Updated susfs to v1.5.11
 - Merged latest KernelSU-Next commit
