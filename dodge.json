@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "BrianOP13xOscarM1019",
-        "support_group":"https://t.me/OP13CustomRoms/13",
+        "support_group": "https://t.me/OP13CustomRoms/13",
         "oem": "OnePlus",
         "device": "13",
         "device_name": "dodge",
-        "filename": "Matrixx-v12.1.0-OFFICIAL-dodge-Gapps-20251130-1756.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/dodge/Matrixx-v12.1.0-OFFICIAL-dodge-Gapps-20251130-1756.zip/download",
-        "timestamp": 1764554100,
-        "md5": "a60e49a0dba3ad7fb42fcb6d7753b500",
-        "size": 4301292303,
-        "version": "12.1.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-dodge-Gapps-20260426-0900.zip",
+        "download": "https://get.projectmatrixx.org/folder/dodge/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-dodge-Gapps-20260426-0900.zip",
+        "timestamp": 1777208424,
+        "md5": "d2794e1a3538c11024ebb60962ca8129",
+        "size": 4225102944,
+        "version": "12.2"
     }
   ]
 }

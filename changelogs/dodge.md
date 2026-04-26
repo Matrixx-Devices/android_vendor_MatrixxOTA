@@ -1,3 +1,6 @@
+# 26-Apr-2026
+- Initial Matrixx 12.2 QPR2 release
+
 ====================
      11-30-2025
 ====================
@@ -360,4 +363,3 @@ be23fe9 dodge: Update from OOS 11.F.80
 93748fa sm8750-common: Update from OOS 11.F.80
 c9a6385 sm8750-common: Update from OOS 11.F.74
 ac979e7 sm8750-common: Move CNE and DPM to phone blobs list
-
