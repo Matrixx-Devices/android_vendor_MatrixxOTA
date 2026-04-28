@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "d1",
         "device_name": "",
-        "filename": "Matrixx-v11.8.0-Official-d1-Gapps-202509291546.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/d1/Matrixx-v11.8.0-Official-d1-Gapps-202509291546.zip/download",
-        "timestamp": 1759175121,
-        "md5": "584458f7d50d6fb8048f125daeff2248",
-        "size": 2308788190,
-        "version": "11.8.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-d1-Gapps-20260425-2028.zip",
+        "download": "https://get.projectmatrixx.org/folder/d1/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-d1-Gapps-20260425-2028.zip",
+        "timestamp": 1777163168,
+        "md5": "b049f474a27443a3dc33533ca06c9037",
+        "size": 2467896447,
+        "version": "12.2"
     }
   ]
 }
