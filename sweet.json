@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "Musafir1875",
-        "support_group":"https://t.me/RoyalOSsupport",
+        "support_group": "https://t.me/RoyalOSsupport",
         "oem": "Xiaomi",
         "device": "Sweet",
         "device_name": "Redmi Note 10 Pro",
-        "filename": "Matrixx-v11.9.0-Official-sweet-Gapps-202510201354.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sweet/Matrixx-v11.9.0-Official-sweet-Gapps-202510201354.zip/download",
-        "timestamp": 1760968347,
-        "md5": "ff7a5b4642467a2947cbde0d33ab1430",
-        "size": 2827557974,
-        "version": "11.9.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-sweet-Gapps-20260429-0720.zip",
+        "download": "https://get.projectmatrixx.org/folder/sweet/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-sweet-Gapps-20260429-0720.zip",
+        "timestamp": 1777477387,
+        "md5": "4ffa0e739fde11d7d05c99614bb1a8bf",
+        "size": 2560570840,
+        "version": "12.2"
     }
   ]
 }
