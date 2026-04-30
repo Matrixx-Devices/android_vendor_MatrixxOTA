@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "beyond2lte",
         "device_name": "",
-        "filename": "Matrixx-v11.8.0-Official-beyond2lte-Gapps-202509281540.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyond2lte/Matrixx-v11.8.0-Official-beyond2lte-Gapps-202509281540.zip/download",
-        "timestamp": 1759088344,
-        "md5": "2d65de14024782e3e075963bcbef12dd",
-        "size": 2326556300,
-        "version": "11.8.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-beyond2lte-Gapps-20260425-1829.zip",
+        "download": "https://get.projectmatrixx.org/folder/beyond2lte/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-beyond2lte-Gapps-20260425-1829.zip",
+        "timestamp": 1777156015,
+        "md5": "8172bc41eb8ae71aab3d2a5905070e1e",
+        "size": 2483705833,
+        "version": "12.2"
     }
   ]
 }

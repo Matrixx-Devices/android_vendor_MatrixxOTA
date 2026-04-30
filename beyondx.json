@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "beyondx",
         "device_name": "",
-        "filename": "Matrixx-v11.8.0-Official-beyondx-Gapps-202509291536.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beyondx/Matrixx-v11.8.0-Official-beyondx-Gapps-202509291536.zip/download",
-        "timestamp": 1759174489,
-        "md5": "5616e8e0bb4419955bdd4953b7863fa8",
-        "size": 2339024678,
-        "version": "11.8.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-beyondx-Gapps-20260425-1907.zip",
+        "download": "https://get.projectmatrixx.org/folder/beyondx/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-beyondx-Gapps-20260425-1907.zip",
+        "timestamp": 1777158258,
+        "md5": "de5eabd7e90395f105984aeeabe3936e",
+        "size": 2496473354,
+        "version": "12.2"
     }
   ]
 }

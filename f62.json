@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "f62",
         "device_name": "",
-        "filename": "Matrixx-v11.8.0-Official-f62-Gapps-202509291958.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/f62/Matrixx-v11.8.0-Official-f62-Gapps-202509291958.zip/download",
-        "timestamp": 1759190214,
-        "md5": "24d261bed0e8cf1d88f703d369cef3d1",
-        "size": 2335597484,
-        "version": "11.8.0"
+        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-f62-Gapps-20260425-2131.zip",
+        "download": "https://get.projectmatrixx.org/folder/f62/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-f62-Gapps-20260425-2131.zip",
+        "timestamp": 1777166935,
+        "md5": "d985089b278bb7109ceb5e2e684f1794",
+        "size": 2492762052,
+        "version": "12.2"
     }
   ]
 }
