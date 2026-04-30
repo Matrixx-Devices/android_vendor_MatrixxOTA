@@ -1,5 +1,9 @@
 # Changelog 29 Apr 2025:
 - Initial Matrixx A16 release
+- Ventom kernel (non ksu)
+- added viper4a
+- MIUI camera
+- added Dolby-Vision
 
 # Changelog 22 Oct 2025:
 - Synced with latest v11.9.0 source
