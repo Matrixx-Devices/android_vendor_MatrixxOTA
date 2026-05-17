@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "m21",
         "device_name": "Samsung Galaxy M21",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-m21-Vanilla-20260413-1652.zip",
-        "download": "https://get.projectmatrixx.org/folder/m21/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-m21-Vanilla-20260413-1652.zip",
-        "timestamp": 1776099088,
-        "md5": "113b33bd0d7e7fa4b9268d8279b5a70d",
-        "size": 1327254232,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-m21-Vanilla-20260517-1518.zip",
+        "download": "https://get.projectmatrixx.com/folder/m21/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-m21-Vanilla-20260517-1518.zip",
+        "timestamp": 1779031004,
+        "md5": "f562b9cd354d26393d446d6d307756ac",
+        "size": 1417939712,
+        "version": "12.3"
     }
   ]
 }
