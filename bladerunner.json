@@ -6,12 +6,12 @@
         "oem": "realme",
         "device": "bladerunner",
         "device_name": "",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-bladerunner-Gapps-20260410-0000.zip",
-        "download": "https://get.projectmatrixx.org/folder/bladerunner/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-bladerunner-Gapps-20260410-0000.zip",
-        "timestamp": 1775771990,
-        "md5": "f934ecaf0b07a5a5ad0e95ab080c1b9c",
-        "size": 3474122265,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-bladerunner-Gapps-20260517-1231.zip",
+        "download": "https://get.projectmatrixx.com/folder/bladerunner/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-bladerunner-Gapps-20260517-1231.zip",
+        "timestamp": 1779020954,
+        "md5": "814adc53436caba6fc70e6fceacbabf3",
+        "size": 3559506034,
+        "version": "12.3"
     }
   ]
 }
