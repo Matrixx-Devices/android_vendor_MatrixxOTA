@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "a51",
         "device_name": "Samsung Galaxy A51",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-a51-Vanilla-20260413-1633.zip",
-        "download": "https://get.projectmatrixx.org/folder/a51/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-a51-Vanilla-20260413-1633.zip",
-        "timestamp": 1776097805,
-        "md5": "2642a64ee92d410026c1a670fbda2785",
-        "size": 1481997497,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-a51-Vanilla-20260517-1241.zip",
+        "download": "https://get.projectmatrixx.com/folder/a51/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-a51-Vanilla-20260517-1241.zip",
+        "timestamp": 1779021547,
+        "md5": "968848109159b9e19579fa05a58301c6",
+        "size": 1572826737,
+        "version": "12.3"
     }
   ]
 }

@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "f41",
         "device_name": "Samsung Galaxy F41",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-f41-Vanilla-20260413-1614.zip",
-        "download": "https://get.projectmatrixx.org/folder/f41/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-f41-Vanilla-20260413-1614.zip",
-        "timestamp": 1776096786,
-        "md5": "fbf221b6d5ad85ad82961cc2b9e2b87f",
-        "size": 1325686747,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-f41-Vanilla-20260517-1214.zip",
+        "download": "https://get.projectmatrixx.com/folder/f41/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-f41-Vanilla-20260517-1214.zip",
+        "timestamp": 1779019949,
+        "md5": "76060c192e8159baf22f211b4f2d1141",
+        "size": 1417410521,
+        "version": "12.3"
     }
   ]
 }

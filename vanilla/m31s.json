@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "m31s",
         "device_name": "Samsung Galaxy M31s",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-m31s-Vanilla-20260413-1539.zip",
-        "download": "https://get.projectmatrixx.org/folder/m31s/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-m31s-Vanilla-20260413-1539.zip",
-        "timestamp": 1776094656,
-        "md5": "0c3351c305cc5e50808c40fe8f973770",
-        "size": 1326195356,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-m31s-Vanilla-20260517-1500.zip",
+        "download": "https://get.projectmatrixx.com/folder/m31s/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-m31s-Vanilla-20260517-1500.zip",
+        "timestamp": 1779029906,
+        "md5": "fdb47ed9b4b29b0bc2f41e1a740fb376",
+        "size": 1416956381,
+        "version": "12.3"
     }
   ]
 }
