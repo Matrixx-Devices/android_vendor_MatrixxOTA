@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "Mrick343",
-        "support_group":"https://t.me/mrickdiscussion",
+        "support_group": "https://t.me/mrickdiscussion",
         "oem": "Xiaomi",
         "device": "munch",
         "device_name": "",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260408-0634.zip",
-        "download": "https://get.projectmatrixx.org/folder/munch/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-munch-Gapps-20260408-0634.zip",
-        "timestamp": 1775629949,
-        "md5": "6cae58bfa5a3dc8505d20e9ff9cd056a",
-        "size": 2591679334,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-munch-Gapps-20260517-0658.zip",
+        "download": "https://get.projectmatrixx.com/folder/munch/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-munch-Gapps-20260517-0658.zip",
+        "timestamp": 1779001033,
+        "md5": "c4556f95451861c286530ac2e4cf74da",
+        "size": 2648044135,
+        "version": "12.3"
     }
   ]
 }
