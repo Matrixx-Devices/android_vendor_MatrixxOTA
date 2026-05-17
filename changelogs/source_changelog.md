@@ -1,4 +1,33 @@
-# Matrixx v-12.2 (A16-QPR2) Aurora Changelogs
+# Matrixx v12.3 (A16-QPR2) Binary Changelogs
+
+- Merged May 2026 Security patch
+- Added New integrity implementation ( Fixes Google Wallet, And UPI apps like GPay, PhonePe & BHIM UPI)
+- Added Peek AOD feature
+- Added Deep sleep feature
+- Made Quickswitch Dynamic
+- Fixed QuickSwitch can't se Launcher3 default with Pixel Launcher
+- Match L3 pixel searchbar color with stock pixel
+- Ignore factory reset protection (Disable frp)
+- Drop animation override flag and make it override toggle
+- Use MD3 variable font family in Launcher3 QuickSpace
+- Fixed Themed icons for Launcher3 & Pixel Launcher (Added icons from Lawnicons)
+- Switch to sun os RefreshRateManager
+- Add oos like clock quickspace style
+- Added Axion SandBox support
+- Added Axion Dynamic Bar
+- Changed SmartPixel Implementation 
+- Made Reality Engine optional
+- Added Depth wallpaper support 
+- Added Volume percentage 
+- Dropped Axion Volume panel (Switched to AOSP panel)
+- Lockscreen tap wake/sleep animation
+- Added New OEM style Lockscreen clocks
+- Added back hide app from launcher
+- Added emoji styles
+- Added QS styles
+- Added Legacy style qs option
+
+# Matrixx v12.2 (A16-QPR2) Aurora Changelogs
 
 - Initial QR2 Source release 
 - Added Per-App Spoofing feature
@@ -30,5 +59,5 @@
 
 Note: All features have been picked with proper authorship. If anyone have any issues Please contact Matrixx Team
 
-# Matrixx v-12.1.0 (A16-QPR0) Protium Changelog
+# Matrixx v12.1.0 (A16-QPR0) Protium Changelog
 - Initial A16 release
