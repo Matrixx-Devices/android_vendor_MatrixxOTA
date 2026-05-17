@@ -6,12 +6,12 @@
         "oem": "OnePlus",
         "device": "13",
         "device_name": "dodge",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-dodge-Gapps-20260426-0900.zip",
-        "download": "https://get.projectmatrixx.org/folder/dodge/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-dodge-Gapps-20260426-0900.zip",
-        "timestamp": 1777208424,
-        "md5": "d2794e1a3538c11024ebb60962ca8129",
-        "size": 4225102944,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-dodge-Gapps-20260517-0846.zip",
+        "download": "https://get.projectmatrixx.com/folder/dodge/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-dodge-Gapps-20260517-0846.zip",
+        "timestamp": 1779021970,
+        "md5": "e19ad0320c75ae28271497c89baf34bd",
+        "size": 4262194537,
+        "version": "12.3"
     }
   ]
 }
