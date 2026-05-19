@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "onyx",
         "device_name": "Poco F7/Redmi Turbo 4 Pro",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-onyx-Gapps-20260413-1303.zip",
-        "download": "https://get.projectmatrixx.org/folder/onyx/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-onyx-Gapps-20260413-1303.zip",
-        "timestamp": 1776078136,
-        "md5": "c841f9af3f3f970652c674e57c1ece81",
-        "size": 4542678376,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-onyx-Gapps-20260518-1613.zip",
+        "download": "https://get.projectmatrixx.com/folder/onyx/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-onyx-Gapps-20260518-1613.zip",
+        "timestamp": 1779120595,
+        "md5": "7521051902e9e5905ed36abb7b2fe436",
+        "size": 4465605679,
+        "version": "12.3"
     }
   ]
 }
