@@ -1,3 +1,16 @@
+# Changelog 20 May 2026
+- May Security Patch
+- Fix playstore app installation
+- Introduce per-app-upscale (Huge thanks to kami for impl)
+- Kang graphic blobs from xperia 10 V
+- Kang display blobs from fogos_g
+- Cleanup props and sepolicy
+- Tweak powerhint for performance
+- Define missing zram swappiness and algo
+- Merge latest kernel changes from LOS
+- Use BBR and FQ
+- Optimized for balanced performance and efficiency
+
 # Changelog 10 April 2026
 - Initial Android 16 QPR2 release
 - April Security Patch
