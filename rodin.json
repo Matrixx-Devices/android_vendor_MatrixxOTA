@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "RubensGon",
+        "support_group": "t.me/matrixxrodin",
+        "oem": "xiaomi",
+        "device": "rodin",
+        "device_name": "Poco X7 Pro",
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-rodin-Gapps-20260520-1839.zip",
+        "download": "https://get.projectmatrixx.com/folder/rodin/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-rodin-Gapps-20260520-1839.zip",
+        "timestamp": 1779313016,
+        "md5": "68faa6df1b9d41df6921b44e1dcb1de8",
+        "size": 3462298401,
+        "version": "12.3"
+    }
+  ]
+}
