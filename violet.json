@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "violet",
         "device_name": "Redmi Note 7 Pro",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-violet-Gapps-20260413-1937.zip",
-        "download": "https://get.projectmatrixx.org/folder/violet/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-violet-Gapps-20260413-1937.zip",
-        "timestamp": 1776101667,
-        "md5": "8afd61c970ff3c354a9dc42cbe1a78a2",
-        "size": 2325033831,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-violet-Gapps-20260520-0440.zip",
+        "download": "https://get.projectmatrixx.com/folder/violet/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-violet-Gapps-20260520-0440.zip",
+        "timestamp": 1779251884,
+        "md5": "ce0116c24e87b47df32451bd89f1a5b5",
+        "size": 2506231957,
+        "version": "12.3"
     }
   ]
 }
