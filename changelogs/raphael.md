@@ -1,3 +1,18 @@
+# 22-May-2026
+- Syned with latest source.
+- fixed broken smart pixel.
+- Added hbm support.
+- Added hbm tile.
+- Added support flashlight for flashlight level adjustments.
+- Animation override for performance.
+- Added lunaris dolby.
+- Updated bcr version 2.11.
+- Implemented latest kernelsu-next and susfs in kernel.
+- Implemented latest fixes and changes in gamebar.
+- Improved leica document mode.
+- Optimizing powerhint.
+- Other misc changes and improvements. 
+
 # 18-April-2026
 - Syned with latest source.
 - Fixed battery charging indicator not working for some users while charging.
