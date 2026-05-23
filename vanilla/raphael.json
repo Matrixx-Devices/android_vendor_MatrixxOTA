@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "raphael",
         "device_name": "Redmi K20 Pro",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260417-2231.zip",
-        "download": "https://get.projectmatrixx.org/folder/raphael/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-raphael-Vanilla-20260417-2231.zip",
-        "timestamp": 1776445277,
-        "md5": "c315e28dfa4d71f0ac271229dd33514b",
-        "size": 1960230071,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-raphael-Vanilla-20260522-2145.zip",
+        "download": "https://get.projectmatrixx.com/folder/raphael/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-raphael-Vanilla-20260522-2145.zip",
+        "timestamp": 1779466417,
+        "md5": "09e7ff754bf32c7fa912fd1b2836e02e",
+        "size": 2204570776,
+        "version": "12.3"
     }
   ]
 }
