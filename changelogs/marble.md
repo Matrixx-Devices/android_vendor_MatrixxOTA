@@ -1,3 +1,12 @@
+# 23-May-2026
+- Latest HOS3 global Firmware is added in rom if you face network issue flash latest regional firmware from download page
+- latest orange fox is compulsory to be used available on download page instructions section
+- use 23_May ksunext file from download page instructions section
+- improve powerhint
+- improve performance and battery backup
+- import cgroup.json from aospa
+- task_profiles: optimize scheduler policies
+
 # 08-April-2026
 - Firmware is removed download from the download page only hos3 fw compatible , flash 3.0.3.0 global fw or regional equivalent 
 - latest orange fox is compulsory to be used available on download page instructions section

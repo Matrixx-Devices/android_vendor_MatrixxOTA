@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "Chaitanya",
-        "support_group":"https://t.me/chaitanyabuilds",
+        "support_group": "https://t.me/chaitanyabuilds",
         "oem": "Xiaomi",
         "device": "marble",
         "device_name": "Poco F5/Redmi Note 12 Turbo",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-marble-Vanilla-20260407-2300.zip",
-        "download": "https://get.projectmatrixx.org/folder/marble/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-marble-Vanilla-20260407-2300.zip",
-        "timestamp": 1775595517,
-        "md5": "d83921c1221f85c2fe8ac373c8d5b7cc",
-        "size": 2115265955,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-marble-Vanilla-20260523-1331.zip",
+        "download": "https://get.projectmatrixx.com/folder/marble/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-marble-Vanilla-20260523-1331.zip",
+        "timestamp": 1779535763,
+        "md5": "41a0eb441d68b2fd238a09a9f83138ef",
+        "size": 2343876668,
+        "version": "12.3"
     }
   ]
 }
