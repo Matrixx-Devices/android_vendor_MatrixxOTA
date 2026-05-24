@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "Sweet",
         "device_name": "Redmi Note 10 Pro",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-sweet-Vanilla-20260429-0816.zip",
-        "download": "https://get.projectmatrixx.org/folder/sweet/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-sweet-Vanilla-20260429-0816.zip",
-        "timestamp": 1777450469,
-        "md5": "771e33824997bd3f6786f221cb4df714",
-        "size": 1714941825,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-sweet-Vanilla-20260522-1003.zip",
+        "download": "https://get.projectmatrixx.com/folder/sweet/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-sweet-Vanilla-20260522-1003.zip",
+        "timestamp": 1779444113,
+        "md5": "4dabd65c3e84f4f7b50ec6b98f4b4562",
+        "size": 1879641168,
+        "version": "12.3"
     }
   ]
 }
