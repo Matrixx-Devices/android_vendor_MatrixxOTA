@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Lemonad95",
-        "support_group":"https://t.me/Addy_RomHub",
+        "maintainer": "Mrick343",
+        "support_group": "https://t.me/Addy_RomHub",
         "oem": "OnePlus",
         "device": "lemonadep",
         "device_name": "OnePlus 9 Pro",
-        "filename": "Matrixx-v12.1.0-OFFICIAL-lemonadep-Gapps-20251202-1407.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/lemonadep/Matrixx-v12.1.0-OFFICIAL-lemonadep-Gapps-20251202-1407.zip/download",
-        "timestamp": 1764684352,
-        "md5": "21d79acbc366e52bca094cbe79f69941",
-        "size": 2749317098,
-        "version": "12.1.0"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-lemonadep-Gapps-20260524-1354.zip",
+        "download": "https://get.projectmatrixx.com/folder/lemonadep/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-lemonadep-Gapps-20260524-1354.zip",
+        "timestamp": 1779630762,
+        "md5": "40fe8055d6e34d4b92c05216c248b4ba",
+        "size": 2866427930,
+        "version": "12.3"
     }
   ]
 }

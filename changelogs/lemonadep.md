@@ -1,3 +1,11 @@
+# 24-May-2026
+- Initial QR2 Update
+- Added KSU-Next 3.2.0 support
+- Added Sufs Support
+- Added Torch Light strength Feature
+- Added Dolby Atmos
+- Other under the hood optimizations on the kernel for better performance
+
 # 02-December-2025
 - Initial A16 release
 
