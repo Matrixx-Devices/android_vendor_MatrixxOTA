@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Lemonad95",
-        "support_group":"https://t.me/Addy_RomHub",
+        "maintainer": "Mrick343",
+        "support_group": "https://t.me/Addy_RomHub",
         "oem": "OnePlus",
         "device": "lemonade",
         "device_name": "OnePlus 9",
-        "filename": "Matrixx-v12.1.0-OFFICIAL-lemonade-Gapps-20251202-1145.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/lemonade/Matrixx-v12.1.0-OFFICIAL-lemonade-Gapps-20251202-1145.zip/download",
-        "timestamp": 1764675816,
-        "md5": "024f81f9030cd26c1ac25cecb03920ec",
-        "size": 2634768768,
-        "version": "12.1.0"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-lemonade-Gapps-20260524-1438.zip",
+        "download": "https://get.projectmatrixx.com/folder/lemonade/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-lemonade-Gapps-20260524-1438.zip",
+        "timestamp": 1779633440,
+        "md5": "8e15bf41d72b624ae1ddd973e0ba2920",
+        "size": 2862289560,
+        "version": "12.3"
     }
   ]
 }
