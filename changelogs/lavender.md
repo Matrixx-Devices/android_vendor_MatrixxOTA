@@ -1,3 +1,18 @@
+# 26-May-2026
+- Synced with latest source changes.
+- various performance and smoothness related tunings.
+- Cleanup some leftovers.
+- Finetune scaling frequencies.
+- Reduce schedutil rate limits.
+- Sepolicy: Define vendor_sysfs_kgsl type.
+- Enable RAW10 buffer fix in gralloc.
+- Changed to lunaris dolby.
+- Removed google dialer and messaging, switched to aosp.
+- Removed bcr, default one supports automatic call recording.
+- Removed more apps to shrink rom size.
+- Switched to GCamGo.
+- Other misc changes.
+
 # 21-April-2026
 - Synced with latest source changes.
 - April Security Patch build.
