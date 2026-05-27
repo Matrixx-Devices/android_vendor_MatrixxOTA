@@ -1,3 +1,19 @@
+# 27 May 2026
+- Switched to a better powerhint
+- Switched to Lineage SM8350 kernel with veux changes
+- drop ZRAM option
+- drop HDR and HLG
+- drop core control
+- drop Kamis Stuff and shift some settings there
+- drop uselessness
+- drop minimal CPU Manager
+- drop minimal GPU Manager
+- drop DTBO
+- Fix HBM sysfs path
+- set proper cpu temp path
+- Synced with latest source changes
+- Miscellaneous Improvements
+
 # 17 April 2026
 - Intial Android 16 QPR2 build
 - Import from xiaomi_sdm845-common
