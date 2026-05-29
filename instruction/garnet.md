@@ -1,65 +1,39 @@
-**Before start flashing.....**
+# Flashing Instructions
 
-- Always have backup of your internal storage
-- Use Ofox/Twrp recovery meant for Android 15[**OrangeFox**](https://orangefox.download/release/6680326c4f60e4d8961bd0c3).
-- For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/)
+Always have backup of your internal storage
+- Use Ofox/Twrp recovery meant for Android 16[**OrangeFox**](https://orangefox.download/device/6654e14cd739290feafe4383).
+- For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/Android-16/)
 ----
 
-## If already on HyperOS based custom rom
+# First Time Installation (Clean Flash):
 
-## Gapps variant
+- Flash recovery
+- Reboot to recovery
+- Format data
+- Install latest firmware for your region
+- Reboot recovery
+- Install Matrixx.zip
+- Reboot recovery
+- Install GApps (optional For Vanilla Variant)
+- Format Data
+- Reboot system
 
-**Clean flash:**
-- Download the ROM
-- Boot into recovery
-- Wipe Dalvik/Art Cache, cache and data
-- Flash the ROM
-- Tap on format data, type yes and reboot to system
+# ADB Sideload Command:
+- adb sideload Matrixx.zip
+- When asked to sideload GApps, choose "Yes" to reboot to recovery.
+- Choose "No" if you don't want GApps and want to reboot directly to system.
 
-**Dirty flash:**
-- Download the ROM
-- Boot into recovery
-- Wipe Dalvik/ArtCache and Cache
-- Flash the ROM
-- Reboot To System
+If installing GApps For Vanilla Version:
+adb sideload gapps.zip
 
-----
+- Reboot to system after installation.
 
-## Vanilla variant
+# Update Installation
 
-**Clean flash:**
-- Download the ROM and Gapps package from nikgapps
-- Boot into recovery
-- Wipe Dalvik/Art Cache, cache and data
-- Flash the ROM and reboot to recovery
-- Flash the Nikgapps
-- Tap on format data, type yes and reboot to system
+Via Recovery (Recommended):
+- Boot to recovery
+- Flash Matrixx.zip
+- Reinstall GApps (For Vanilla Variant)
+- Wipe cache and dalvik
+- Reboot system
 
-**Dirty flash:**
-- Download the ROM
-- Boot into recovery
-- Wipe Dalvik/ArtCache and Cache
-- Flash the ROM and reboot to recovery
-- Flash the Nikgapps
-- Reboot To System
-
-----
-
-## If on miui based rom and flashing HyperOS based custom rom first time (Clean flash is must) 
-
-## Gapps variant
-- Download the ROM
-- Boot into recovery (Any A15 twrp recovery version 8.0 or higher must be fine) 
-- Wipe Dalvik/Art Cache, cache and data
-- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/garnet/) 
-- Flash rom
-- Tap on format data, type yes and reboot to system
-
-# Vanilla Variant
-- Download the ROM and Gapps package from nikgapps
-- Boot into recovery (Any A15 twrp recovery version 8.0 or higher must be fine) 
-- Wipe Dalvik/Art Cache, cache and data
-- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/garnet/)
-- Flash the ROM and reboot to recovery
-- Flash the Nikgapps
-- Tap on format data, type yes and reboot to system
