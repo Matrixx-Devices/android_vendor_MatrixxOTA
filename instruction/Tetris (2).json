@@ -1,0 +1,39 @@
+Flashing Instructions For Project Matrixx in  CMF PHONE 1 (Tetris)
+
+Downloads
+
+- OTA Ripper
+- CMF by Nothing Flasher
+
+Requirements
+
+- Unlocked bootloader.
+- Latest Android Platform Tools installed.
+- USB drivers installed and working properly.
+- Battery charged above 50%.
+- Backup all important data before flashing.
+
+Steps
+
+1. Download and extract OTA Ripper.
+2. Do not open OTA Ripper manually.
+3. Drag and drop the ROM ZIP file directly onto the OTA Ripper executable.
+4. Wait for OTA Ripper to extract the firmware package completely.
+5. After extraction, a new folder containing the extracted ROM files will be created.
+6. Download and extract the CMF by Nothing Flasher tool.
+7. Copy all files from the CMF by Nothing Flasher package and paste them into the newly created extracted ROM folder.
+8. Open the extracted ROM folder and run the provided flashing ".bat" file.
+9. Follow all instructions shown on the screen.
+10. Connect your device to the PC and boot it into Fastboot mode when requested.
+11. Do not disconnect the device during the flashing process.
+12. Once flashing is complete, reboot the device if it does not reboot automatically.
+
+Notes
+
+- Ensure the firmware package matches your device model.
+- The first boot after flashing may take several minutes.
+- Flashing firmware incorrectly may result in data loss or boot issues.
+
+Done!
+
+Your device should now boot into Matrixx OS. Complete the initial setup and enjoy your ROM! 🚀🎉
