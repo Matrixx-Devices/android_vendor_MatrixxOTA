@@ -6,12 +6,12 @@
         "oem": "Nothing",
         "device": "Pong",
         "device_name": "Nothing Phone (2)",
-        "filename": "Matrixx-v12.2-Aurora-OFFICIAL-Pong-Vanilla-20260420-0735.zip",
-        "download": "https://get.projectmatrixx.com/folder/Pong/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-Pong-Vanilla-20260420-0735.zip",
-        "timestamp": 1776670509,
-        "md5": "7980c6151549c33b162a3bf4954b6d1b",
-        "size": 2162147380,
-        "version": "12.2"
+        "filename": "Matrixx-v12.3-Binary-OFFICIAL-Pong-Vanilla-20260602-0634.zip",
+        "download": "https://get.projectmatrixx.com/folder/Pong/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-Pong-Vanilla-20260602-0634.zip",
+        "timestamp": 1780382019,
+        "md5": "e510d37e38e2051d004e2dd87ebde40c",
+        "size": 2334259935,
+        "version": "12.3"
     }
   ]
 }
