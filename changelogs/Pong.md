@@ -1,3 +1,10 @@
+# 02-June-2026
+- Updated to Matrixx 12.3
+- Updated firmware and vendor blobs from Nothing OS Pong_B4.1-260414-1749
+- Tuned power hints for better launch, interaction, and expensive rendering behavior
+- Use LZ4 for zram and reset read-ahead values for more consistent memory and I/O behavior
+- Improvements to performance and system stability
+
 # 20-Apr-2026
 - update to matrix 12.2 
 - Improvements to performance and system stability
