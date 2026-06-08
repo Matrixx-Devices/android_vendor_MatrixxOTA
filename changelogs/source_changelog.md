@@ -1,3 +1,20 @@
+# Matrixx v12.4 (A16-QPR2) Catalyst Changelogs
+
+- Merged June 2026 Security Patch
+- Add sleep mode trigger in IdleManager
+- Added Axion Theme Store
+- Added Partial Screenshot Action
+- Introduced more in-depth monet customization
+- Added Some new LS clocks
+- Dropped Auto Keybox Fetch option for official Devices
+- Added Edge Light preview
+- Added Optional Gapps for extra packages
+- Added new material UI in DocumentsUI
+- Fixed OTP issues in some Apps
+- Added Recents styles in Launcher3
+- Fixed Sandbox Vault not adding files
+- some optimisations from clo
+  
 # Matrixx v12.3 (A16-QPR2) Binary Changelogs
 
 - Merged May 2026 Security patch
