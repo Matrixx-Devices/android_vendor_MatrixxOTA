@@ -1,4 +1,4 @@
-09-June-2026
+# 09-June-2026
 ### JUNE UPDATE 
 
 Matrixx v12.4 Catalyst | OFFICIAL
@@ -33,7 +33,7 @@ Please do not contact the maintainer personally for support requests.
 Thanks for your support and happy flashing! ❤️
 #ProjectMatrixx #MatrixxOS #CMFPhone1 #Tetris #Android16
 
-28 -May 2026
+# 28 -May 2026
 
 
 ### Initial Official Release for CMF Phone 1 (Tetris)
