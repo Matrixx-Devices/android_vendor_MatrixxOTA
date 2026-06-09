@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Aryan S",
-        "support_group":"https://t.me/AryanBangkkSupport",
+        "maintainer": "ZedissP",
+        "support_group": "https://t.me/zedissppchat",
         "oem": "Motorola",
         "device": "bangkk",
         "device_name": "Moto G84",
-        "filename": "Matrixx-v12.1.0-OFFICIAL-bangkk-Gapps-20251130-1711.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/bangkk/Matrixx-v12.1.0-OFFICIAL-bangkk-Gapps-20251130-1711.zip/download",
-        "timestamp": 1764522713,
-        "md5": "00ee526591288aba024c752e73f63268",
-        "size": 2587457787,
-        "version": "12.1.0"
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-bangkk-Gapps-20260609-1323.zip",
+        "download": "https://drive.serverhive.in/drive/k3JP6OkLV8Kxmkozfz3O55pY/bangkk/2026-06-09/Matrixx-v12.4-Catalyst-OFFICIAL-bangkk-Gapps-20260609-1323.zip",
+        "timestamp": 1781011256,
+        "md5": "6cc5fd2475153f33b677781c5e36fa26",
+        "size": 2617873973,
+        "version": "12.4"
     }
   ]
 }
