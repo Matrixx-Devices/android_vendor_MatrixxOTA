@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "PARBINDAR7",
+        "support_group": "https://t.me/Exy1330",
+        "oem": "samsung",
+        "device": "a14x",
+        "device_name": "Samsung Galaxy A14 5G",
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-a14x-Vanilla-20260610-1159.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/a14x/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-a14x-Vanilla-20260610-1159.zip/download",
+        "timestamp": 1781092660,
+        "md5": "33d958b51f001093b7c43d8480ecd57e",
+        "size": 1706931049,
+        "version": "12.4"
+    }
+  ]
+}
