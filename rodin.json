@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "RubensGon",
-        "support_group": "t.me/matrixxrodin",
-        "oem": "xiaomi",
+        "support_group": "https://t.me/matrixxrodin",
+        "oem": "Xiaomi",
         "device": "rodin",
         "device_name": "Poco X7 Pro",
-       "filename": "Matrixx-v12.3-Binary-OFFICIAL-rodin-Gapps-20260521-1714.zip",
-        "download": "https://get.projectmatrixx.com/folder/rodin/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-rodin-Gapps-20260521-1714.zip",
-        "timestamp": 1779394478,
-        "md5": "6e093c3338dc10de2ea4b8bddaebf20c",
-        "size": 3462315206,
-        "version": "12.3"
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-rodin-Gapps-20260609-1552.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/rodin/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-rodin-Gapps-20260609-1552.zip/download",
+        "timestamp": 1781031145,
+        "md5": "d9405932aa280daf0e8e5ef3a931cba1",
+        "size": 3502534960,
+        "version": "12.4"
     }
   ]
 }
