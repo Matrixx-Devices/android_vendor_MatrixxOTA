@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Kaveer X Sreeshankar",
+        "maintainer": "Kaveer",
         "support_group": "https://t.me/KaveerRomFactorySupport",
         "oem": "OnePlus",
         "device": "avicii",
         "device_name": "OnePlus Nord",
-        "filename": "Matrixx-v12.3-Binary-OFFICIAL-avicii-Gapps-20260519-1528.zip",
-        "download": "https://get.projectmatrixx.com/folder/avicii/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-avicii-Gapps-20260519-1528.zip",
-        "timestamp": 1779204264,
-        "md5": "8e85a57d386887355b91d0d2217dcae5",
-        "size": 2809292718,
-        "version": "12.3"
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-avicii-Gapps-20260611-1036.zip",
+        "download": "https://get.projectmatrixx.com/folder/avicii/12.x/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-avicii-Gapps-20260611-1036.zip",
+        "timestamp": 1781174196,
+        "md5": "02c4f073843077ca95ea382b4389a2f0",
+        "size": 2999407706,
+        "version": "12.4"
     }
   ]
 }
