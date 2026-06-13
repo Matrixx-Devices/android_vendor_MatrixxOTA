@@ -1,17 +1,18 @@
 {
-  "response":[
+  "response": [
     {
-      "maintainer":"AFIF",
-      "support_group":"https://t.me/dsidesupport",
-      "oem":"xiaomi",
-      "device":"miatoll",
-      "device_name":"Redmi note 9s/pro/pro max/10 lite/poco m2 pro",
-      "filename":"Matrixx-v11.6.0-Official-miatoll-Gapps-202506201958.zip",
-      "download":"https://sourceforge.net/projects/projectmatrixx/files/Android-15/miatoll",
-      "timestamp":1750449507,
-      "md5":"e23c47999efab5c9eaa4468fccf19daa",
-      "size":2514658217,
-      "version":"11.6.0"
+        "maintainer": "スレシャド",
+        "support_group": "https://t.me/romsbysreechat",
+        "oem": "xiaomi",
+        "device": "miatoll",
+        "device_name": "Redmi note 9s/pro/pro max/10 lite/poco m2 pro",
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-miatoll-Gapps-20260613-1401.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-miatoll-Gapps-20260613-1401.zip",
+        "timestamp": 1781359179,
+        "md5": "0dac997dd5ec7f852fdd4400ea2e5e33",
+        "size": 3011404081,
+        "version": "12.4"
     }
   ]
 }
+
