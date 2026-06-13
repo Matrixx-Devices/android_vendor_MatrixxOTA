@@ -1,3 +1,17 @@
+# 13-June-2026
+- Latest HOS3 global Firmware is added in rom if you face network issue flash latest regional firmware from download page
+- latest orange fox is compulsory to be used available on download page
+- Check install_docs for kernelsu 
+- bring back dolby vision
+- Update common blobs from diting OS3.0.4.0.VLFMIXM
+- Introduce double tap on fingerprint sensor gesture
+- Switch to stock fp hal
+- update device blobs from OS3.0.4.0.VMRMIXM
+- Parts: Complete rewrite in Jetpack Compose
+- parts: Introduce per-app aux camera access controls
+- Refactor thermal settings fragments
+- Switch back to Qti powehal(more balanced battery backup and performance)
+
 # 23-May-2026
 - Latest HOS3 global Firmware is added in rom if you face network issue flash latest regional firmware from download page
 - latest orange fox is compulsory to be used available on download page instructions section
