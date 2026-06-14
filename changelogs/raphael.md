@@ -1,3 +1,11 @@
+# 24-June-2026
+- Syned with latest source.
+- Updated powerhint.
+- Added dolby effects and spatial audio.
+- Livedisplay: Change dc_enable to dc_dim.
+- Inclueded bcr 3.1.
+- Other Misc related changes.
+
 # 22-May-2026
 - Syned with latest source.
 - fixed broken smart pixel.
