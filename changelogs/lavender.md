@@ -1,3 +1,12 @@
+# 17-june-2026
+- Synced with latest source changes.
+- Disable system level blur.
+- Implemented kernelsu-next patches in the kernel.
+- tuned powerhint for smooth experience.
+- improved animations.
+- define reserved partition path.
+- other misc changes.
+
 # 26-May-2026
 - Synced with latest source changes.
 - various performance and smoothness related tunings.
