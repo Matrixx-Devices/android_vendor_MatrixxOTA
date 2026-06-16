@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "lavender",
         "device_name": "Redmi Note 7/7s",
-        "filename": "Matrixx-v12.3-Binary-OFFICIAL-lavender-Gapps-20260525-1820.zip",
-        "download": "https://get.projectmatrixx.com/folder/lavender/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-lavender-Gapps-20260525-1820.zip",
-        "timestamp": 1779713424,
-        "md5": "fb0aa7076384064d2f6194d0a4f48d38",
-        "size": 2493731421,
-        "version": "12.3"
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-lavender-Gapps-20260616-2005.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/lavender/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-lavender-Gapps-20260616-2005.zip",
+        "timestamp": 1781620432,
+        "md5": "812e55020acc76d1aabac665d5a7c30b",
+        "size": 2577100144,
+        "version": "12.4"
     }
   ]
 }
