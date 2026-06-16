@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "SharmagRit",
+        "support_group": "https://t.me/onyx_chats",
+        "oem": "Xiaomi",
+        "device": "onyx",
+        "device_name": "Poco F7/Redmi Turbo 4 Pro",
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-onyx-Vanilla-20260616-1241.zip",
+        "download": "https://get.projectmatrixx.com/folder/onyx/12.x/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-onyx-Vanilla-20260616-1241.zip",
+        "timestamp": 1781613593,
+        "md5": "8936a75d36975c00c905da8b13e3d2ba",
+        "size": 3939811358,
+        "version": "12.4"
+    }
+  ]
+}
