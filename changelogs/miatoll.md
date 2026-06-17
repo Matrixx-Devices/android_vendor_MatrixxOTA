@@ -1,4 +1,4 @@
-# 13-june-2026
+# 17-june-2026
 - Initial Matrixx A16 Release
 - Leica Camera And Torch Strength Added
 # 21-june-2025
