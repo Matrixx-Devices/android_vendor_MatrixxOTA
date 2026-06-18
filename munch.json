@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Mrick343",
-        "support_group": "https://t.me/mrickdiscussion",
+        "maintainer": "LordPutin",
+        "support_group": "https://t.me/munchaosp",
         "oem": "Xiaomi",
         "device": "munch",
-        "device_name": "",
-        "filename": "Matrixx-v12.3-Binary-OFFICIAL-munch-Gapps-20260517-0658.zip",
-        "download": "https://get.projectmatrixx.com/folder/munch/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-munch-Gapps-20260517-0658.zip",
-        "timestamp": 1779001033,
-        "md5": "c4556f95451861c286530ac2e4cf74da",
-        "size": 2648044135,
-        "version": "12.3"
+        "device_name": "Poco F4/Redmi K40S",
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-munch-Gapps-20260617-1331.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/munch/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-munch-Gapps-20260617-1331.zip/download",
+        "timestamp": 1781766000,
+        "md5": "de5087b64ca27d68b22be49c2aa9ebe2",
+        "size": 2810665499,
+        "version": "12.4"
     }
   ]
 }
