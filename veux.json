@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "veux",
         "device_name": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
-        "filename": "Matrixx-v12.3-Binary-OFFICIAL-veux-Gapps-20260527-1643.zip",
-        "download": "https://get.projectmatrixx.com/folder/veux/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-veux-Gapps-20260527-1643.zip",
-        "timestamp": 1779900174,
-        "md5": "af3df167dc3b33b23d6cc89ccd752233",
-        "size": 2530236818,
-        "version": "12.3"
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-veux-Gapps-20260617-0959.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/veux/Matrixx-v12.4-Catalyst-OFFICIAL-veux-Gapps-20260617-0959.zip/download",
+        "timestamp": 1781690372,
+        "md5": "d3ffac54b8e7095fa3c3f1f801dfa13a",
+        "size": 2561907545,
+        "version": "12.4"
     }
   ]
 }
