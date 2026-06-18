@@ -1,3 +1,17 @@
+# 18 June 2026
+- unset camera.disable_zsl_mode
+- Disable kpti
+- Enable secure NFC functionality
+- Tone down CamX and CHIUSECASE logging
+- Disable continuous transaction tracing on all build types
+- Disable RescueParty
+- Add lmkd properties to improve responsiveness
+- enable aux cameras and add HAL1 fallback for problematic apps
+- Update camera configuration
+- enable WhatsApp rear camera compatibility
+- Miscellaneous Improvements
+- Synced with latest source changes.
+
 # 27 May 2026
 - Switched to a better powerhint
 - Switched to Lineage SM8350 kernel with veux changes
