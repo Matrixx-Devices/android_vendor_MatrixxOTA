@@ -6,12 +6,12 @@
         "oem": "OnePlus",
         "device": "salami",
         "device_name": "",
-        "filename": "Matrixx-v12.3-Binary-OFFICIAL-salami-Gapps-20260517-1007.zip",
-        "download": "https://get.projectmatrixx.com/folder/salami/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-salami-Gapps-20260517-1007.zip",
-        "timestamp": 1779026794,
-        "md5": "b30dfa7baf0ba147f12c55f51d290c88",
-        "size": 3310929835,
-        "version": "12.3"
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-salami-Gapps-20260617-1629.zip",
+        "download": "https://get.projectmatrixx.com/folder/salami/12.x/12.4/Matrixx-v12.4-Catalyst-OFFICIAL-salami-Gapps-20260617-1629.zip",
+        "timestamp": 1781728137,
+        "md5": "43ce6bd55e0aa3dd8a64a53ebf76f038",
+        "size": 3468000368,
+        "version": "12.4"
     }
   ]
 }
