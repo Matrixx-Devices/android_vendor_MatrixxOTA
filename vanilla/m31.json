@@ -6,12 +6,12 @@
         "oem": "samsung",
         "device": "m31",
         "device_name": "Samsung Galaxy M31",
-        "filename": "Matrixx-v12.3-Binary-OFFICIAL-m31-Vanilla-20260517-1428.zip",
-        "download": "https://get.projectmatrixx.com/folder/m31/12.x/12.3/Matrixx-v12.3-Binary-OFFICIAL-m31-Vanilla-20260517-1428.zip",
+        "filename": "Matrixx-v12.4-Binary-OFFICIAL-m31-Vanilla-20260517-1428.zip",
+        "download": "https://get.projectmatrixx.com/folder/m31/12.x/12.4/Matrixx-v12.4-Binary-OFFICIAL-m31-Vanilla-20260517-1428.zip",
         "timestamp": 1779028115,
         "md5": "b92e9a88e9b4022044e2084e280377ee",
         "size": 1417525141,
-        "version": "12.3"
+        "version": "12.4"
     }
   ]
 }
