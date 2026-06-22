@@ -1,7 +1,7 @@
 {
   "response": [
     {
-        "maintainer": ["darkphnx" ,"Roxor007"],
+        "maintainer": "Esma3iL Magdey",
         "support_group":"https://t.me/drkphnxsp",
         "oem": "Xiaomi",
         "device": "alioth",
@@ -10,8 +10,8 @@
         "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/alioth/Matrixx-v12.1.0-OFFICIAL-alioth-Gapps-20251125-1103.zip/download",
         "timestamp": 1764068595,
         "md5": "eed733f70b72749ae468db34a6c08810",
-        "size": 2495482269,
-        "version": "12.1.0"
+        "size": 2495482279,
+        "version": "12.4"
     }
   ]
 }
