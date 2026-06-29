@@ -1,7 +1,7 @@
 **Before start flashing.....**
 - Backup all your data to any external source. 
 - If you are coming from oos/cos you need to use super flasher and oos/cos on both slots.
-- Get images for here (https://sourceforge.net/projects/projectmatrixx/files/Android-16/giulia/images/)
+- Get images for here (https://sourceforge.net/projects/projectmatrixx/files/Android-16/giuliac/images/)
 
 **Clean Flash:**
 1. Download The boot,init_boot,vendor_boot and recovery.img (super_empty for ace 5 users)

@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "whyred_404",
-        "support_group":"https://t.me/project_bd_support",
+        "maintainer": "ZeroSquared",
+        "support_group": "https://t.me/z2stuffs",
         "oem": "OnePlus",
         "device": "giulia",
-        "device_name": "OnePlus 13R/Ace 5",
-        "filename": "Matrixx-v11.8.0-Official-giulia-Gapps-202509240421.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/giulia/Matrixx-v11.8.0-Official-giulia-Gapps-202509240421.zip/download",
-        "timestamp": 1758687612,
-        "md5": "21c63669da003a4e8b250c6d0e2ac17b",
-        "size": 3638197177,
-        "version": "11.8.0"
+        "device_name": "OnePlus 13R",
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-giulia-Gapps-20260627-2104.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/giulia/Matrixx-v12.4-Catalyst-OFFICIAL-giulia-Gapps-20260627-2104.zip/download",
+        "timestamp": 1782565329,
+        "md5": "37b573ee2862979a41f87c8a39d68bdd",
+        "size": 4392237650,
+        "version": "12.4"
     }
   ]
 }

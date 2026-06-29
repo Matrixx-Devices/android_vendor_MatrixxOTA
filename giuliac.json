@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "ZeroSquared",
+        "support_group": "https://t.me/z2stuffs",
+        "oem": "OnePlus",
+        "device": "giuliac",
+        "device_name": "OnePlus Ace 5",
+        "filename": "Matrixx-v12.4-Catalyst-OFFICIAL-giuliac-Gapps-20260627-2341.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/giuliac/Matrixx-v12.4-Catalyst-OFFICIAL-giuliac-Gapps-20260627-2341.zip/download",
+        "timestamp": 1782574743,
+        "md5": "f88e0d8a776ab52036521de79bae9845",
+        "size": 4420349019,
+        "version": "12.4"
+    }
+  ]
+}
