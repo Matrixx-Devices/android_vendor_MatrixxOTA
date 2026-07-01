@@ -1,3 +1,5 @@
+# 01-july-2026
+- Addressed reported freezing issues
 # 17-june-2026
 - Initial Matrixx A16 Release
 - Leica Camera And Torch Strength Added
